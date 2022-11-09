@@ -1,3 +1,4 @@
+league;time;date;city;title;full;venue;ven_id;score;lat;long;t1;t2;t3;t4;low;med;high;name;xname
 league,time,date,city,title,full,venue,ven_id,score,lat,long,t1,t2,t3,t4,low,med,high,name,xname
 nfl,07:20 pm,2022-12-04,Arlington, TX,Colts at Cowboys,Indianapolis Colts at Dallas Cowboys,AT&T Stadium,  4965,0.983,32.7473, -97.0945,Dallas Cowboys,Indianapolis Colts,NA,NA, 40, 381, 4076,NFL,NFL Football
 nfl,05:20 pm,2022-12-18,Las Vegas, NV,Patriots at Raiders,New England Patriots at Las Vegas Raiders,Allegiant Stadium,514837,0.982,36.0909,-115.1830,Las Vegas Raiders,New England Patriots,NA,NA,300, 639, 5376,NFL,NFL Football
