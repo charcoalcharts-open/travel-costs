@@ -1,0 +1,268 @@
+id|lat|long|name|price|pfilt|tfilt|lfilt
+5648516|36.16868|-115.13673|Downtowner Boutique Hotel| 255|TRUE|FALSE|FALSE
+5648516|36.15931|-115.14786|OYO Gateway Motel Las Vegas North Strip Fremont St Area| 239|TRUE|FALSE|FALSE
+5648516|36.15583|-115.14943|Thunderbird Boutique Hotel| 256|TRUE|FALSE|FALSE
+5648516|36.14699|-115.15618|The Strat Hotel, Casino And Skypod| 249|TRUE|FALSE|FALSE
+5648516|36.20351|-115.11874|Studio 6 North Las Vegas, NV| 271|TRUE|FALSE|FALSE
+5648516|36.13636|-115.16225|Circus Circus Hotel, Casino & Theme Park| 286|TRUE|FALSE|FALSE
+5648516|36.13229|-115.15766|Las Vegas Marriott| 883|FALSE|FALSE|TRUE
+5648516|36.12368|-115.16991|The Palazzo Prestige Club Lounge| 994|FALSE|FALSE|TRUE
+5648516|36.12212|-115.17126|The Venetian Prestige Club Lounge| 854|FALSE|FALSE|TRUE
+5648516|36.11812|-115.16373|Holiday Inn Club Vacations at Desert Club Resort| 839|FALSE|FALSE|TRUE
+5648516|36.13135|-115.08474|Motel 6 Las Vegas - Boulder Highway| 281|TRUE|FALSE|FALSE
+5648516|36.10840|-115.16900|Hilton Grand Vacations Club Elara Center Strip Las Vegas|1191|FALSE|FALSE|TRUE
+5648516|36.11015|-115.17516|Stay Together Suites 1bd1ba Apartment| 881|FALSE|FALSE|TRUE
+5648516|36.10912|-115.17316|The Cosmopolitan of Las Vegas| 936|FALSE|FALSE|TRUE
+5648516|36.10562|-115.18149|Homewood Suites by Hilton Las Vegas City Center| 599|FALSE|TRUE|FALSE
+5648516|36.10032|-115.16579|Howard Johnson by Wyndham Las Vegas near the Strip| 260|TRUE|TRUE|FALSE
+5648516|36.10514|-115.18126|Hilton Garden Inn Las Vegas City Center| 680|FALSE|TRUE|FALSE
+5648516|36.10023|-115.16773|OYO Hotel And Casino Las Vegas| 268|TRUE|TRUE|FALSE
+5648516|36.10032|-115.18290|TownePlace Suites by Marriott Las Vegas City Center| 650|FALSE|TRUE|FALSE
+5648516|36.09992|-115.18292|Hampton Inn Tropicana| 479|FALSE|TRUE|FALSE
+5648516|36.09767|-115.18141|Motel 6 Las Vegas, Nv – I-15 Stadium| 316|FALSE|TRUE|FALSE
+5648516|36.09091|-115.17409|Four Seasons Hotel Las Vegas|1170|FALSE|TRUE|TRUE
+5648516|36.08603|-115.18552|Residence Inn by Marriott Las Vegas South| 622|FALSE|TRUE|FALSE
+5648516|36.08510|-115.18537|Holiday Inn Express Las Vegas - South| 505|FALSE|TRUE|FALSE
+5648516|36.04403|-115.18765|Highland Inn Las Vegas| 272|TRUE|FALSE|FALSE
+5648516|36.15732|-115.33353|Red Rock Casino, Resort and Spa| 847|FALSE|FALSE|TRUE
+5648516|35.99650|-115.12680|Residence Inn by Marriott Las Vegas South/Henderson| 908|FALSE|FALSE|TRUE
+5601344|34.05135|-118.34460|Relax Inn| 250|TRUE|FALSE|FALSE
+5601344|34.05109|-118.27724|Metropolitan Inn & Suites| 275|TRUE|FALSE|FALSE
+5601344|34.07622|-118.28522|Hotel Silver Lake Los Angeles| 274|TRUE|FALSE|FALSE
+5601344|34.09816|-118.32068|Hollywood Palms Inns & Suites| 269|TRUE|FALSE|FALSE
+5601344|34.09813|-118.30832|Hollywood Stars Inn| 245|TRUE|FALSE|FALSE
+5601344|34.09190|-118.28300|Silver Lake Pool & Inn|1179|FALSE|FALSE|TRUE
+5601344|34.10022|-118.30932|Hollywood City Inn| 266|TRUE|FALSE|FALSE
+5601344|34.09797|-118.33659|Hollywood Guest Inn| 259|TRUE|FALSE|FALSE
+5601344|34.07289|-118.38969|Four Seasons Hotel Los Angeles at Beverly Hills|1823|FALSE|FALSE|TRUE
+5601344|34.09410|-118.37601|1 Hotel West Hollywood|1250|FALSE|FALSE|TRUE
+5601344|34.08159|-118.38693|Kimpton La Peer Hotel|1316|FALSE|FALSE|TRUE
+5601344|34.08979|-118.38539|The London West Hollywood At Beverly Hills|1340|FALSE|FALSE|TRUE
+5601344|33.98547|-118.27817|Regal Inn| 257|TRUE|FALSE|FALSE
+5601344|34.06590|-118.41100|The Peninsula Beverly Hills|1986|FALSE|FALSE|TRUE
+5601344|34.05761|-118.41567|Fairmont Century Plaza|1095|FALSE|FALSE|TRUE
+5601344|34.05606|-118.20702|Erth Inn By Aga Los Angeles| 293|TRUE|FALSE|FALSE
+5601344|34.06926|-118.44577|Luskin Hotel|1015|FALSE|FALSE|TRUE
+5601344|33.96160|-118.44510|Inn at Playa del Rey|1011|FALSE|FALSE|TRUE
+5601344|34.01720|-118.50100|Fairmont Miramar - Hotel & Bungalows| 982|FALSE|FALSE|TRUE
+5601344|33.87499|-118.22041|La Crystal Hotel| 282|TRUE|FALSE|FALSE
+5649287|39.10254| -84.51331|The Cincinnatian Hotel, Curio Collection by Hilton| 359|FALSE|TRUE|FALSE
+5649287|39.10026| -84.51251|Courtyard by Marriott Cincinnati Downtown| 430|FALSE|FALSE|TRUE
+5649287|39.10068| -84.51533|Hyatt Regency Cincinnati| 452|FALSE|FALSE|TRUE
+5649287|39.10298| -84.51346|Hampton Inn and Suites Cincinnati - Downtown| 374|FALSE|TRUE|FALSE
+5649287|39.10302| -84.51346|Homewood Suites by Hilton Cincinnati-Downtown| 391|FALSE|TRUE|FALSE
+5649287|39.10312| -84.51183|21c Museum Hotel Cincinnati| 483|FALSE|TRUE|TRUE
+5649287|39.10361| -84.51569|TownePlace Suites by Marriott Cincinnati Downtown| 424|FALSE|TRUE|TRUE
+5649287|39.10142| -84.50434|Residence Inn by Marriott Cincinnati Downtown/The Phelps| 515|FALSE|FALSE|TRUE
+5649287|39.10347| -84.52873|Quality Inn & Suites Cincinnati Downtown| 223|FALSE|TRUE|FALSE
+5649287|39.08763| -84.51879|Courtyard by Marriott Cincinnati Covington| 446|FALSE|FALSE|TRUE
+5649287|39.11765| -84.49870|Springhill Suites By Marriott Midtown Cincinnati| 435|FALSE|TRUE|TRUE
+5649287|39.12471| -84.50238|Comfort Suites Cincinnati University - Downtown| 370|FALSE|TRUE|FALSE
+5649287|39.12495| -84.50203|MainStay Suites Cincinnati University - Uptown| 333|FALSE|TRUE|FALSE
+5649287|39.13669| -84.50721|Graduate Cincinnati| 509|FALSE|TRUE|TRUE
+5649287|39.04848| -84.57079|Super 8 by Wyndham Fort Mitchell Cincinnati Area| 134|TRUE|FALSE|FALSE
+5649287|39.15901| -84.40271|The Summit Hotel| 417|FALSE|FALSE|TRUE
+5649287|39.02723| -84.61643|Red Roof Inn Cincinnati Airport Florence Erlanger| 136|TRUE|FALSE|FALSE
+5649287|39.07587| -84.65619|Marriott Cincinnati Airport| 410|FALSE|FALSE|TRUE
+5649287|39.00905| -84.63375|Days Inn by Wyndham Florence Cincinnati Area| 147|TRUE|FALSE|FALSE
+5649287|39.07161| -84.29774|Days Inn by Wyndham Cincinnati East| 118|TRUE|FALSE|FALSE
+5649287|39.26978| -84.43717|Red Roof Inn Cincinnati - Sharonville| 140|TRUE|FALSE|FALSE
+5649287|39.28183| -84.44366|HomeTowne Studios by Red Roof Cincinnati - Sharonville| 132|TRUE|FALSE|FALSE
+5649287|39.28981| -84.31763|Red Roof Inn & Suites Cincinnati North-Mason| 135|TRUE|FALSE|FALSE
+5649287|39.29141| -84.31233|Comfort Inn Northeast| 142|TRUE|FALSE|FALSE
+5649287|39.30154| -84.30321|Kings Inn Suites Cincinnati Ma| 113|TRUE|FALSE|FALSE
+5649287|39.35851| -84.26610|Baymont by Wyndham Mason| 127|TRUE|FALSE|FALSE
+5749997|39.10026| -84.51251|Courtyard by Marriott Cincinnati Downtown| 430|FALSE|FALSE|TRUE
+5749997|39.10068| -84.51533|Hyatt Regency Cincinnati| 452|FALSE|FALSE|TRUE
+5749997|39.10312| -84.51183|21c Museum Hotel Cincinnati| 483|FALSE|FALSE|TRUE
+5749997|39.10361| -84.51569|TownePlace Suites by Marriott Cincinnati Downtown| 424|FALSE|FALSE|TRUE
+5749997|39.10142| -84.50434|Residence Inn by Marriott Cincinnati Downtown/The Phelps| 515|FALSE|FALSE|TRUE
+5749997|39.08763| -84.51879|Courtyard by Marriott Cincinnati Covington| 446|FALSE|FALSE|TRUE
+5749997|39.11765| -84.49870|Springhill Suites By Marriott Midtown Cincinnati| 435|FALSE|TRUE|TRUE
+5749997|39.10001| -84.48507|Holiday Inn Express Hotel & Suites Cincinnati Se Newport, An IHG Hotel| 312|FALSE|TRUE|FALSE
+5749997|39.12471| -84.50238|Comfort Suites Cincinnati University - Downtown| 370|FALSE|TRUE|FALSE
+5749997|39.12495| -84.50203|MainStay Suites Cincinnati University - Uptown| 333|FALSE|TRUE|FALSE
+5749997|39.13669| -84.50721|Graduate Cincinnati| 509|FALSE|TRUE|TRUE
+5749997|39.14552| -84.45937|Hilton Garden Inn Cincinnati Midtown| 407|FALSE|TRUE|FALSE
+5749997|39.04848| -84.57079|Super 8 by Wyndham Fort Mitchell Cincinnati Area| 134|TRUE|FALSE|FALSE
+5749997|39.14882| -84.44249|Courtyard Cincinnati Midtown/Rookwood| 370|FALSE|TRUE|FALSE
+5749997|39.17096| -84.42430|Quality Inn & Suites| 168|FALSE|TRUE|FALSE
+5749997|39.16892| -84.41981|Motel 6 Cincinnati Central - Norwood| 165|FALSE|TRUE|FALSE
+5749997|39.15763| -84.40325|Holiday Inn Express & Suites - Cincinnati Ne - Red Bank Road, An IHG Hotel| 335|FALSE|TRUE|FALSE
+5749997|39.15901| -84.40271|The Summit Hotel| 417|FALSE|FALSE|TRUE
+5749997|39.07587| -84.65619|Marriott Cincinnati Airport| 410|FALSE|FALSE|TRUE
+5749997|39.00905| -84.63375|Days Inn by Wyndham Florence Cincinnati Area| 147|TRUE|FALSE|FALSE
+5749997|39.07161| -84.29774|Days Inn by Wyndham Cincinnati East| 118|TRUE|FALSE|FALSE
+5749997|39.06546| -84.29768|Motel Beechmont| 148|TRUE|FALSE|FALSE
+5749997|39.26978| -84.43717|Red Roof Inn Cincinnati - Sharonville| 140|TRUE|FALSE|FALSE
+5749997|39.28183| -84.44366|HomeTowne Studios by Red Roof Cincinnati - Sharonville| 132|TRUE|FALSE|FALSE
+5749997|39.28981| -84.31763|Red Roof Inn & Suites Cincinnati North-Mason| 135|TRUE|FALSE|FALSE
+5749997|39.29141| -84.31233|Comfort Inn Northeast| 142|TRUE|FALSE|FALSE
+5749997|39.30154| -84.30321|Kings Inn Suites Cincinnati Ma| 113|TRUE|FALSE|FALSE
+5749997|39.35851| -84.26610|Baymont by Wyndham Mason| 127|TRUE|FALSE|FALSE
+5744072|40.44079| -79.99694|Omni William Penn Hotel| 696|FALSE|FALSE|TRUE
+5744072|40.44163| -79.99633|Kimpton Hotel Monaco Pittsburgh| 534|FALSE|FALSE|TRUE
+5744072|40.44019| -79.99442|Doubletree by Hilton Hotel & Suites Pittsburgh Downtown| 552|FALSE|FALSE|TRUE
+5744072|40.44448| -79.99545|The Westin Pittsburgh| 762|FALSE|FALSE|TRUE
+5744072|40.44104| -80.00130|Fairmont Pittsburgh| 650|FALSE|FALSE|TRUE
+5744072|40.43960| -80.00140|The Industrialist Hotel, Pittsburgh, Autograph Collection|1161|FALSE|FALSE|TRUE
+5744072|40.44381| -80.00262|Renaissance Pittsburgh Hotel| 644|FALSE|FALSE|TRUE
+5744072|40.44042| -79.98792|Cambria Hotel Pittsburgh - Downtown| 259|FALSE|TRUE|FALSE
+5744072|40.44100| -80.00396|Etage Executive Living| 570|FALSE|FALSE|TRUE
+5744072|40.44685| -79.99244|Hampton Inn & Suites Pittsburgh-Downtown| 444|FALSE|TRUE|FALSE
+5744072|40.44690| -79.99215|Homewood Suites by Hilton Pittsburgh Downtown| 441|FALSE|TRUE|FALSE
+5744072|40.43579| -79.96271|Hampton Inn Pittsburgh University Medical Center| 396|FALSE|TRUE|FALSE
+5744072|40.43837| -79.96188|Residence Inn by Marriott Pittsburgh Oakland/University Place| 534|FALSE|TRUE|TRUE
+5744072|40.43956| -79.95950|Hilton Garden Inn Pittsburgh University Place| 476|FALSE|TRUE|FALSE
+5744072|40.42743| -79.96294|Hyatt House Pittsburgh South Side| 471|FALSE|TRUE|FALSE
+5744072|40.43096| -79.96008|Hotel Indigo Pittsburgh University - Oakland, An IHG Hotel| 397|FALSE|TRUE|FALSE
+5744072|40.42670| -79.96170|SpringHill Suites by Marriott Pittsburgh Southside Works| 444|FALSE|TRUE|FALSE
+5744072|40.44591| -79.95503|Wyndham Pittsburgh University Center| 339|FALSE|TRUE|FALSE
+5744072|40.41919| -80.02985|Days Inn by Wyndham Pittsburgh| 173|TRUE|FALSE|FALSE
+5744072|40.45187| -80.10506|Motel 6 Pittsburgh - Crafton| 115|TRUE|FALSE|FALSE
+5744072|40.45107| -80.10524|Hilltop Inn| 112|TRUE|FALSE|FALSE
+5744072|40.34544| -79.95958|Extended Stay America Suites - Pittsburgh - West Mifflin| 163|TRUE|FALSE|FALSE
+5744072|40.44843| -80.15733|Red Roof Inn Plus+ Pittsburgh South - Airport| 162|TRUE|FALSE|FALSE
+5744072|40.44757| -80.18195|Microtel Inn & Suites by Wyndham Pittsburgh Airport| 154|TRUE|FALSE|FALSE
+5744072|40.44992| -80.18412|Extended Stay America Suites - Pittsburgh - Airport| 173|TRUE|FALSE|FALSE
+5744072|40.45884| -80.18441|Motel 6 Coraopolis, Pa- Pittsburgh Airport| 137|TRUE|FALSE|FALSE
+5744072|40.53832| -79.83215|TownePlace Suites by Marriott Pittsburgh Harmarville| 637|FALSE|FALSE|TRUE
+5744072|40.43550| -79.75612|Rodeway Inn & Suites Monroeville-Pittsburgh| 163|TRUE|FALSE|FALSE
+5744072|40.50515| -80.22296|Americas Best Value Inn-Pittsburgh Airport| 150|TRUE|FALSE|FALSE
+5750657|39.95370| -75.15810|Hilton Garden Inn Philadelphia Center City| 670|FALSE|TRUE|FALSE
+5750657|39.95392| -75.15988|Home2 Suites by Hilton Philadelphia - Convention Center, PA| 701|FALSE|TRUE|FALSE
+5750657|39.94898| -75.14889|Kimpton Hotel Monaco Philadelphia| 969|FALSE|FALSE|TRUE
+5750657|39.95260| -75.16251|Residence Inn by Marriott Philadelphia Center City|1114|FALSE|TRUE|TRUE
+5750657|39.95122| -75.16406|The Ritz-Carlton Philadelphia|1428|FALSE|TRUE|TRUE
+5750657|39.94650| -75.16100|Alexander Inn| 877|FALSE|FALSE|TRUE
+5750657|39.94904| -75.16455|The Bellevue Hotel, in the Unbound Collection by Hyatt| 918|FALSE|FALSE|TRUE
+5750657|39.95772| -75.16740|Sheraton Philadelphia Downtown|1156|FALSE|TRUE|TRUE
+5750657|39.95589| -75.16786|The Windsor Suites| 781|FALSE|TRUE|FALSE
+5750657|39.95201| -75.16863|The Westin Philadelphia|1084|FALSE|TRUE|TRUE
+5750657|39.95142| -75.16845|Club Quarters Hotel in Philadelphia| 585|FALSE|TRUE|FALSE
+5750657|39.95084| -75.16882|Kimpton Hotel Palomar Philadelphia| 848|FALSE|TRUE|FALSE
+5750657|39.94919| -75.16801|Hyatt Centric Center City Philadelphia|1291|FALSE|FALSE|TRUE
+5750657|39.95311| -75.17041|Sonesta Philadelphia Rittenhouse Square| 638|FALSE|TRUE|FALSE
+5750657|39.94514| -75.14143|Hilton Philadelphia at Penn's Landing| 881|FALSE|FALSE|TRUE
+5750657|39.89547| -75.17177|Courtyard Philadelphia South at The Navy Yard| 893|FALSE|FALSE|TRUE
+5750657|39.87633| -75.11790|Red Carpet Inn Brooklawn| 206|TRUE|FALSE|FALSE
+5750657|39.91930| -75.32785|Days Inn by Wyndham Springfield/Phil.Intl Airport| 181|TRUE|FALSE|FALSE
+5750657|39.91476| -75.38026|Media Inn & Suites| 217|TRUE|FALSE|FALSE
+5750657|39.91714| -75.38168|Trolley Stop Motel, Media Pa| 192|TRUE|FALSE|FALSE
+5750657|40.08405| -75.39078|Motel 6 Philadelphia - King Of Prussia| 214|TRUE|FALSE|FALSE
+5750657|39.89227| -75.50179|Hillside Motel Glen Mills| 204|TRUE|FALSE|FALSE
+5750657|40.13401| -75.51551|Mainstay Inn| 208|TRUE|FALSE|FALSE
+5750657|39.93990| -75.58971|Quality Inn and Suites Conference Center| 191|TRUE|FALSE|FALSE
+5750657|40.12962| -74.70502|Red Roof Inn Bordentown - McGuire AFB| 185|TRUE|FALSE|FALSE
+5750657|40.05587| -75.64914|Chester hotel and Conference Center| 141|TRUE|FALSE|FALSE
+5801825|32.71180|-117.15740|Lucky D's Hostel|  97|TRUE|FALSE|FALSE
+5801825|32.71007|-117.15918|Courtyard by Marriott San Diego Gaslamp/Convention Center| 843|FALSE|FALSE|TRUE
+5801825|32.70946|-117.15957|Pendry San Diego|1517|FALSE|FALSE|TRUE
+5801825|32.70897|-117.15920|Residence Inn by Marriott San Diego Downtown/Gaslamp Quarter| 889|FALSE|FALSE|TRUE
+5801825|32.70747|-117.15973|Hard Rock Hotel San Diego| 827|FALSE|FALSE|TRUE
+5801825|32.70710|-117.15887|Omni San Diego Hotel| 900|FALSE|FALSE|TRUE
+5801825|32.71777|-117.16674|Hotel Republic San Diego, Autograph Collection| 887|FALSE|FALSE|TRUE
+5801825|32.71618|-117.16723|The Westin San Diego Bayview| 826|FALSE|FALSE|TRUE
+5801825|32.70932|-117.16518|Marriott Marquis San Diego Marina| 998|FALSE|FALSE|TRUE
+5801825|32.71652|-117.17169|Intercontinental San Diego, An IHG Hotel| 957|FALSE|FALSE|TRUE
+5801825|32.75554|-117.13742|Berkshire Motor Hotel| 381|FALSE|TRUE|FALSE
+5801825|32.76044|-117.16736|Days Inn by Wyndham San Diego Hotel Circle| 335|FALSE|TRUE|FALSE
+5801825|32.76070|-117.16636|Best Western Seven Seas| 334|FALSE|TRUE|FALSE
+5801825|32.76052|-117.16810|Courtyard by Marriott San Diego Mission Valley/Hotel Circle| 537|FALSE|TRUE|FALSE
+5801825|32.76390|-117.15661|Hilton San Diego Mission Valley| 494|FALSE|TRUE|FALSE
+5801825|32.76031|-117.18648|Motel 6 San Diego Hotel Circle Mission Valley| 226|TRUE|FALSE|FALSE
+5801825|32.68265|-117.11033|Quality Inn San Diego I-5 Naval Base| 290|TRUE|FALSE|FALSE
+5801825|32.75539|-117.20578|Motel 6 San Diego, Ca - Near Sea World| 266|TRUE|FALSE|FALSE
+5801825|32.75871|-117.20191|Ez 8 Motel Old Town| 214|TRUE|FALSE|FALSE
+5801825|32.64017|-117.09863|Motel 6 San Diego Chula Vista| 219|TRUE|FALSE|FALSE
+5801825|32.76632|-117.05956|Lamplighter Inn & Suites At Sdsu| 480|FALSE|TRUE|FALSE
+5801825|32.81224|-117.11620|Hilton Garden Inn San Diego Mission Valley/Stadium| 400|FALSE|TRUE|FALSE
+5801825|32.82393|-117.13884|TownePlace Suites by Marriott San Diego Central| 561|FALSE|TRUE|FALSE
+5801825|32.76892|-117.04343|Harvey's Motel San Diego State University Area| 260|TRUE|TRUE|FALSE
+5801825|32.82689|-117.14208|Courtyard by Marriott San Diego Central| 393|FALSE|TRUE|FALSE
+5801825|32.79914|-117.25754|Pacific Terrace Hotel| 923|FALSE|FALSE|TRUE
+5801825|32.83405|-117.17243|Motel 6 San Diego North| 203|TRUE|FALSE|FALSE
+5801825|32.83430|-117.17470|California Suites Hotel| 210|TRUE|FALSE|FALSE
+5801825|32.95082|-117.10656|La Quinta Inn by Wyndham San Diego - Miramar| 210|TRUE|FALSE|FALSE
+5770026|28.53652| -81.37872|Aloft Orlando Downtown| 988|FALSE|FALSE|TRUE
+5770026|28.54790| -81.37660|Hilton Garden Inn Orlando Downtown| 875|FALSE|TRUE|TRUE
+5770026|28.55243| -81.38322|Crowne Plaza Orlando-Downtown| 873|FALSE|TRUE|TRUE
+5770026|28.60613| -81.36614|Hilton Garden Inn Winter Park| 510|FALSE|TRUE|FALSE
+5770026|28.46261| -81.39815|Econo Lodge| 292|TRUE|FALSE|FALSE
+5770026|28.47756| -81.46450|Universal's Hard Rock Hotel|1118|FALSE|FALSE|TRUE
+5770026|28.43862| -81.40464|Stayable Suites Orlando| 237|TRUE|FALSE|FALSE
+5770026|28.46881| -81.46703|Universal's Loews Royal Pacific Resort| 998|FALSE|FALSE|TRUE
+5770026|28.43584| -81.40359|Quality Inn| 293|TRUE|FALSE|FALSE
+5770026|28.45651| -81.47255|Econo Lodge International Drive| 229|TRUE|FALSE|FALSE
+5770026|28.41019| -81.43084|JW Marriott Orlando Grande Lakes|1406|FALSE|FALSE|TRUE
+5770026|28.42734| -81.46931|Hyatt Regency Orlando| 843|FALSE|FALSE|TRUE
+5770026|28.57163| -81.20763|Hilton Garden Inn Orlando East/UCF| 409|FALSE|TRUE|FALSE
+5770026|28.57376| -81.20695|Best Western Plus Orlando East - Ucf Area| 403|FALSE|TRUE|FALSE
+5770026|28.59926| -81.21623|Hampton Inn & Suites Orlando/East UCF Area, FL| 396|FALSE|TRUE|FALSE
+5770026|28.58391| -81.20816|Homewood Suites by Hilton Orlando-UCF Area| 441|FALSE|TRUE|FALSE
+5770026|28.59693| -81.21267|Courtyard By Marriott Orlando East/Ucf Area| 471|FALSE|TRUE|FALSE
+5770026|28.59929| -81.21094|DoubleTree by Hilton Orlando East-UCF Area| 413|FALSE|TRUE|FALSE
+5770026|28.56570| -81.19830|Holiday Inn Express & Suites Orlando East-Ucf Area| 403|FALSE|TRUE|FALSE
+5770026|28.39023| -81.50530|Sonesta ES Suites Orlando - Lake Buena Vista| 295|TRUE|FALSE|FALSE
+5770026|28.37500| -81.51170|Wyndham Garden Lake Buena Vista Disney Springs Resort Area| 336|TRUE|FALSE|FALSE
+5770026|28.36019| -81.50895|Orlando World Center Marriott| 847|FALSE|FALSE|TRUE
+5770026|28.33277| -81.48895|Red Lion Hotel Orlando Lake Buena Vista South| 243|TRUE|FALSE|FALSE
+5770026|28.33163| -81.49139|Comfort Inn Kissimmee-Lake Buena Vista South| 295|TRUE|FALSE|FALSE
+5770026|28.35262| -81.53360|Waldorf Astoria Orlando|1288|FALSE|FALSE|TRUE
+5770026|28.33457| -81.51403|Motel 6 Orlando - Kissimmee Main Gate East| 164|TRUE|FALSE|FALSE
+5770026|28.33315| -81.51321|Holiday Inn Orlando Sw - Celebration Area, An IHG Hotel| 335|TRUE|FALSE|FALSE
+5795065|36.15994| -86.77696|Hilton Nashville Downtown|1214|FALSE|FALSE|TRUE
+5795065|36.16470| -86.77925|Bobby Hotel|1420|FALSE|FALSE|TRUE
+5795065|36.15922| -86.77447|Hyatt Place Nashville Downtown|1487|FALSE|FALSE|TRUE
+5795065|36.15893| -86.77388|Hyatt Centric Downtown Nashville|1585|FALSE|FALSE|TRUE
+5795065|36.15780| -86.77380|Drury Plaza Hotel Nashville Downtown|1244|FALSE|FALSE|TRUE
+5795065|36.15655| -86.77474|The Joseph, a Luxury Collection Hotel, Nashville|1513|FALSE|FALSE|TRUE
+5795065|36.15557| -86.78066|The Westin Nashville|1238|FALSE|FALSE|TRUE
+5795065|36.15360| -86.78535|W Nashville|1455|FALSE|FALSE|TRUE
+5795065|36.15148| -86.79326|Virgin Hotels Nashville|1090|FALSE|FALSE|TRUE
+5795065|36.15292| -86.79617|Residence Inn by Marriott Nashville Vanderbilt/West End| 813|FALSE|TRUE|FALSE
+5795065|36.15292| -86.79897|The Hayes Street Hotel| 761|FALSE|TRUE|FALSE
+5795065|36.15148| -86.79862|Hampton Inn Nashville/Vanderbilt| 788|FALSE|TRUE|FALSE
+5795065|36.15148| -86.79977|Graduate Nashville|1132|FALSE|TRUE|TRUE
+5795065|36.15143| -86.80220|Hyatt House Nashville At Vanderbilt| 802|FALSE|TRUE|FALSE
+5795065|36.15015| -86.80194|Loews Vanderbilt Hotel| 973|FALSE|TRUE|FALSE
+5795065|36.14924| -86.80692|Hampton Inn & Suites Nashville-Vanderbilt-Elliston Place| 659|FALSE|TRUE|FALSE
+5795065|36.14549| -86.80940|Nashville Marriott at Vanderbilt University| 581|FALSE|TRUE|FALSE
+5795065|36.14530| -86.81130|Holiday Inn Nashville - Vanderbilt - Dwtn, An IHG Hotel| 716|FALSE|TRUE|FALSE
+5795065|36.14535| -86.81413|Fairfield Inn & Suites by Marriott Nashville near Vanderbilt| 689|FALSE|TRUE|FALSE
+5795065|36.13449| -86.72340|Super 8 by Wyndham Nashville Near Downtown / I-40| 193|TRUE|FALSE|FALSE
+5795065|36.13775| -86.70058|Rodeway Inn| 152|TRUE|FALSE|FALSE
+5795065|36.12142| -86.70282|HomeTowne Studios by Red Roof Nashville - Airport/Briley Pkwy| 180|TRUE|FALSE|FALSE
+5795065|36.08841| -86.69572|Somatel Nashville Airport Hotel| 161|TRUE|FALSE|FALSE
+5795065|36.08438| -86.70119|Americas Best Value Inn-Nashville/Airport South| 197|TRUE|FALSE|FALSE
+5795065|36.15320| -86.62910|Econo Lodge| 203|TRUE|FALSE|FALSE
+5795065|36.04487| -86.66245|Quarters Inn & Suites| 179|TRUE|FALSE|FALSE
+5795065|36.32180| -86.70120|Days Inn by Wyndham Goodlettsville/Nashville| 153|TRUE|FALSE|FALSE
+5795065|36.32319| -86.70215|Red Roof Inn Plus+ Nashville North Goodlettsville| 193|TRUE|FALSE|FALSE
+5795065|36.32471| -86.70719|Motel 6 Nashville - Goodlettsville| 177|TRUE|FALSE|FALSE
+5775195|34.00160| -81.03693|Cambria Hotel Columbia Downtown, The Vista| 348|FALSE|TRUE|FALSE
+5775195|33.99848| -81.03724|Hilton Columbia Center| 392|FALSE|TRUE|TRUE
+5775195|34.00413| -81.03481|Sheraton Columbia Downtown Hotel| 373|FALSE|TRUE|TRUE
+5775195|33.99959| -81.03916|Hyatt Place Columbia/Downtown/The Vista| 331|FALSE|TRUE|FALSE
+5775195|34.00450| -81.03390|Holiday Inn Columbia - Downtown| 342|FALSE|TRUE|FALSE
+5775195|33.99930| -81.03930|Hampton Inn Columbia Downtown Historic District| 372|FALSE|TRUE|FALSE
+5775195|34.00087| -81.04000|Aloft Columbia Downtown| 437|FALSE|TRUE|TRUE
+5775195|34.00288| -81.03934|Holiday Inn Express & Suites Columbia Downtown – The Vista| 329|FALSE|TRUE|FALSE
+5775195|34.00530| -81.03472|Marriott Columbia| 413|FALSE|FALSE|TRUE
+5775195|34.00662| -81.03508|Hotel Trundle| 501|FALSE|FALSE|TRUE
+5775195|33.99309| -81.03168|Courtyard By Marriott Columbia Downtown At Usc| 420|FALSE|TRUE|TRUE
+5775195|33.99947| -81.04441|SpringHill Suites by Marriott Columbia Downtown/The Vista| 333|FALSE|TRUE|FALSE
+5775195|34.00074| -81.02499|Graduate Columbia, S.C.| 441|FALSE|FALSE|TRUE
+5775195|34.00720| -81.04930|Staybridge Suites Columbia| 384|FALSE|FALSE|TRUE
+5775195|33.98095| -81.00996|The Hangar Lofts Hotel| 394|FALSE|FALSE|TRUE
+5775195|33.98333| -81.00711|The Historic Cottage Screened Porch & Hammock| 654|FALSE|FALSE|TRUE
+5775195|34.01414| -81.07383|Extended Stay America Suites - Columbia - West - Stoneridge Dr| 128|TRUE|FALSE|FALSE
+5775195|34.06241| -81.02341|Super 8 by Wyndham Columbia| 117|TRUE|FALSE|FALSE
+5775195|34.02981| -81.10535|Days Inn by Wyndham Columbia| 122|TRUE|FALSE|FALSE
+5775195|34.02288| -80.95572|Super 8 by Wyndham Columbia SC / Ft. Jackson| 105|TRUE|FALSE|FALSE
+5775195|34.03410| -81.10850|Baymont by Wyndham Columbia Northwest|  70|TRUE|FALSE|FALSE
+5775195|34.07438| -80.99772|Days Inn by Wyndham Columbia NE Fort Jackson| 123|TRUE|FALSE|FALSE
+5775195|34.04389| -81.11922|Red Roof Inn Columbia West, SC| 129|TRUE|FALSE|FALSE
+5775195|34.07558| -80.94120|Motel 6 Columbia East| 127|TRUE|FALSE|FALSE
+5775195|34.07735| -80.94302|OYO Hotel Columbia Sc Northeast| 118|TRUE|FALSE|FALSE
+5775195|34.08331| -80.93865|Quality Inn Fort Jackson| 121|TRUE|FALSE|F
