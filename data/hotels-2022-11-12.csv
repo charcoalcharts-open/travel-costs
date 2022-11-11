@@ -1,0 +1,51 @@
+id|lat|long|name|price|pfilt|tfilt|lfilt
+5627004|35.77529|-78.63952|Raleigh Marriott City Center| 938|FALSE|FALSE|TRUE
+5627004|35.77541|-78.64034|Sheraton Raleigh Hotel| 849|FALSE|FALSE|TRUE
+5627004|35.77252|-78.64078|Residence Inn by Marriott Raleigh Downtown|1085|FALSE|FALSE|TRUE
+5627004|35.78166|-78.64786|AC Hotel By Marriott Raleigh Downtown| 730|FALSE|FALSE|TRUE
+5627004|35.78649|-78.66340|Aloft Raleigh| 825|FALSE|FALSE|TRUE
+5627004|35.76400|-78.67811|The Stateview Hotel, Autograph Collection| 791|FALSE|FALSE|TRUE
+5627004|35.78931|-78.58700|Wake Inn| 160|TRUE|FALSE|FALSE
+5627004|35.82615|-78.62647|Extended Stay America Suites - Raleigh - Midtown| 165|TRUE|FALSE|FALSE
+5627004|35.75581|-78.69932|TownePlace Suites by Marriott Raleigh-University Area| 791|FALSE|FALSE|TRUE
+5627004|35.79720|-78.57555|Budgetel Inn And Suites Raleigh Downtown East| 127|TRUE|FALSE|FALSE
+5627004|35.83673|-78.63735|Ac Hotel Raleigh North Hills| 723|FALSE|FALSE|TRUE
+5627004|35.83268|-78.58483|Super 8 by Wyndham Raleigh North East| 158|TRUE|FALSE|FALSE
+5627004|35.84143|-78.67823|Raleigh Marriott Crabtree Valley|1085|FALSE|FALSE|TRUE
+5627004|35.76436|-78.74342|Motel 6 Raleigh Southwest - Cary| 168|TRUE|FALSE|FALSE
+5627004|35.85245|-78.70116|Super 8 by Wyndham Raleigh| 168|TRUE|FALSE|FALSE
+5627004|35.86007|-78.70848|Days Inn by Wyndham Raleigh Glenwood-Crabtree| 149|TRUE|FALSE|FALSE
+5627004|35.83011|-78.76496|The Umstead Hotel and Spa|1227|FALSE|FALSE|TRUE
+5627004|35.85877|-78.81680|Quality Inn & Suites Raleigh Durham Airport| 168|TRUE|FALSE|FALSE
+5627004|35.85830|-78.81990|Days Inn by Wyndham Raleigh-Airport-Research Triangle Park| 143|TRUE|FALSE|FALSE
+5627004|35.86156|-78.81802|Microtel Inn by Wyndham Raleigh-Durham Airport| 165|TRUE|FALSE|FALSE
+5627004|35.85860|-78.82146|Extended Stay America Suites - Raleigh - Rdu Airport| 148|TRUE|FALSE|FALSE
+5761605|38.90824|-77.03339|District Hotel| 311|TRUE|FALSE|FALSE
+5761605|38.90203|-77.03641|The St. Regis Washington, D.C.|1033|FALSE|FALSE|TRUE
+5761605|38.90429|-77.02424|Residence Inn by Marriott Washington Downtown/Convention Center| 573|FALSE|TRUE|FALSE
+5761605|38.89936|-77.02810|Washington Marriott at Metro Center| 578|FALSE|TRUE|FALSE
+5761605|38.90419|-77.02415|Courtyard by Marriott Washington Downtown/Convention Center| 397|FALSE|TRUE|FALSE
+5761605|38.90126|-77.02526|Conrad Washington, DC| 949|FALSE|TRUE|TRUE
+5761605|38.89962|-77.02645|Grand Hyatt Washington| 458|FALSE|TRUE|FALSE
+5761605|38.90474|-77.04884|The Ritz-Carlton Washington DC|1309|FALSE|FALSE|TRUE
+5761605|38.89611|-77.02732|Hotel Harrington| 389|FALSE|TRUE|FALSE
+5761605|38.90277|-77.02020|AC Hotel By Marriott Washington DC Convention Center| 527|FALSE|TRUE|FALSE
+5761605|38.89710|-77.02435|Riggs Washington DC| 724|FALSE|TRUE|FALSE
+5761605|38.89998|-77.02115|Motto by Hilton Washington DC City Center| 344|FALSE|TRUE|FALSE
+5761605|38.90536|-77.05132|Park Hyatt Washington| 776|FALSE|FALSE|TRUE
+5761605|38.90577|-77.05155|Fairmont Washington D.C. Georgetown| 878|FALSE|FALSE|TRUE
+5761605|38.89981|-77.01896|Fairfield Inn & Suites by Marriott Washington, DC/Downtown| 504|FALSE|TRUE|FALSE
+5761605|38.90474|-77.06015|The Graham Georgetown| 915|FALSE|FALSE|TRUE
+5761605|38.90757|-77.00708|Global Luxury Suites at Tribeca| 735|FALSE|FALSE|TRUE
+5761605|38.88381|-77.03015|Mandarin Oriental, Washington D.C.|1260|FALSE|FALSE|TRUE
+5761605|38.87938|-77.02502|Intercontinental - Washington D.C. - The Wharf, An IHG Hotel| 736|FALSE|FALSE|TRUE
+5761605|38.91027|-76.99818|Motel 6 Washington DC - Convention Center| 221|TRUE|FALSE|FALSE
+5761605|38.91675|-76.98055|Ivy City Hotel| 269|TRUE|FALSE|FALSE
+5761605|38.86260|-77.05970|The Ritz-Carlton Pentagon City| 798|FALSE|FALSE|TRUE
+5761605|38.85496|-77.05255|Hilton Garden Inn Reagan National Airport| 311|TRUE|FALSE|FALSE
+5761605|38.84782|-77.05231|Courtyard by Marriott Arlington Crystal City/Reagan National| 311|TRUE|FALSE|FALSE
+5761605|38.97192|-77.02701|Motel 6 Washington, DC| 235|TRUE|FALSE|FALSE
+5761605|38.98323|-77.09228|Hilton Garden Inn Bethesda| 278|TRUE|FALSE|FALSE
+5761605|38.98376|-77.09420|Hyatt Regency Bethesda| 270|TRUE|FALSE|FALSE
+5761605|38.99133|-77.09583|The Bethesdan Hotel Tapestry Collection by Hilton| 305|TRUE|FALSE|FALSE
+5761605|38.88907|-76.85337|La Quinta Inn & Suites DC Metro Capitol Beltway| 199|TRUE|FALSE|FALSE
