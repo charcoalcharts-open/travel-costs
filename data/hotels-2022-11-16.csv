@@ -1,29 +1,114 @@
 id|lat|long|name|price|pfilt|tfilt|lfilt
-5776103|33.45701|-112.0742|Sonder at McKinley| 964|FALSE|TRUE|TRUE
-5776103|33.43010|-112.0665|Ez 8 Motel Airporter| 179|FALSE|TRUE|FALSE
-5776103|33.44540|-112.0302|Motel 6 Phoenix Airport - 24th Street| 271|FALSE|TRUE|FALSE
-5776103|33.47942|-112.1123|La Quinta Inn by Wyndham Phoenix Thomas Road| 158|TRUE|TRUE|FALSE
-5776103|33.48027|-112.0319|Embassy Suites by Hilton Phoenix Airport| 665|FALSE|TRUE|FALSE
-5776103|33.49379|-112.1161|Travel Inn| 160|FALSE|TRUE|FALSE
-5776103|33.49609|-112.1134|Red Roof Inn Phoenix- Midtown| 160|FALSE|TRUE|FALSE
-5776103|33.41616|-112.0078|Holiday Inn Express Hotel & Suites Phoenix-Airport, An IHG Hotel| 383|FALSE|TRUE|FALSE
-5776103|33.45130|-111.9971|Hilton Garden Inn Phoenix Airport North| 623|FALSE|TRUE|FALSE
-5776103|33.45146|-111.9873|DoubleTree Suites by Hilton Phoenix| 675|FALSE|TRUE|FALSE
-5776103|33.46579|-112.1652|HomeTowne Studios by Red Roof Phoenix West| 157|TRUE|FALSE|FALSE
-5776103|33.40360|-111.9793|Homewood Suites by Hilton Phoenix Airport South| 765|FALSE|FALSE|TRUE
-5776103|33.51830|-112.0041|The Hermosa Inn|1157|FALSE|FALSE|TRUE
-5776103|33.40440|-111.9720|Marriott Phoenix Resort Tempe at The Buttes| 827|FALSE|FALSE|TRUE
-5776103|33.40931|-111.9609|Motel 6 Phoenix Tempe - Priest, DR| 151|TRUE|FALSE|FALSE
-5776103|33.50437|-111.9690|Royal Palms Resort and Spa|1185|FALSE|FALSE|TRUE
-5776103|33.49245|-111.9277|Canopy by Hilton Scottsdale Old Town| 996|FALSE|FALSE|TRUE
-5776103|33.54038|-112.1862|Motel 6 Glendale, AZ| 146|TRUE|FALSE|FALSE
-5776103|33.58016|-112.1182|Premier Inns Metro| 151|TRUE|FALSE|FALSE
-5776103|33.54031|-111.9258|Scottsdale Plaza Resort| 731|FALSE|FALSE|TRUE
-5776103|33.60335|-112.1181|Rodeway Inn Phoenix North I-17| 145|TRUE|FALSE|FALSE
-5776103|33.30836|-111.9733|Chandler Hospitality Inn| 159|TRUE|FALSE|FALSE
-5776103|33.41497|-111.8649|American Executive Inn| 144|TRUE|FALSE|FALSE
-5776103|33.62563|-112.1135|La Quinta Inn by Wyndham Phoenix North| 154|TRUE|FALSE|FALSE
-5776103|33.64196|-112.1147|Extend-a-Suites Phoenix| 153|TRUE|FALSE|FALSE
-5776103|33.66202|-111.9560|Residence Inn by Marriott Phoenix Desert View at Mayo Clinic| 739|FALSE|FALSE|TRUE
-5776103|33.68449|-111.9707|Marriott's Canyon Villas|1169|FALSE|FALSE|TRUE
-5776103|33.70660|-112.1141|Homewood Suites by Hilton Phoenix North-Happy Valley| 723|FALSE|FALSE|TRUE
+5776757|43.03985| -87.90636|Hotel Metro, Autograph Collection| 675|FALSE|FALSE|TRUE
+5776757|43.03726| -87.90248|The Westin Milwaukee| 599|FALSE|FALSE|TRUE
+5776757|43.03893| -87.91243|Hampton Inn & Suites Milwaukee Downtown| 220|FALSE|TRUE|FALSE
+5776757|43.04194| -87.91087|Saint Kate - The Arts Hotel| 379|FALSE|TRUE|FALSE
+5776757|43.04202| -87.90098|The Dubbel Dutch| 479|FALSE|FALSE|TRUE
+5776757|43.03905| -87.91433|Fairfield Inn & Suites by Marriott Milwaukee Downtown| 272|FALSE|TRUE|FALSE
+5776757|43.03750| -87.91479|Courtyard by Marriott Milwaukee Downtown| 320|FALSE|TRUE|FALSE
+5776757|43.04123| -87.91502|Hyatt Regency Milwaukee| 269|FALSE|TRUE|FALSE
+5776757|43.03987| -87.91602|SpringHill Suites by Marriott Milwaukee Downtown| 303|FALSE|TRUE|FALSE
+5776757|43.03867| -87.91772|Hilton Milwaukee City Center| 276|FALSE|TRUE|FALSE
+5776757|43.04594| -87.91435|Aloft Milwaukee Downtown| 310|FALSE|TRUE|FALSE
+5776757|43.03867| -87.91931|DoubleTree by Hilton Milwaukee Downtown| 280|FALSE|TRUE|FALSE
+5776757|43.03850| -87.92150|Frontdesk 735 West Apts Westown Milwaukee| 177|FALSE|TRUE|FALSE
+5776757|43.02741| -87.91682|The Iron Horse Hotel| 420|FALSE|FALSE|TRUE
+5776757|43.05475| -87.91845|Days Inn & Suites by Wyndham Milwaukee| 130|TRUE|FALSE|FALSE
+5776757|43.03829| -87.95193|The Village Inn Hotel| 170|TRUE|FALSE|FALSE
+5776757|43.11652| -87.91702|Motel 6-Milwaukee, Wi - Glendale| 128|TRUE|FALSE|FALSE
+5776757|42.96457| -87.94845|Rodeway Inn & Suites Milwaukee| 165|TRUE|FALSE|FALSE
+5776757|42.95954| -87.93736|Travelodge by Wyndham Milwaukee| 129|TRUE|FALSE|FALSE
+5776757|43.04814| -88.03118|Residence Inn by Marriott Milwaukee West| 437|FALSE|FALSE|TRUE
+5776757|42.95106| -87.85010|Sheridan's Bed & Breakfast| 506|FALSE|FALSE|TRUE
+5776757|43.04539| -88.04295|SpringHill Suites by Marriott Milwaukee West/Wauwatosa| 424|FALSE|FALSE|TRUE
+5776757|43.06068| -88.04672|Renaissance Milwaukee West Hotel| 435|FALSE|FALSE|TRUE
+5776757|43.01184| -88.04823|Days Inn by Wyndham West Allis/Milwaukee| 137|TRUE|FALSE|FALSE
+5776757|42.93239| -87.92937|Country Inn & Suites by Radisson, Milwaukee Air| 157|TRUE|FALSE|FALSE
+5776757|42.93001| -87.92779|Motel 6 Oak Creek, WI| 117|TRUE|FALSE|FALSE
+5776757|43.11601| -88.05432|Quality Inn Milwaukee Route 45| 157|TRUE|FALSE|FALSE
+5776757|42.89938| -87.91650|TownePlace Suites by Marriott Milwaukee Oak Creek| 441|FALSE|FALSE|TRUE
+5776757|43.02884| -88.10976|Hilton Garden Inn Milwaukee Brookfield Conference Center, WI| 459|FALSE|FALSE|TRUE
+5776757|42.87363| -87.94230|Value Inn Motel - Milwaukee Airport South| 156|TRUE|FALSE|FALSE
+5827476|36.06438| -94.16396|In The Center Of It All !!!| 376|FALSE|TRUE|FALSE
+5827476|36.06417| -94.16451|Central Fayetteville Home - Walk to Downtown!| 652|FALSE|TRUE|TRUE
+5827476|36.06414| -94.16679|The Metro - Dtwn Fay Condo - 2 Blocks To Dickson St| 505|FALSE|TRUE|FALSE
+5827476|36.06619| -94.16706|The East View - Overlooks Downtown - Steps to Dickson| 404|FALSE|TRUE|FALSE
+5827476|36.06191| -94.16809|Fayetteville Apt by Univ of Arkansas Campus!| 533|FALSE|TRUE|FALSE
+5827476|36.05999| -94.16863|Fayetteville Retreat with Yard - Walk to Campus| 585|FALSE|TRUE|FALSE
+5827476|36.05610| -94.16593|The Birch - 1 Mi to Downtown! - Newly Built!| 539|FALSE|TRUE|FALSE
+5827476|36.05610| -94.16594|The Elm - Urban Downtown Home - South Fayetteville| 586|FALSE|TRUE|FALSE
+5827476|36.06977| -94.16893|Inn At Carnall Hall| 291|FALSE|TRUE|FALSE
+5827476|36.05066| -94.14632|The Swift - New- 2 Miles From Dt Fayetteville - Sleeps 12| 703|FALSE|FALSE|TRUE
+5827476|36.07918| -94.16392|Holly House - Half Mile from Greenway Trail - Near U of A| 809|FALSE|FALSE|TRUE
+5827476|36.05852| -94.18462|Idyllic Fayetteville Home - Walk to UA Campus| 501|FALSE|TRUE|FALSE
+5827476|36.07630| -94.18178|Rustic Fayetteville Townhome with Fireplace and 3 Decks|1046|FALSE|FALSE|TRUE
+5827476|36.08702| -94.15488|Chief Motel| 158|TRUE|FALSE|FALSE
+5827476|36.05286| -94.19289|Econo Lodge| 143|TRUE|FALSE|FALSE
+5827476|36.05308| -94.19539|Super 8 by Wyndham Fayetteville| 123|TRUE|FALSE|FALSE
+5827476|36.05598| -94.19652|Baymont by Wyndham Fayetteville| 158|TRUE|FALSE|FALSE
+5827476|36.05680| -94.19675|Regency 7 Motel| 156|TRUE|FALSE|FALSE
+5827476|36.05814| -94.19730|Days Inn by Wyndham Fayetteville| 139|TRUE|FALSE|FALSE
+5827476|36.05660| -94.19774|Extended Stay America Select Suites - Fayetteville - I-49| 154|TRUE|FALSE|FALSE
+5827476|36.10589| -94.14645|Motel 6 Fayetteville, AR| 107|TRUE|FALSE|FALSE
+5827476|36.07433| -94.21031|Fayetteville House Pool Access and Gas Grill!| 736|FALSE|FALSE|TRUE
+5827476|36.08850| -94.20929|Fayetteville Home with Hot Tub about 3 Mi to U of A| 640|FALSE|FALSE|TRUE
+5827476|36.11472| -94.14723|Sleep Inn Fayetteville North| 158|TRUE|FALSE|FALSE
+5827476|36.10952| -94.12447|Eastside Estate - Quiet, Central Neighborhood - 5 miles from U of A!| 662|FALSE|FALSE|TRUE
+5827476|36.10990| -94.20415|Spacious 3 Bedroom Gem with Lighted Patio| 815|FALSE|FALSE|TRUE
+5827476|36.11836| -94.08899|Pet-Friendly Home 7 Miles to Dickson Street!| 981|FALSE|FALSE|TRUE
+5827476|36.13420| -94.10481|Copper Creek Retreat - Hot Tub - Fenced In Yard| 724|FALSE|FALSE|TRUE
+5827476|36.16840| -94.18604|Extended Stay America Suites - Fayetteville - Springdale| 158|TRUE|FALSE|FALSE
+5859637|38.90442| -77.04016|Marriott Vacation Club Pulse, at The Mayflower, Washington, D.C.|1523|FALSE|FALSE|TRUE
+5859637|38.90845| -77.04578|The Mansion on O Street|1207|FALSE|FALSE|TRUE
+5859637|38.90126| -77.02526|Conrad Washington, DC|1600|FALSE|FALSE|TRUE
+5859637|38.89627| -77.03247|Willard Intercontinental Washington, An Ihg Hotel|1325|FALSE|FALSE|TRUE
+5859637|38.91030| -77.04881|The Baron Hotel| 230|TRUE|TRUE|FALSE
+5859637|38.90577| -77.05155|Fairmont Washington D.C. Georgetown| 990|FALSE|TRUE|FALSE
+5859637|38.90425| -77.01811|Homewood Suites Washington DC Convention Center|1099|FALSE|FALSE|TRUE
+5859637|38.89411| -77.02778|Waldorf Astoria Washington DC|1901|FALSE|FALSE|TRUE
+5859637|38.91595| -77.04645|Generator Hotel Washington DC| 111|TRUE|TRUE|FALSE
+5859637|38.91765| -77.04569|American Guest House| 504|FALSE|TRUE|FALSE
+5859637|38.90937| -77.05539|The Avery Georgetown| 971|FALSE|TRUE|FALSE
+5859637|38.89962| -77.05505|The Watergate Hotel|1276|FALSE|FALSE|TRUE
+5859637|38.90487| -77.05707|Four Seasons Washington DC|4320|FALSE|TRUE|TRUE
+5859637|38.90708| -77.06316|Georgetown Inn| 616|FALSE|TRUE|FALSE
+5859637|38.88381| -77.03015|Mandarin Oriental, Washington D.C.|1257|FALSE|FALSE|TRUE
+5859637|38.92336| -77.05433|Omni Shoreham Hotel| 551|FALSE|TRUE|FALSE
+5859637|38.87868| -77.02275|Canopy by Hilton Washington DC The Wharf|1095|FALSE|FALSE|TRUE
+5859637|38.92301| -77.07315|Glover Park Hotel Georgetown| 369|FALSE|TRUE|FALSE
+5859637|38.88041| -77.08434|Days Inn by Wyndham Arlington/Washington DC| 205|TRUE|FALSE|FALSE
+5859637|38.97192| -77.02701|Motel 6 Washington, DC| 205|TRUE|FALSE|FALSE
+5859637|38.84811| -77.08042|Hotel Pentagon| 231|TRUE|FALSE|FALSE
+5859637|38.96450| -77.08774|Courtyard by Marriott Bethesda Chevy Chase| 407|FALSE|TRUE|FALSE
+5859637|38.84982| -76.95486|Budget Inn Temple Hills| 195|TRUE|FALSE|FALSE
+5859637|38.88700| -77.16200|Econo Lodge Metro| 208|TRUE|FALSE|FALSE
+5859637|38.80320| -76.98000|Red Roof Plus+ Washington DC - Oxon Hill| 183|TRUE|FALSE|FALSE
+5859637|39.01368| -76.92818|Hampton Inn College Park| 215|TRUE|FALSE|FALSE
+5859637|38.89720| -77.43270|Wingate by Wyndham Chantilly / Dulles Airport| 226|TRUE|FALSE|FALSE
+5801837|40.24023|-111.66135|Downtown Provo Luxury Bell Tower Apartment| 306|FALSE|TRUE|FALSE
+5801837|40.24106|-111.65926|Luxury Living in Downtown Provo| 306|FALSE|TRUE|FALSE
+5801837|40.21392|-111.65932|Ramada by Wyndham Provo| 139|TRUE|FALSE|FALSE
+5801837|40.21367|-111.65646|Sleep Inn Provo near University| 129|TRUE|FALSE|FALSE
+5801837|40.25530|-111.66192|SpringHill Suites by Marriott Provo| 440|FALSE|TRUE|FALSE
+5801837|40.25567|-111.66067|Best Western Plus Provo University Inn| 197|FALSE|TRUE|FALSE
+5801837|40.25626|-111.66277|Days Inn by Wyndham Provo|  96|TRUE|TRUE|FALSE
+5801837|40.26079|-111.65220|Beautiful apartment - 13 mi to Sundance!| 446|FALSE|TRUE|FALSE
+5801837|40.26215|-111.66524|Baymont by Wyndham Provo River| 124|TRUE|TRUE|FALSE
+5801837|40.26346|-111.66212|Residence Inn by Marriott Provo| 444|FALSE|TRUE|FALSE
+5801837|40.26382|-111.64712|New! Provo Family Apartment: Walk To Byu Campus!| 452|FALSE|TRUE|FALSE
+5801837|40.26494|-111.64391|Stunning home just a short walk to the Temple|1365|FALSE|TRUE|TRUE
+5801837|40.26282|-111.70040|Perfect Family Gathering Home, Sleeps 18, Pet Friendly, 2 Living Rooms, Culdesac| 898|FALSE|FALSE|TRUE
+5801837|40.28254|-111.67499|Large Room Near Uvu & Byu| 121|TRUE|FALSE|FALSE
+5801837|40.26676|-111.70877|Spacious & New Guesthouse in Orem/Provo| 133|TRUE|FALSE|FALSE
+5801837|40.27312|-111.70572|Comfort Inn and Suites Orem - Provo| 159|TRUE|FALSE|FALSE
+5801837|40.27364|-111.70531|La Quinta Inn & Suites by Wyndham Orem University Pwy/Provo| 172|TRUE|FALSE|FALSE
+5801837|40.28811|-111.64901|Spacious, Modern Mountain Vacation Home!|1418|FALSE|FALSE|TRUE
+5801837|40.28732|-111.64127|Remodeled large home near to BYU & Sundance|1574|FALSE|FALSE|TRUE
+5801837|40.16003|-111.64985|Days Inn by Wyndham Springville| 137|TRUE|FALSE|FALSE
+5801837|40.28612|-111.74747|Within Minutes Of Byu, Provo Temples, Mtc. Uvu & Skiing|1067|FALSE|FALSE|TRUE
+5801837|40.31093|-111.72279|La Quinta Inn & Suites by Wyndham North Orem| 155|TRUE|FALSE|FALSE
+5801837|40.38668|-111.58732|Cozy 2 Bedroom W/ Loft, Walk To Ski Run, Hot Tub, Fireplace|1389|FALSE|FALSE|TRUE
+5801837|40.39179|-111.58466|Arrowhead- 3 Bedroom, Close To Resort, Backyard, Views, Comfort|1774|FALSE|FALSE|TRUE
+5801837|40.39526|-111.58715|Log Cabin On The Stream|1419|FALSE|FALSE|TRUE
+5801837|40.39438|-111.58382|Hillside Hideaway Great Family Retreat Hot Tub, Sauna, Kids Loft|1592|FALSE|FALSE|TRUE
+5801837|40.40246|-111.59777|Over The River And Through The Woods|1934|FALSE|FALSE|TRUE
