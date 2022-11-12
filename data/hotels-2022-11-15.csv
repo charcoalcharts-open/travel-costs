@@ -1,28 +1,114 @@
 id|lat|long|name|price|pfilt|tfilt|lfilt
-5739730|26.15709|-80.29343|Luxury 4 Bedroom Villa With Pool!|1145|FALSE|TRUE|TRUE
-5739730|26.15643|-80.27832|Beautiful home pool near Sawgrass Mills Mall| 692|FALSE|TRUE|TRUE
-5739730|26.19440|-80.29150|Hampton Inn & Suites Ft. Lauderdale/West-Sawgrass/Tamarac, Fl| 328|FALSE|TRUE|FALSE
-5739730|26.15009|-80.31910|AC Hotel By Marriott Fort Lauderdale Sawgrass Mills/Sunrise| 375|FALSE|TRUE|FALSE
-5739730|26.19414|-80.26129|Comfort Suites Sawgrass| 231|FALSE|TRUE|FALSE
-5739730|26.14541|-80.25743|Holiday Inn Express Hotel & Suites Ft. Lauderdale-Plantation, An IHG Hotel| 298|FALSE|TRUE|FALSE
-5739730|26.15165|-80.33092|Sawgrass| 269|FALSE|TRUE|FALSE
-5739730|26.12074|-80.26266|Hyatt Place Ft. Lauderdale Plantation| 325|FALSE|TRUE|FALSE
-5739730|26.12398|-80.33131|La Quinta Inn & Suites by Wyndham Sunrise| 202|FALSE|TRUE|FALSE
-5739730|26.12398|-80.33132|La Quinta Inn & Suites by Wyndham Sunrise Sawgrass Mills| 193|FALSE|TRUE|FALSE
-5739730|26.18918|-80.20276|Plaza Hotel Fort Lauderdale| 140|TRUE|FALSE|FALSE
-5739730|26.18633|-80.20002|La Quinta Inn by Wyndham Ft. Lauderdale Tamarac East| 164|TRUE|FALSE|FALSE
-5739730|26.11881|-80.14184|Hyatt Centric Las Olas Fort Lauderdale| 961|FALSE|FALSE|TRUE
-5739730|26.12498|-80.13787|The Dalmar, Fort Lauderdale, a Tribute Portfolio Hotel| 867|FALSE|FALSE|TRUE
-5739730|26.13851|-80.12039|The Link Hotel on Sunrise| 136|TRUE|FALSE|FALSE
-5739730|26.06245|-80.16176|Le Méridien Dania Beach at Fort Lauderdale Airport| 654|FALSE|FALSE|TRUE
-5739730|26.17373|-80.09972|Royal Beach Palace| 153|TRUE|FALSE|FALSE
-5739730|26.13221|-80.10334|Sea Club Resort| 141|TRUE|FALSE|FALSE
-5739730|26.17811|-80.09889|Ocean Beach Palace Hotel and Suites| 160|TRUE|FALSE|FALSE
-5739730|26.17852|-80.09877|Ocean Beach Club Hotel| 145|TRUE|FALSE|FALSE
-5739730|26.12307|-80.10418|The Ritz-Carlton Fort Lauderdale|1232|FALSE|FALSE|TRUE
-5739730|26.18792|-80.09544|Ocean Treasure Beachside Suites| 744|FALSE|FALSE|TRUE
-5739730|26.05280|-80.13018|Motel 6 Dania Beach| 163|TRUE|FALSE|FALSE
-5739730|26.03415|-80.14552|Sheridan Hostel|  69|TRUE|FALSE|FALSE
-5739730|26.02721|-80.11541|Hollywood Beach Marriott| 663|FALSE|FALSE|TRUE
-5739730|26.02370|-80.11584|Ocean Villas| 149|TRUE|FALSE|FALSE
-5739730|26.01881|-80.11705|Margaritaville Hollywood Beach Resort| 855|FALSE|FALSE|TRU
+5775857|38.58018|-121.49376|The Citizen Hotel, Autograph Collection| 633|FALSE|FALSE|TRUE
+5775857|38.57951|-121.49849|Hyatt Centric Sacramento Downtown| 741|FALSE|FALSE|TRUE
+5775857|38.57950|-121.49029|Sheraton Grand Sacramento Hotel|1251|FALSE|FALSE|TRUE
+5775857|38.58205|-121.50002|Kimpton Sawyer Hotel|1035|FALSE|FALSE|TRUE
+5775857|38.57648|-121.48716|Residence Inn by Marriott Sacramento Downtown at Capitol Park| 810|FALSE|FALSE|TRUE
+5775857|38.57987|-121.50675|Embassy Suites by Hilton Sacramento Riverfront Promenade| 741|FALSE|FALSE|TRUE
+5775857|38.56950|-121.50410|Inn at Parkside| 729|FALSE|FALSE|TRUE
+5775857|38.57034|-121.47097|The Fort Sutter Sacramento Tapestry Collection by Hilton| 620|FALSE|FALSE|TRUE
+5775857|38.56940|-121.46800|Red Lion Inn & Suites - Sacramento Midtown| 115|TRUE|FALSE|FALSE
+5775857|38.60933|-121.45854|Whole Family - Barrette (Front)|  46|TRUE|FALSE|FALSE
+5775857|38.60929|-121.45846|Whole Family - Barrette|  54|TRUE|FALSE|FALSE
+5775857|38.55251|-121.45441|Courtyard by Marriott Sacramento Midtown| 608|FALSE|FALSE|TRUE
+5775857|38.54062|-121.46608|Whole Family - Wholestyl|  44|TRUE|FALSE|FALSE
+5775857|38.53706|-121.51399|The Westin Sacramento| 677|FALSE|FALSE|TRUE
+5775857|38.54140|-121.45200|Whole Family - Wholeville|  45|TRUE|TRUE|FALSE
+5775857|38.55176|-121.42531|Hampton Inn & Suites Sacramento at CSUS| 429|FALSE|TRUE|FALSE
+5775857|38.55458|-121.41110|Motel 6 Sacramento Central| 156|FALSE|TRUE|FALSE
+5775857|38.55130|-121.40990|Rodeway Inn Sacramento-University Area| 125|TRUE|TRUE|FALSE
+5775857|38.55066|-121.40976|Comfort Inn & Suites Sacramento - University Area| 306|FALSE|TRUE|FALSE
+5775857|38.49548|-121.44320|Super 8 by Wyndham Sacramento/Florin Rd| 225|FALSE|TRUE|FALSE
+5775857|38.55640|-121.36736|Whole Family - Rosemont|  54|TRUE|FALSE|FALSE
+5775857|38.48838|-121.41899|Whole Family - Wolfgram|  41|TRUE|TRUE|FALSE
+5775857|38.47598|-121.42213|Best Western Capital City Inn| 241|FALSE|TRUE|FALSE
+5775857|38.47525|-121.41950|Red Roof Inn Sacramento - Elk Grove| 172|FALSE|TRUE|FALSE
+5775857|38.47586|-121.41733|Motel 6 Sacramento South| 148|FALSE|TRUE|FALSE
+5775857|38.66200|-121.36279|Super 8 by Wyndham Sacramento North| 113|TRUE|FALSE|FALSE
+5775857|38.64362|-121.27150|Whole Family - Crestline|  54|TRUE|FALSE|FALSE
+5859775|39.95315| -75.14477|Lokal Hotel Old City| 708|FALSE|FALSE|TRUE
+5859775|39.94890| -75.14790|Renaissance Philadelphia Downtown Hotel| 841|FALSE|FALSE|TRUE
+5859775|39.94797| -75.16042|Frontdesk I The Cosmopolitan Apts Philadelphia| 253|TRUE|FALSE|FALSE
+5859775|39.95122| -75.16406|The Ritz-Carlton Philadelphia|1278|FALSE|FALSE|TRUE
+5859775|39.95606| -75.14266|Sonder The Edison| 254|TRUE|FALSE|FALSE
+5859775|39.95121| -75.16508|W Philadelphia| 963|FALSE|FALSE|TRUE
+5859775|39.95980| -75.16558|Sonder at Sixteen Hundred| 253|TRUE|FALSE|FALSE
+5859775|39.95772| -75.16740|Sheraton Philadelphia Downtown| 723|FALSE|FALSE|TRUE
+5859775|39.95311| -75.17041|Sonesta Philadelphia Rittenhouse Square| 454|FALSE|TRUE|FALSE
+5859775|39.94112| -75.15112|Sonder The Queen| 225|TRUE|FALSE|FALSE
+5859775|39.95181| -75.17150|Roost Rittenhouse| 608|FALSE|TRUE|FALSE
+5859775|39.95300| -75.17200|Motto by Hilton Philadelphia Rittenhouse Square| 469|FALSE|TRUE|FALSE
+5859775|39.96127| -75.17087|Sonder The Tidewater| 257|TRUE|FALSE|FALSE
+5859775|39.94994| -75.17293|The Rittenhouse Hotel|1717|FALSE|TRUE|TRUE
+5859775|39.96450| -75.17539|The Maj Hotel| 402|FALSE|TRUE|FALSE
+5859775|39.95175| -75.18304|Aka University City|1191|FALSE|TRUE|TRUE
+5859775|39.95435| -75.18971|The Study at University City| 627|FALSE|TRUE|FALSE
+5859775|39.96137| -75.18999|Cornerstone Bed & Breakfast| 529|FALSE|TRUE|FALSE
+5859775|39.95466| -75.19443|Sheraton Philadelphia University City Hotel| 579|FALSE|TRUE|FALSE
+5859775|39.95387| -75.19574|The Inn at Penn, a Hilton Hotel| 578|FALSE|TRUE|FALSE
+5859775|39.89547| -75.17177|Courtyard Philadelphia South at The Navy Yard| 850|FALSE|FALSE|TRUE
+5859775|40.00353| -75.22153|Philly Inn & Suites| 241|TRUE|FALSE|FALSE
+5859775|39.89595| -75.23717|Residence Inn by Marriott Philadelphia Airport| 737|FALSE|FALSE|TRUE
+5859775|39.87808| -75.24538|Philadelphia Airport Marriott| 999|FALSE|FALSE|TRUE
+5859775|39.87246| -75.27912|Motel 6 Lester, Pa - Philadelphia Airport| 169|TRUE|FALSE|FALSE
+5859775|39.91891| -75.32853|Parkway Inn Springfield| 153|TRUE|FALSE|FALSE
+5859775|39.86689| -75.30351|Wyndham Garden Philadelphia Airport| 164|TRUE|FALSE|FALSE
+5859775|40.02230| -75.73860|The Buck School Inn| 187|TRUE|FALSE|FALSE
+5751158|34.36424| -89.51886|Chancellor's House Hotel| 313|TRUE|FALSE|FALSE
+5751158|34.36433| -89.52140|Charming Carriage apartment blocks from Oxford's Historic Square & Ole Miss|1639|FALSE|FALSE|TRUE
+5751158|34.36943| -89.51809|Graduate Oxford| 272|TRUE|FALSE|FALSE
+5751158|34.36835| -89.52491|Walk To Everything - Southern Charm In Downtown Oxford|2441|FALSE|FALSE|TRUE
+5751158|34.36694| -89.52931|The Inn at Ole Miss| 191|TRUE|FALSE|FALSE
+5751158|34.35714| -89.51774|Ole Miss Rental Walking Distance to Stadium, Grove & Square|2198|FALSE|FALSE|TRUE
+5751158|34.35699| -89.52151|1 Mile From The Square! Short Walk To Campus. 2 Br 1 Ba, Great For Football Szn!|1852|FALSE|FALSE|TRUE
+5751158|34.35333| -89.52174|La Quinta Inn & Suites by Wyndham Oxford| 247|TRUE|FALSE|FALSE
+5751158|34.37106| -89.49867|TownePlace Suites by Marriott Oxford| 260|TRUE|FALSE|FALSE
+5751158|34.37257| -89.49880|Tru by Hilton Oxford| 299|TRUE|FALSE|FALSE
+5751158|34.35467| -89.49469|Perfect place for big groups and families! Short distance to campus and square.|1832|FALSE|FALSE|TRUE
+5751158|34.35395| -89.54442|Oxford Town-Close to Campus and Walking Trails| 271|TRUE|FALSE|FALSE
+5751158|34.33967| -89.52093|Condo at The Mill in Oxford MS|1364|FALSE|TRUE|FALSE
+5751158|34.33959| -89.52095|NEW 3 BDR Luxury Townhome in Oxford - 5 Minutes to the Square and the University| 998|FALSE|TRUE|FALSE
+5751158|34.33889| -89.52178|3 Bdr & 3.5 Baths In Condo On S. Lamar Minutes From The Square And Ole Miss!|1610|FALSE|TRUE|FALSE
+5751158|34.33895| -89.52462|Best Hotty Toddy Vacation|1040|FALSE|TRUE|FALSE
+5751158|34.36451| -89.55549|Quality Inn & Suites| 165|TRUE|FALSE|FALSE
+5751158|34.34183| -89.54306|Oxford Condo 2 Bd 2 Ba Long Term Rental| 462|FALSE|TRUE|FALSE
+5751158|34.36430| -89.55812|Hampton Inn Oxford-West| 214|TRUE|FALSE|FALSE
+5751158|34.33892| -89.54344|Cheerful 3 bedroom townhome, minutes from campus!|1361|FALSE|TRUE|FALSE
+5751158|34.34114| -89.54733|Oxford Condo-Minutes from Campus and Square| 827|FALSE|TRUE|FALSE
+5751158|34.36252| -89.56212|Super 8 by Wyndham Oxford| 125|TRUE|FALSE|FALSE
+5751158|34.33175| -89.50191|Country Club Cottages with Golf/Pool/Tennis/Fitness right outside your door!|1610|FALSE|TRUE|FALSE
+5751158|34.41028| -89.51459|Perfect Weekend Retreat! 4 Miles From Ole Miss!|1612|FALSE|FALSE|TRUE
+5751158|34.36129| -89.46249|Gameday House With Backporch!|1729|FALSE|FALSE|TRUE
+5751158|34.36009| -89.57597|Country Home in the City!|2042|FALSE|FALSE|TRUE
+5751158|34.40211| -89.55942|Ole Miss Football Games/Oxford|1670|FALSE|FALSE|TRUE
+5751158|34.36755| -89.60257|5 minutes from Ole Miss; just minutes from Oxford Square|2912|FALSE|FALSE|TRUE
+5751158|34.29306| -89.51930|Weekend rental available for Ole Miss Football games| 979|FALSE|TRUE|FALSE
+5751158|34.28594| -89.51477|15 minutes to downtown Oxford| 635|FALSE|TRUE|FALSE
+5805415|43.54467| -96.73482|Historic Victorian Inn (1st/2nd Floors) 5bed 5bath|2129|FALSE|FALSE|TRUE
+5805415|43.54862| -96.72397|Hilton Garden Inn Sioux Falls Downtown| 796|FALSE|FALSE|TRUE
+5805415|43.53562| -96.72889|Historic Mckennan Park Tudor Kp1404 (2 Bed 1 Bath)| 846|FALSE|FALSE|TRUE
+5805415|43.53023| -96.72807|Historic Mckennan Park Tudor Kp1400 (2 Bed 1 Bath)| 700|FALSE|FALSE|TRUE
+5805415|43.53049| -96.72568|Beautiful Historic Mckennan Park Tudor Kp1400 (4 Bed 2 Bath)| 946|FALSE|FALSE|TRUE
+5805415|43.53236| -96.71652|Updated vintage style cottage near McKennan Park & next to Avera| 681|FALSE|FALSE|TRUE
+5805415|43.56328| -96.74511|Ramada by Wyndham Sioux Falls Airport-Waterpark & Event Ctr| 129|TRUE|FALSE|FALSE
+5805415|43.56728| -96.73493|Cozy Newly Renovated Cottage| 341|FALSE|TRUE|FALSE
+5805415|43.54666| -96.69326|Super 8 by Wyndham Sioux Falls| 138|TRUE|FALSE|FALSE
+5805415|43.56525| -96.75549|Holiday Inn Hotel & Suites Sioux Falls - Airport, An IHG Hotel| 309|FALSE|TRUE|FALSE
+5805415|43.52791| -96.76124|Centrally located, spacious, updated home with room to Entertain!| 681|FALSE|FALSE|TRUE
+5805415|43.54384| -96.77445|Ramada by Wyndham Sioux Falls| 137|TRUE|FALSE|FALSE
+5805415|43.56968| -96.76946|The Dakota| 212|FALSE|TRUE|FALSE
+5805415|43.56922| -96.77029|Baymont by Wyndham Sioux Falls West| 130|TRUE|TRUE|FALSE
+5805415|43.57188| -96.76914|AmericInn by Wyndham Sioux Falls North| 243|FALSE|TRUE|FALSE
+5805415|43.57291| -96.77012|Best Western Plus Ramkota Hotel| 235|FALSE|TRUE|FALSE
+5805415|43.51872| -96.77849|Microtel Inn & Suites by Wyndham Sioux Falls| 115|TRUE|FALSE|FALSE
+5805415|43.51490| -96.77560|Super 8 by Wyndham Sioux Falls/41st Street| 140|TRUE|FALSE|FALSE
+5805415|43.51613| -96.78305|Baymont By Wyndham Sioux Falls| 135|TRUE|FALSE|FALSE
+5805415|43.58928| -96.75579|Fairfield Inn & Suites Sioux Falls Airport| 354|FALSE|TRUE|FALSE
+5805415|43.51477| -96.78441|Days Inn by Wyndham Sioux Falls Empire| 128|TRUE|FALSE|FALSE
+5805415|43.60212| -96.71148|Days Inn by Wyndham Sioux Falls Airport| 138|TRUE|FALSE|FALSE
+5805415|43.60315| -96.71107|Econo Lodge North| 142|TRUE|FALSE|FALSE
+5805415|43.49179| -96.68731|Relaxing Neat Home|1105|FALSE|FALSE|TRUE
+5805415|43.58899| -96.79376|Northern Lights| 410|FALSE|TRUE|FALSE
+5805415|43.59430| -96.79153|4 Bedroom 3 1/2 Bathroom Townhouse In Nw Sioux Falls. Sleeps Up To 12 People| 741|FALSE|TRUE|TRUE
+5805415|43.60613| -96.76815|Quality Inn and Suites Airport North| 218|FALSE|TRUE|FALSE
+5805415|43.51541| -96.81470|City Lodge -Beautiful 10 Person Home Near the Mall| 703|FALSE|FALSE|TRUE
