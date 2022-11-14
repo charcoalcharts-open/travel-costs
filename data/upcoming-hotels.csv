@@ -1,65 +1,51 @@
-name|city|id|price|lat|long|avgPrice
-Aloft by Marriott Atlanta Downtown|Atlanta, GA|5622642|138|33.762632| -84.3896130|135.87500
-Baymont Inn and Suites by Wyndham Columbus / Near OSU|Columbus, OH|5576088| 67|40.060697| -82.9965612| 67.00000
-Buckeye Inn near OSU Medical Center, Columbus OH I-71 by OYO|Columbus, OH|5576088| 65|40.088554| -82.9844055| 65.00000
-Clarion Hotel Atlanta Airport|Atlanta, GA|5622642| 93|33.659883| -84.4354007| 93.00000
-Clarion Inn & Suites Atlanta Downtown|Atlanta, GA|5622642|115|33.749000| -84.4033700|114.50000
-Clarion Pointe Atlanta Airport College Park|Atlanta, GA|5622642| 89|33.614094| -84.4392976| 89.00000
-Columbus Grand Hotel & Banquet Center|Columbus, OH|5576088| 73|39.961176| -82.9987942| 71.00000
-Comfort Inn Atlanta Downtown South|Atlanta, GA|5622642| 98|33.733017| -84.3912930| 96.23077
-Comfort Suites|Columbus, OH|5576088|113|39.9990273|-82.9857292|113.00000
-Courtyard by Marriott Atlanta Downtown|Atlanta, GA|5622642|120|33.758203| -84.3880886|120.00000
-Courtyard by Marriott Columbus Downtown|Columbus, OH|5576088|134|39.965714| -83.0028462|128.50000
-Courtyard by Marriott Columbus OSU|Columbus, OH|5576088|686|39.974664| -83.0251883|686.00000
-Days Inn by Wyndham Columbus Airport|Columbus, OH|5576088| 87|39.987117| -82.9126717| 87.88235
-Days Inn by Wyndham Grove City Columbus South|Columbus, OH|5576088| 93|39.877045| -83.0526733| 93.00000
-Days Inn by Wyndham Hartsfield Jackson Atlanta Airport West|Atlanta, GA|5622642| 71|33.633412| -84.4917980| 71.00000
-DoubleTree by Hilton Columbus - Worthington|Columbus, OH|5576088| 75|40.113230| -83.0115000|102.00000
-Econo Lodge At Six Flags|Atlanta, GA|5622642| 87|33.773614| -84.5502810| 87.00000
-Econo Lodge Conley|Atlanta, GA|5622642| 81|33.667137| -84.3384666| 81.50000
-Econo Lodge|Atlanta, GA|5622642| 82|33.658810| -84.4335600| 82.00000
-Extended Stay America Suites Columbus Dublin|Columbus, OH|5576088| 89|39.961176| -82.9987942| 89.00000
-Fairfield Inn & Suites Atlanta Downtown|Atlanta, GA|5622642| 97|33.752870| -84.3911900| 97.00000
-Fairfield Inn & Suites by Marriott Columbus OSU|Columbus, OH|5576088|102|40.022160| -83.0270500|100.50000
-Graduate Columbus|Columbus, OH|5576088|147|39.977650| -83.0033000|163.00000
-Hampton Inn Atlanta-Georgia Tech-Downtown|Atlanta, GA|5622642|123|33.771207| -84.3957840|123.00000
-Hilton Atlanta|Atlanta, GA|5622642|142|33.761510| -84.3833000|142.00000
-Hilton Columbus Downtown|Columbus, OH|5576088|180|39.970810| -83.0017900|186.00000
-Holiday Inn Express and Suites Atlanta Downtown, an IHG Hotel|Atlanta, GA|5622642|120|33.757890| -84.3898918|117.00000
-Holiday Inn Express Atlanta Airport - College Park, an IHG Hotel|Atlanta, GA|5622642|102|33.6303826|-84.4585768|102.00000
-Holiday Inn Express Columbus - Ohio Expo Center, an IHG Hotel|Columbus, OH|5576088|116|40.0142224|-82.9914492|116.00000
-Home2 Suites by Hilton Atlanta Downtown|Atlanta, GA|5622642|134|33.756978| -84.3911353|136.50000
-HomeTowne Studios by Red Roof Columbus|Columbus, OH|5576088| 65|40.094459| -82.9875347| 72.00000
-Howard Johnson by Wyndham Atlanta Airport/College Park|Atlanta, GA|5622642| 79|33.615287| -84.4396667| 79.00000
-Hyatt House Columbus / OSU Short North|Columbus, OH|5576088|144|39.987236| -83.0225830|144.00000
-Hyatt Place Atlanta Centennial Park|Atlanta, GA|5622642|163|33.762538| -84.3959662|153.00000
-Hyatt Place Columbus/OSU|Columbus, OH|5576088|137|39.975409| -83.0261513|137.00000
-Microtel Inn by Wyndham Atlanta Airport|Atlanta, GA|5622642| 84|33.623390| -84.4553700| 84.00000
-Moxy Columbus Short North|Columbus, OH|5576088|158|39.978800| -83.0034300|158.00000
-Nobu Hotel Atlanta|Atlanta, GA|5622642|467|33.854394| -84.3634893|467.00000
-Norwood Inn & Suites North Conference Center|Columbus, OH|5576088| 84|40.086313| -82.9854068| 84.00000
-Omni Atlanta Hotel at CNN Center|Atlanta, GA|5622642|206|33.759150| -84.3949400|206.00000
-OYO Hotel Decatur I-285 The Perimeter|Atlanta, GA|5622642| 83|33.737859| -84.2358239| 83.00000
-Quality Inn Atlanta Airport - Central|Atlanta, GA|5622642| 81|33.624513| -84.4541732| 80.50000
-Quality Suites Atlanta Airport East|Atlanta, GA|5622642| 83|33.613005| -84.4013961| 83.00000
-Ramada by Wyndham Columbus North|Columbus, OH|5576088| 85|40.108253| -82.9519215| 85.00000
-Red Roof Inn & Suites Columbus - West Broad|Columbus, OH|5576088| 81|39.953000| -83.1224500| 79.50000
-Red Roof Inn Columbus - Grove City|Columbus, OH|5576088| 78|39.880320| -83.0469000| 78.00000
-Red Roof Inn Columbus - Ohio State Fairgrounds|Columbus, OH|5576088| 69|40.086320| -82.9844900| 69.00000
-Red Roof Inn PLUS+ Columbus Downtown - Convention Center|Columbus, OH|5576088| 99|39.968576| -82.9984393| 99.00000
-Reverb by Hard Rock Atlanta Downtown|Atlanta, GA|5622642|156|33.753480| -84.3992500|156.00000
-Rodeway Inn At Six Flags|Atlanta, GA|5622642| 89|33.772132| -84.5560850| 89.00000
-Rodeway Inn|Atlanta, GA|5622642| 70|33.748995| -84.3879824| 67.98077
-Sleep Inn Atlanta Airport|Atlanta, GA|5622642| 97|33.626582| -84.4537563| 97.00000
-SpringHill Suites by Marriott Atlanta Downtown|Atlanta, GA|5622642|135|33.764975| -84.3950221|135.00000
-SpringHill Suites Columbus OSU|Columbus, OH|5576088|142|39.988907| -83.0263752|137.00000
-Super 8 by Wyndham Columbus West|Columbus, OH|5576088| 88|39.971829| -83.1514573| 88.00000
-The American Hotel Atlanta Downtown - a DoubleTree by Hilton|Atlanta, GA|5622642|141|33.759308| -84.3899184|141.00000
-The Blackwell Inn and Pfahl Conference Center|Columbus, OH|5576088|188|40.004752| -83.0167315|187.50000
-The Candler Hotel Atlanta, Curio Collection by Hilton|Atlanta, GA|5622642|229|33.756935| -84.3876751|229.00000
-The Starling Atlanta Midtown, Curio Collection by Hilton|Atlanta, GA|5622642|173|33.786977| -84.3813921|172.50000
-The Urban|Columbus, OH|5576088|142|40.007580| -83.0150900|136.50000
-The Varsity Inn|Columbus, OH|5576088| 88|39.989409| -83.0265860| 88.00000
-The Westin Peachtree Plaza, Atlanta|Atlanta, GA|5622642|179|33.759410| -84.3883600|156.00000
-Travelodge by Wyndham Grove City / So. Columbus|Columbus, OH|5576088| 88|39.879920| -83.0518692| 88.00000
-Tru by Hilton Columbus Airport|Columbus, OH|5576088|125|39.998779| -82.9325003|120.50000
+id|name|city|price|lat|long|p|t|l
+5576088|Comfort Suites|Columbus, OH|113|39.99903|-82.98573|FALSE|TRUE|FALSE
+5576088|Fairfield Inn & Suites by Marriott Columbus OSU|Columbus, OH|102|40.02216|-83.02705|FALSE|TRUE|FALSE
+5576088|HomeTowne Studios by Red Roof Columbus|Columbus, OH| 65|40.09446|-82.98753|TRUE|FALSE|FALSE
+5576088|DoubleTree by Hilton Columbus - Worthington|Columbus, OH| 75|40.11323|-83.01150|TRUE|FALSE|FALSE
+5576088|Hyatt Place Columbus/OSU|Columbus, OH|137|39.97541|-83.02615|FALSE|TRUE|TRUE
+5576088|Buckeye Inn near OSU Medical Center, Columbus OH I-71 by OYO|Columbus, OH| 65|40.08855|-82.98441|TRUE|FALSE|FALSE
+5576088|Holiday Inn Express Columbus - Ohio Expo Center, an IHG Hotel|Columbus, OH|116|40.01422|-82.99145|FALSE|TRUE|FALSE
+5576088|Hilton Columbus Downtown|Columbus, OH|180|39.97081|-83.00179|FALSE|FALSE|TRUE
+5576088|Columbus Grand Hotel & Banquet Center|Columbus, OH| 73|39.96118|-82.99879|TRUE|FALSE|FALSE
+5576088|Courtyard by Marriott Columbus Downtown|Columbus, OH|134|39.96571|-83.00285|FALSE|FALSE|TRUE
+5576088|Hyatt House Columbus / OSU Short North|Columbus, OH|144|39.98724|-83.02258|FALSE|TRUE|TRUE
+5576088|Red Roof Inn Columbus - Ohio State Fairgrounds|Columbus, OH| 69|40.08632|-82.98449|TRUE|FALSE|FALSE
+5576088|Ramada by Wyndham Columbus North|Columbus, OH| 85|40.10825|-82.95192|TRUE|FALSE|FALSE
+5576088|Baymont Inn and Suites by Wyndham Columbus / Near OSU|Columbus, OH| 67|40.06070|-82.99656|TRUE|FALSE|FALSE
+5576088|Moxy Columbus Short North|Columbus, OH|158|39.97880|-83.00343|FALSE|TRUE|TRUE
+5576088|Courtyard by Marriott Columbus OSU|Columbus, OH|686|39.97466|-83.02519|FALSE|FALSE|TRUE
+5576088|SpringHill Suites Columbus OSU|Columbus, OH|142|39.98891|-83.02638|FALSE|TRUE|TRUE
+5576088|Norwood Inn & Suites North Conference Center|Columbus, OH| 84|40.08631|-82.98541|TRUE|FALSE|FALSE
+5576088|The Blackwell Inn and Pfahl Conference Center|Columbus, OH|188|40.00475|-83.01673|FALSE|TRUE|TRUE
+5576088|Red Roof Inn & Suites Columbus - West Broad|Columbus, OH| 81|39.95300|-83.12245|TRUE|FALSE|FALSE
+5576088|Red Roof Inn Columbus - Grove City|Columbus, OH| 78|39.88032|-83.04690|TRUE|FALSE|FALSE
+5576088|The Urban|Columbus, OH|142|40.00758|-83.01509|FALSE|TRUE|TRUE
+5576088|The Varsity Inn|Columbus, OH| 88|39.98941|-83.02659|FALSE|TRUE|FALSE
+5576088|Graduate Columbus|Columbus, OH|147|39.97765|-83.00330|FALSE|FALSE|TRUE
+5622642|Aloft by Marriott Atlanta Downtown|Atlanta, GA|138|33.76263|-84.38961|FALSE|FALSE|TRUE
+5622642|Days Inn by Wyndham Hartsfield Jackson Atlanta Airport West|Atlanta, GA| 71|33.63341|-84.49180|TRUE|FALSE|FALSE
+5622642|Quality Inn Atlanta Airport - Central|Atlanta, GA| 81|33.62451|-84.45417|TRUE|FALSE|FALSE
+5622642|Clarion Inn & Suites Atlanta Downtown|Atlanta, GA|115|33.74900|-84.40337|FALSE|TRUE|FALSE
+5622642|The Starling Atlanta Midtown, Curio Collection by Hilton|Atlanta, GA|173|33.78698|-84.38139|FALSE|FALSE|TRUE
+5622642|Courtyard by Marriott Atlanta Downtown|Atlanta, GA|120|33.75820|-84.38809|FALSE|TRUE|FALSE
+5622642|Hilton Atlanta|Atlanta, GA|142|33.76151|-84.38330|FALSE|FALSE|TRUE
+5622642|Econo Lodge At Six Flags|Atlanta, GA| 87|33.77361|-84.55028|TRUE|FALSE|FALSE
+5622642|Holiday Inn Express and Suites Atlanta Downtown, an IHG Hotel|Atlanta, GA|120|33.75789|-84.38989|FALSE|TRUE|FALSE
+5622642|Fairfield Inn & Suites Atlanta Downtown|Atlanta, GA| 97|33.75287|-84.39119|FALSE|TRUE|FALSE
+5622642|Econo Lodge Conley|Atlanta, GA| 81|33.66714|-84.33847|TRUE|FALSE|FALSE
+5622642|Econo Lodge|Atlanta, GA| 82|33.65881|-84.43356|TRUE|FALSE|FALSE
+5622642|OYO Hotel Decatur I-285 The Perimeter|Atlanta, GA| 83|33.73786|-84.23582|TRUE|FALSE|FALSE
+5622642|Nobu Hotel Atlanta|Atlanta, GA|467|33.85439|-84.36349|FALSE|FALSE|TRUE
+5622642|Home2 Suites by Hilton Atlanta Downtown|Atlanta, GA|134|33.75698|-84.39114|FALSE|TRUE|FALSE
+5622642|Microtel Inn by Wyndham Atlanta Airport|Atlanta, GA| 84|33.62339|-84.45537|TRUE|FALSE|FALSE
+5622642|Howard Johnson by Wyndham Atlanta Airport/College Park|Atlanta, GA| 79|33.61529|-84.43967|TRUE|FALSE|FALSE
+5622642|The Candler Hotel Atlanta, Curio Collection by Hilton|Atlanta, GA|229|33.75693|-84.38768|FALSE|FALSE|TRUE
+5622642|Hyatt Place Atlanta Centennial Park|Atlanta, GA|163|33.76254|-84.39597|FALSE|TRUE|TRUE
+5622642|Omni Atlanta Hotel at CNN Center|Atlanta, GA|206|33.75915|-84.39494|FALSE|TRUE|TRUE
+5622642|Reverb by Hard Rock Atlanta Downtown|Atlanta, GA|156|33.75348|-84.39925|FALSE|TRUE|TRUE
+5622642|The Westin Peachtree Plaza, Atlanta|Atlanta, GA|179|33.75941|-84.38836|FALSE|FALSE|TRUE
+5622642|Rodeway Inn|Atlanta, GA| 70|33.74900|-84.38798|TRUE|FALSE|FALSE
+5622642|Quality Suites Atlanta Airport East|Atlanta, GA| 83|33.61301|-84.40140|TRUE|FALSE|FALSE
+5622642|SpringHill Suites by Marriott Atlanta Downtown|Atlanta, GA|135|33.76497|-84.39502|FALSE|TRUE|FALSE
+5622642|The American Hotel Atlanta Downtown - a DoubleTree by Hilton|Atlanta, GA|141|33.75931|-84.38992|FALSE|TRUE|TRUE
