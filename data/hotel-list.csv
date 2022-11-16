@@ -10657,8 +10657,10 @@ Courtyard by Marriott Philadelphia City Avenue|Villanova, PA|40.006839| -75.2108
 Courtyard by Marriott Richmond Downtown|Richmond, VA|37.534960| -77.4330281| 191.00000
 Courtyard by Marriott Tallahassee North/I-10 Capital Circle|Tallahassee, FL|30.500765| -84.2443925| 134.00000
 Courtyard Phoenix Downtown|Phoenix, AZ|33.446432|-112.0740552| 202.00000
-Cozy Carriage House | Walk to UNC | + Free Bikes|Greeley, CO|40.423314|-104.7091322| 294.00000
-Cozy Retreat | Walk to UNC | FREE Cruiser Bikes|Greeley, CO|40.423314|-104.7091322| 276.00000
+Cozy Carriage House | Walk to UNC |NA|NA|  40.42331
+-104.7091322| 294.00000|NA|NA|NA
+Cozy Retreat | Walk to UNC |NA|NA|  40.42331
+-104.7091322| 276.00000|NA|NA|NA
 Cresthaven Inn JFK|Elmont, NY|40.705327| -73.7822915| 178.00000
 Crystal Gateway Marriott|Washington, DC|38.858602| -77.0526630| 393.00000
 Crystal Inn Hotel & Suites Midvalley|Salt Lake City, UT|40.758877|-111.8977648| 105.00000
@@ -11428,7 +11430,7 @@ Lord Baltimore Hotel|Towson, MD|39.289641| -76.6162732|  88.00000
 Los Gatos Garden Inn Hotel|Santa Clara, CA|37.221012|-121.9803695| 124.00000
 Luxury Lodge & Spa, Cabins, Camping, Glamping & RV w Full Hook Ups - Iron Springs Adventure Resort|Cedar City, UT|NA|NA| 150.00000
 MainStay Suites Bricktown - near Medical Center|Oklahoma City, OK|35.464962| -97.5071271|  87.00000
-Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA|36.850769| -76.2858726| 424.00000
+Manor And Mutts ||NA|NA|NA
 Marriott Bethesda Downtown at Marriott HQ|College Park, MD|38.987186| -77.0959180| 345.00000
 Marriott Greensboro Airport|Greensboro, NC|36.076989| -79.9599124| 167.00000
 Marriott Indianapolis Downtown|Indianapolis, IN|39.766630| -86.1648059| 220.00000
@@ -11775,4 +11777,1638 @@ Wyndham Garden Washington DC Area|College Park, MD|38.937246| -76.9170809| 114.0
 Wyndham Garden Washington DC Area|Washington, DC|38.937246| -76.9170809| 114.00000
 Wyndham New Orleans - French Quarter|New Orleans, LA|29.953759| -90.0683546| 167.00000
 Wyndham Riverfront Little Rock|Little Rock, AR|34.754734| -92.2697448| 131.00000
-Wyndham Riverfront Little Rock|North Little Rock,
+Wyndham Riverfront Little Rock|North Little Rock,|NA|NA|NA
+|Salt Lake City, UT|40.760779|-111.8910474|  87.66667
+1 Hotel Central Park|Brooklyn, NY|40.764808| -73.9764648|1108.00000
+1 Hotel Central Park|East Rutherford, NJ|40.764808| -73.9764648|1108.00000
+11 Howard|East Rutherford, NJ|40.719181| -74.0001060| 593.00000
+21c Museum Hotel Nashville|Nashville, TN|36.165298| -86.7777243| 417.00000
+A Williamsburg White House|Williamsburg, VA|37.264975| -76.7181317| 225.00000
+AC Hotel by Marriott Columbus Dublin|Columbus, OH|40.100657| -83.1092072| 365.00000
+AC Hotel by Marriott Nashville Downtown|Nashville, TN|36.156165| -86.7752955| 432.00000
+AC Hotel by Marriott Palo Alto|Santa Clara, CA|37.417527|-122.1025729| 383.00000
+AC Hotel by Marriott Phoenix Downtown|Phoenix, AZ|33.452933|-112.0695164| 443.00000
+AC Hotel by Marriott Phoenix Downtown|Tempe, AZ|33.430859|-111.9373758| 443.00000
+AC Hotel by Marriott San Jose Santa Clara|San Jose, CA|37.385480|-121.9804432| 392.42857
+AC Hotel Raleigh North Hills|Raleigh, NC|35.838196| -78.6402601| 390.00000
+Aiden by Best Western @ Denver West/Golden|Denver, CO|39.732231|-105.1674652|  88.00000
+Alamo Inn & Suites Downtown|San Antonio, TX|33.803107|-117.9260051|  77.00000
+Aloft Cupertino|San Jose, CA|37.325185|-122.0326081| 353.00000
+Aloft Cupertino|Santa Clara, CA|37.325185|-122.0326081| 353.00000
+Aloft Detroit at The David Whitney|Detroit, MI|42.335805| -83.0505081| 351.00000
+Aloft Secaucus Meadowlands|East Rutherford, NJ|40.790520| -74.0456134| 212.00000
+AmericInn by Wyndham Boiling Springs Near Gardner Webb U|Boiling Springs, NC|35.248427| -81.6513668| 134.00000
+AmericInn by Wyndham Council Bluffs||41.239393| -95.8267305|  71.00000
+AmericInn by Wyndham Council Bluffs|Ann Arbor, MI|42.295740| -83.7468702|  71.00000
+AmericInn by Wyndham Council Bluffs|Auburn, AL|32.609857| -85.4807825|  71.00000
+AmericInn by Wyndham Council Bluffs|Austin, TX|30.433026| -97.7178738|  71.00000
+AmericInn by Wyndham Council Bluffs|Chapel Hill, NC|35.920735| -79.0666595|  71.00000
+AmericInn by Wyndham Council Bluffs|Cincinnati, OH|39.103118| -84.5120196|  71.00000
+AmericInn by Wyndham Council Bluffs|Dayton, OH|39.644626| -84.1658685|  71.00000
+AmericInn by Wyndham Council Bluffs|Durham, NC|36.080585| -78.8958348|  71.00000
+AmericInn by Wyndham Council Bluffs|Fayetteville, AR|36.062658| -94.1605839|  71.00000
+AmericInn by Wyndham Council Bluffs|Fort Worth, TX|33.008798| -97.2571141|  71.00000
+AmericInn by Wyndham Council Bluffs|Hartford, CT|41.765804| -72.6733723|  71.00000
+AmericInn by Wyndham Council Bluffs|Houston, TX|29.760427| -95.3698028|  71.00000
+AmericInn by Wyndham Council Bluffs|Indianapolis, IN|41.239393| -95.8267305|  71.00000
+AmericInn by Wyndham Council Bluffs|Knoxville, TN|35.946270| -83.8460669|  71.00000
+AmericInn by Wyndham Council Bluffs|Lawrence, KS|38.973604| -95.2595223|  71.00000
+AmericInn by Wyndham Council Bluffs|Lexington, KY|41.239393| -95.8267305|  71.00000
+AmericInn by Wyndham Council Bluffs|Spokane, WA|47.721012|-117.4371619|  71.00000
+AmericInn by Wyndham Council Bluffs|Storrs, CT|41.239393| -95.8267305|  71.00000
+AmericInn by Wyndham Council Bluffs|Tucson, AZ|32.253979|-110.9741769|  71.00000
+AmericInn by Wyndham Council Bluffs|Tuscaloosa, AL|33.209841| -87.5691735|  71.00000
+Ameristar Casino Hotel Council Bluffs||41.242323| -95.9099101| 144.00000
+Ameristar Casino Hotel Council Bluffs|Ann Arbor, MI|42.295740| -83.7468702| 144.00000
+Ameristar Casino Hotel Council Bluffs|Auburn, AL|41.261944| -95.8608333| 144.00000
+Ameristar Casino Hotel Council Bluffs|Austin, TX|30.433026| -97.7178738| 144.00000
+Ameristar Casino Hotel Council Bluffs|Chapel Hill, NC|35.920735| -79.0666595| 144.00000
+Ameristar Casino Hotel Council Bluffs|Cincinnati, OH|39.103118| -84.5120196| 144.00000
+Ameristar Casino Hotel Council Bluffs|Dayton, OH|39.644626| -84.1658685| 144.00000
+Ameristar Casino Hotel Council Bluffs|Durham, NC|36.080585| -78.8958348| 144.00000
+Ameristar Casino Hotel Council Bluffs|Fayetteville, AR|36.062658| -94.1605839| 144.00000
+Ameristar Casino Hotel Council Bluffs|Fort Worth, TX|33.008798| -97.2571141| 144.00000
+Ameristar Casino Hotel Council Bluffs|Hartford, CT|41.765804| -72.6733723| 144.00000
+Ameristar Casino Hotel Council Bluffs|Houston, TX|29.760427| -95.3698028| 144.00000
+Ameristar Casino Hotel Council Bluffs|Indianapolis, IN|39.768403| -86.1580680| 144.00000
+Ameristar Casino Hotel Council Bluffs|Knoxville, TN|35.941654| -83.9594722| 144.00000
+Ameristar Casino Hotel Council Bluffs|Lawrence, KS|38.973604| -95.2595223| 144.00000
+Ameristar Casino Hotel Council Bluffs|Lexington, KY|38.040584| -84.5037164| 144.00000
+Ameristar Casino Hotel Council Bluffs|Spokane, WA|47.721012|-117.4371619| 144.00000
+Ameristar Casino Hotel Council Bluffs|Storrs, CT|41.808431| -72.2495231| 144.00000
+Ameristar Casino Hotel Council Bluffs|Tucson, AZ|32.253979|-110.9741769| 144.00000
+Ameristar Casino Hotel Council Bluffs|Tuscaloosa, AL|33.209841| -87.5691735| 144.00000
+Arbor Inn and Suites|Lubbock, TX|33.544555|-101.9382497|  82.00000
+Astoria Delancy Inn & Suites|Brooklyn, NY|40.757189| -73.9364327| 121.00000
+Astoria Delancy Inn & Suites|Jamaica, NY|40.757189| -73.9364327| 121.00000
+Atlanta Airport Marriott Gateway|Atlanta, GA|33.644231| -84.4553054| 448.00000
+avid hotel Boston Logan Airport - Revere, an IHG Hotel|Allston, MA|42.420111| -71.0018411| 124.00000
+Avid Hotel Fort Wayne North, an IHG Hotel|Fort Wayne, IN|41.133467| -85.1650701| 100.00000
+Bally’s Shreveport Casino and Hotel|Shreveport, LA|32.517310| -93.7445337|  94.00000
+Baltic Boutique|Miami Gardens, FL|25.942038| -80.2456045| 434.00000
+Battery Wharf Hotel, Boston Waterfront|Allston, MA|42.367424| -71.0502850| 412.00000
+Battery Wharf Hotel, Boston Waterfront|Chestnut Hill, MA|42.367424| -71.0502850| 412.00000
+Baymont by Wyndham Bellevue / Omaha||41.164207| -95.9239150|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Ann Arbor, MI|42.280826| -83.7430378|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Auburn, AL|41.164207| -95.9239150|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Austin, TX|30.267153| -97.7430608|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Chapel Hill, NC|35.913200| -79.0558445|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Cincinnati, OH|39.103118| -84.5120196|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Dayton, OH|41.164207| -95.9239150|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Durham, NC|35.994033| -78.8986190|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Fayetteville, AR|41.164207| -95.9239150|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Fort Worth, TX|32.755488| -97.3307658|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Hartford, CT|41.765804| -72.6733723|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Houston, TX|29.760427| -95.3698028|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Indianapolis, IN|41.154362| -95.9145568|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Knoxville, TN|35.960638| -83.9207392|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Lawrence, KS|41.164207| -95.9239150|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Lexington, KY|41.164207| -95.9239150|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Spokane, WA|47.658780|-117.4260466|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Storrs, CT|41.808431| -72.2495231|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Tucson, AZ|41.164207| -95.9239150|  70.00000
+Baymont by Wyndham Bellevue / Omaha|Tuscaloosa, AL|33.209841| -87.5691735|  70.00000
+Berkeley City Club|Berkeley, CA|37.867488|-122.2627593| 225.00000
+Best Western Airport Inn & Suites|Orlando, FL|26.548685| -81.8067847| 129.00000
+Best Western Alamo Suites|San Antonio, TX|29.415779| -98.5015680| 111.00000
+Best Western Crossroads Of The Bluffs||41.235859| -95.8769612|  83.00000
+Best Western Crossroads Of The Bluffs|Ann Arbor, MI|42.295740| -83.7468702|  83.00000
+Best Western Crossroads Of The Bluffs|Auburn, AL|32.609857| -85.4807825|  83.00000
+Best Western Crossroads Of The Bluffs|Austin, TX|30.192579| -97.7666282|  83.00000
+Best Western Crossroads Of The Bluffs|Chapel Hill, NC|35.920735| -79.0666595|  83.00000
+Best Western Crossroads Of The Bluffs|Cincinnati, OH|39.103118| -84.5120196|  83.00000
+Best Western Crossroads Of The Bluffs|Dayton, OH|39.644626| -84.1658685|  83.00000
+Best Western Crossroads Of The Bluffs|Durham, NC|35.994033| -78.8986190|  83.00000
+Best Western Crossroads Of The Bluffs|Fayetteville, AR|36.062658| -94.1605839|  83.00000
+Best Western Crossroads Of The Bluffs|Fort Worth, TX|32.741059| -97.1795522|  83.00000
+Best Western Crossroads Of The Bluffs|Hartford, CT|41.765804| -72.6733723|  83.00000
+Best Western Crossroads Of The Bluffs|Houston, TX|29.733516| -95.5641480|  83.00000
+Best Western Crossroads Of The Bluffs|Indianapolis, IN|39.771840| -86.0318600|  83.00000
+Best Western Crossroads Of The Bluffs|Knoxville, TN|35.941935| -83.9275328|  83.00000
+Best Western Crossroads Of The Bluffs|Lawrence, KS|38.973604| -95.2595223|  83.00000
+Best Western Crossroads Of The Bluffs|Lexington, KY|38.040584| -84.5037164|  83.00000
+Best Western Crossroads Of The Bluffs|Omaha, NE|41.235859| -95.8769612|  83.00000
+Best Western Crossroads Of The Bluffs|Spokane, WA|47.721012|-117.4371619|  83.00000
+Best Western Crossroads Of The Bluffs|Storrs, CT|41.808431| -72.2495231|  83.00000
+Best Western Crossroads Of The Bluffs|Tucson, AZ|32.253979|-110.9741769|  83.00000
+Best Western Crossroads Of The Bluffs|Tuscaloosa, AL|33.209841| -87.5691735|  83.00000
+Best Western Grant Park Hotel|Chicago, IL|41.869091| -87.6246813| 165.00000
+Best Western Independence Kansas City|Kansas City, MO|39.050863| -94.3600859| 100.00000
+Best Western Ingram Park Inn|San Antonio, TX|29.459969| -98.6252171|  74.00000
+Best Western Inn|Stanford, CA|37.491214|-122.2415833| 166.00000
+Best Western Inn Florence|Cincinnati, OH|39.002715| -84.6434999| 121.00000
+Best Western Northwest Inn|Dallas, TX|32.860170| -96.8849154| 102.00000
+Best Western Plus Airport Inn & Suites|Salt Lake City, UT|NA|NA| 114.00000
+Best Western Plus Airport Inn & Suites|Shreveport, LA|NA|NA|  97.00000
+Best Western Plus Airport Plaza|San Jose, CA|37.343885|-121.9287327| 154.00000
+Best Western Plus Executive Residency Oklahoma City I-35|Oklahoma City, OK|35.417851| -97.4883551|  98.00000
+Best Western Plus Hawthorne Terrace Hotel|Evanston, IL|41.944129| -87.6459380| 126.00000
+Best Western Plus Miami Executive Airport Hotel & Suites|Miami, FL|25.639710| -80.4204445| 119.00000
+Best Western Plus Omaha Airport Inn||41.282044| -95.9121904|  96.00000
+Best Western Plus Omaha Airport Inn|Ann Arbor, MI|41.282044| -95.9121904|  96.00000
+Best Western Plus Omaha Airport Inn|Auburn, AL|41.282044| -95.9121904|  96.00000
+Best Western Plus Omaha Airport Inn|Austin, TX|30.267153| -97.7430608|  96.00000
+Best Western Plus Omaha Airport Inn|Chapel Hill, NC|35.913200| -79.0558445|  96.00000
+Best Western Plus Omaha Airport Inn|Cincinnati, OH|39.103118| -84.5120196|  96.00000
+Best Western Plus Omaha Airport Inn|Dayton, OH|39.758948| -84.1916069|  96.00000
+Best Western Plus Omaha Airport Inn|Durham, NC|35.994033| -78.8986190|  96.00000
+Best Western Plus Omaha Airport Inn|Fayetteville, AR|41.282044| -95.9121904|  96.00000
+Best Western Plus Omaha Airport Inn|Fort Worth, TX|32.836910| -97.0890715|  96.00000
+Best Western Plus Omaha Airport Inn|Hartford, CT|41.765804| -72.6733723|  96.00000
+Best Western Plus Omaha Airport Inn|Houston, TX|29.760427| -95.3698028|  96.00000
+Best Western Plus Omaha Airport Inn|Indianapolis, IN|41.282044| -95.9121904|  96.00000
+Best Western Plus Omaha Airport Inn|Knoxville, TN|35.960638| -83.9207392|  96.00000
+Best Western Plus Omaha Airport Inn|Lawrence, KS|41.282044| -95.9121904|  96.00000
+Best Western Plus Omaha Airport Inn|Lexington, KY|38.040584| -84.5037164|  96.00000
+Best Western Plus Omaha Airport Inn|Spokane, WA|41.282044| -95.9121904|  96.00000
+Best Western Plus Omaha Airport Inn|Storrs, CT|41.808431| -72.2495231|  96.00000
+Best Western Plus Omaha Airport Inn|Tucson, AZ|41.256537| -95.9345034|  96.00000
+Best Western Plus Omaha Airport Inn|Tuscaloosa, AL|33.209841| -87.5691735|  96.00000
+Best Western Plus Peppertree Airport Inn|Spokane, WA|47.620491|-117.5056729| 133.00000
+Best Western Plus St. Louis Airport Hotel|St. Louis, MO|38.734386| -90.3560820| 146.00000
+Best Western Plus Suites Hotel - Los Angeles LAX Airport|Inglewood, CA|33.945790|-118.3657003| 167.00000
+Best Western Plus Surprise-Phoenix NW|Glendale, AZ|33.635267|-112.3480130| 130.00000
+Best Western Plus Woodland Hills Hotel & Suites|Tulsa, OK|36.073921| -95.8624774|  68.00000
+Best Western Pony Soldier Inn & Suites|Flagstaff, AZ|35.211773|-111.6043299| 108.00000
+Best Western Premier NYC Gateway Hotel|New York, NY|40.705187| -74.0142069| 162.00000
+Best Western Tampa|Tampa, FL|27.935886| -82.5051550| 135.00000
+Best Western Tolleson Hotel|Glendale, AZ|33.464694|-112.2414511| 140.00000
+Boomtown Casino & Hotel|Shreveport, LA|30.412645| -88.8851470| 103.00000
+Boston Park Plaza|Allston, MA|42.351200| -71.0699301| 379.00000
+Boston Park Plaza|Chestnut Hill, MA|42.351200| -71.0699301| 379.00000
+BridgePointe Inn & Suites||41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Ann Arbor, MI|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Auburn, AL|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Austin, TX|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Chapel Hill, NC|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Cincinnati, OH|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Dayton, OH|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Durham, NC|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Fayetteville, AR|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Fort Worth, TX|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Hartford, CT|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Houston, TX|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Indianapolis, IN|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Knoxville, TN|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Lawrence, KS|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Lexington, KY|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Spokane, WA|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Storrs, CT|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Tucson, AZ|41.252857| -95.9056034|  82.00000
+BridgePointe Inn & Suites|Tuscaloosa, AL|41.252857| -95.9056034|  82.00000
+Cabana Hotel Yankee Stadium|East Rutherford, NJ|40.833989| -74.0970865| 129.00000
+Cajun Inn|Shreveport, LA|32.478715| -93.7777240|  47.00000
+Cambria Hotel Boston Somerville|Allston, MA|42.383427| -71.1057282| 189.00000
+Cambria Hotel Omaha Downtown||41.266890| -95.9347261| 110.00000
+Cambria Hotel Omaha Downtown|Ann Arbor, MI|42.280826| -83.7430378| 110.00000
+Cambria Hotel Omaha Downtown|Auburn, AL|32.609857| -85.4807825| 110.00000
+Cambria Hotel Omaha Downtown|Austin, TX|30.272921| -97.7443863| 110.00000
+Cambria Hotel Omaha Downtown|Chapel Hill, NC|35.913200| -79.0558445| 110.00000
+Cambria Hotel Omaha Downtown|Cincinnati, OH|39.099435| -84.5165735| 110.00000
+Cambria Hotel Omaha Downtown|Dayton, OH|39.760571| -84.1949383| 110.00000
+Cambria Hotel Omaha Downtown|Durham, NC|35.994033| -78.8986190| 110.00000
+Cambria Hotel Omaha Downtown|Fayetteville, AR|36.062658| -94.1605839| 110.00000
+Cambria Hotel Omaha Downtown|Fort Worth, TX|41.256537| -95.9345034| 110.00000
+Cambria Hotel Omaha Downtown|Hartford, CT|41.765571| -72.6772016| 110.00000
+Cambria Hotel Omaha Downtown|Houston, TX|29.755970| -95.3573194| 110.00000
+Cambria Hotel Omaha Downtown|Indianapolis, IN|39.768403| -86.1580680| 110.00000
+Cambria Hotel Omaha Downtown|Knoxville, TN|35.964119| -83.9201656| 110.00000
+Cambria Hotel Omaha Downtown|Lawrence, KS|38.971669| -95.2352501| 110.00000
+Cambria Hotel Omaha Downtown|Lexington, KY|38.040584| -84.5037164| 110.00000
+Cambria Hotel Omaha Downtown|Spokane, WA|47.657650|-117.4204379| 110.00000
+Cambria Hotel Omaha Downtown|Storrs, CT|41.808431| -72.2495231| 110.00000
+Cambria Hotel Omaha Downtown|Tucson, AZ|32.216600|-110.9697795| 110.00000
+Cambria Hotel Omaha Downtown|Tuscaloosa, AL|33.209841| -87.5691735| 110.00000
+Canal Loft Hotel|East Rutherford, NJ|40.715297| -73.9938841| 136.00000
+Candlewood Suites Fort Collins, an IHG Hotel|Fort Collins, CO|40.526949|-105.0741495| 120.00000
+Candlewood Suites Market Center, an IHG Hotel|Dallas, TX|32.822666| -96.8700006| 127.00000
+Canopy by Hilton Dallas Uptown|Dallas, TX|32.806880| -96.7952538| 315.00000
+Canopy by Hilton Washington DC The Wharf|Landover, MD|38.878865| -77.0235015| 517.00000
+Captains Quarters By The Bay 3 Bedroom Cottage by Redawning|Norfolk, VA|36.850769| -76.2858726| 424.00000
+Carmel Inn & Suites|Thibodaux, LA|NA|NA| 124.00000
+Chancellor Hotel on Union Square|San Francisco, CA|37.788700|-122.4087889| 122.00000
+Chauncey Hotel & Conference Center|Princeton, NJ|40.344722| -74.7163889| 137.00000
+Chicago Marriott Midway|Chicago, IL|41.773992| -87.7446148| 159.00000
+citizenM Miami Brickell|Coral Gables, FL|25.764637| -80.1928919| 355.00000
+citizenM San Francisco Union Square|San Francisco, CA|37.785776|-122.4074402| 141.07692
+City Express Ciudad Juárez|El Paso, TX|31.730041|-106.4107921|  79.00000
+Claridge House|Chicago, IL|41.905242| -87.6303974| 165.00000
+Clarion Hotel & Conference Centre|Calgary, Canada|NA|NA| 104.00000
+Clayton Members Club & Hotel|Denver, CO|39.720306|-104.9561798| 395.00000
+Comfort Inn|Shreveport, LA|32.525152| -93.7501789| 107.00000
+Comfort Inn & Suites|Atlanta, GA|NA|NA| 103.00000
+Comfort Inn & Suites|Conway, AR|NA|NA|  84.00000
+Comfort Inn & Suites|Fort Worth, TX|NA|NA|  70.00000
+Comfort Inn & Suites|Highland Heights, KY|NA|NA| 122.00000
+Comfort Inn & Suites|Morehead, KY|NA|NA| 119.00000
+Comfort Inn & Suites|Orangeburg, SC|NA|NA| 137.00000
+Comfort Inn & Suites Alexandria Van Dorn Street|Washington, DC|NA|NA| 112.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB||NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Ann Arbor, MI|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Auburn, AL|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Austin, TX|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Chapel Hill, NC|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Cincinnati, OH|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Dayton, OH|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Durham, NC|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Fayetteville, AR|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Fort Worth, TX|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Hartford, CT|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Houston, TX|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Indianapolis, IN|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Knoxville, TN|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Lawrence, KS|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Lexington, KY|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Omaha, NE|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Spokane, WA|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Storrs, CT|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Tucson, AZ|NA|NA|  91.00000
+Comfort Inn & Suites Bellevue - Omaha Offutt AFB|Tuscaloosa, AL|NA|NA|  91.00000
+Comfort Inn & Suites Convention Center|Charleston, SC|NA|NA|  96.00000
+Comfort Inn & Suites DeLand - near University|Deland, FL|NA|NA| 110.00000
+Comfort Inn & Suites Frisco - Plano|Frisco, TX|NA|NA| 100.00000
+Comfort Inn & Suites Lees Summit - Kansas City|Kansas City, MO|NA|NA|  86.00000
+Comfort Inn & Suites Logan International Airport|Allston, MA|NA|NA| 122.00000
+Comfort Inn & Suites Madison - Airport|Madison, WI|NA|NA|  97.00000
+Comfort Inn & Suites New Orleans Airport North|New Orleans, LA|NA|NA| 126.00000
+Comfort Inn & Suites Newcastle - Oklahoma City|Norman, OK|NA|NA| 110.00000
+Comfort Inn & Suites Omaha Central|Tucson, AZ|NA|NA|  98.00000
+Comfort Inn & Suites Plainville-Foxboro|Foxborough, MA|NA|NA| 103.00000
+Comfort Inn & Suites Salt Lake City Airport|Salt Lake City, UT|NA|NA| 115.00000
+Comfort Inn & Suites St. Paul Northeast|Saint Paul, MN|NA|NA|  95.00000
+Comfort Inn & Suites Statesboro - University Area|Statesboro, GA|NA|NA| 122.00000
+Comfort Inn & Suites Streetsboro - Kent|Kent, OH|NA|NA| 107.00000
+Comfort Inn & Suites SW Houston Sugarland|Houston, TX|NA|NA|  65.00000
+Comfort Inn At The Zoo||41.230938| -95.9353630|  80.00000
+Comfort Inn At The Zoo|Ann Arbor, MI|42.280826| -83.7430378|  80.00000
+Comfort Inn At The Zoo|Auburn, AL|41.230938| -95.9353630|  80.00000
+Comfort Inn At The Zoo|Austin, TX|30.267153| -97.7430608|  80.00000
+Comfort Inn At The Zoo|Chapel Hill, NC|35.913200| -79.0558445|  80.00000
+Comfort Inn At The Zoo|Cincinnati, OH|39.103118| -84.5120196|  80.00000
+Comfort Inn At The Zoo|Dayton, OH|39.758948| -84.1916069|  80.00000
+Comfort Inn At The Zoo|Durham, NC|36.030080| -78.9355011|  80.00000
+Comfort Inn At The Zoo|Fayetteville, AR|36.062658| -94.1605839|  81.00000
+Comfort Inn At The Zoo|Fort Worth, TX|32.739638| -97.4497390|  81.00000
+Comfort Inn At The Zoo|Hartford, CT|41.796018| -72.6766881|  81.00000
+Comfort Inn At The Zoo|Houston, TX|29.994610| -95.4832630|  81.00000
+Comfort Inn At The Zoo|Indianapolis, IN|39.768403| -86.1580680|  80.00000
+Comfort Inn At The Zoo|Knoxville, TN|35.960638| -83.9207392|  80.00000
+Comfort Inn At The Zoo|Lawrence, KS|41.230938| -95.9353630|  80.00000
+Comfort Inn At The Zoo|Lexington, KY|41.230938| -95.9353630|  81.00000
+Comfort Inn At The Zoo|Spokane, WA|47.672656|-117.2373160|  81.00000
+Comfort Inn At The Zoo|Storrs, CT|41.808431| -72.2495231|  80.00000
+Comfort Inn At The Zoo|Tucson, AZ|32.252058|-110.9989940|  80.00000
+Comfort Inn At The Zoo|Tuscaloosa, AL|33.209841| -87.5691735|  80.00000
+Comfort Inn Oceanside Deerfield Beach|Boca Raton, FL|26.314140| -80.0774030| 152.00000
+Comfort Inn Shreveport I-49|Shreveport, LA|32.396761| -93.7502060| 111.00000
+Comfort Inn West Phoenix at 27th Ave and I-I0|Phoenix, AZ|33.463133|-112.1182930| 139.00000
+Comfort Suites Arlington - Entertainment District|Arlington, TX|32.758686| -97.1101100| 112.00000
+Comfort Suites Columbia at Harbison|Columbia, SC|34.075313| -81.1514610| 110.00000
+Comfort Suites Fort Lauderdale Airport & Cruise Port|Miami Gardens, FL|26.048534| -80.1643980| 168.00000
+Comfort Suites Glendale - State Farm Stadium Area|Glendale, AZ|33.509932|-112.2704490| 144.00000
+Comfort Suites Omaha East-Council Bluffs||41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Ann Arbor, MI|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Auburn, AL|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Austin, TX|30.267153| -97.7430608|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Chapel Hill, NC|35.913200| -79.0558445|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Cincinnati, OH|39.103118| -84.5120196|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Dayton, OH|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Durham, NC|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Fayetteville, AR|36.062658| -94.1605839|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Fort Worth, TX|32.755488| -97.3307658|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Hartford, CT|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Houston, TX|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Indianapolis, IN|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Knoxville, TN|35.960638| -83.9207392|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Lawrence, KS|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Lexington, KY|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Omaha, NE|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Spokane, WA|47.658780|-117.4260466|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Storrs, CT|41.808431| -72.2495231|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Tucson, AZ|41.245654| -95.9008570|  92.00000
+Comfort Suites Omaha East-Council Bluffs|Tuscaloosa, AL|41.245654| -95.9008570|  92.00000
+Comfort Suites Orlando Airport|Orlando, FL|28.450407| -81.3535053| 143.00000
+Comfort Suites Shreveport West I-20|Shreveport, LA|32.449548| -93.8610820| 107.00000
+Comfort Suites Tuscaloosa near University|Tuscaloosa, AL|33.172854| -87.5255240| 106.00000
+Country Inn & Suites by Radisson, Bloomington-Normal Airport, IL|Normal, IL|NA|NA| 106.00000
+Country Inn & Suites by Radisson, Bloomington-Normal West, IL|Normal, IL|NA|NA| 115.00000
+Country Inn & Suites by Radisson, Boone, NC|Boone, NC|NA|NA| 116.00000
+Country Inn & Suites by Radisson, Buffalo South I-90, NY|Orchard Park, NY|NA|NA| 124.00000
+Country Inn & Suites by Radisson, Conway, AR|Conway, AR|NA|NA|  85.00000
+Country Inn & Suites by Radisson, Cookeville, TN|Cookeville, TN|NA|NA| 111.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA||NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Ann Arbor, MI|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Auburn, AL|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Austin, TX|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Chapel Hill, NC|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Cincinnati, OH|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Dayton, OH|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Durham, NC|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Fayetteville, AR|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Fort Worth, TX|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Hartford, CT|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Houston, TX|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Indianapolis, IN|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Knoxville, TN|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Lawrence, KS|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Lexington, KY|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Spokane, WA|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Storrs, CT|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Tucson, AZ|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Tuscaloosa, AL|NA|NA| 109.00000
+Country Inn & Suites by Radisson, Des Moines West, IA|Des Moines, IA|NA|NA| 107.00000
+Country Inn & Suites by Radisson, DFW Airport South, TX|Arlington, TX|NA|NA| 110.00000
+Country Inn & Suites by Radisson, Fargo, ND|Fargo, ND|NA|NA| 135.00000
+Country Inn & Suites by Radisson, Green Bay North, WI|Green Bay, WI|NA|NA| 130.00000
+Country Inn & Suites by Radisson, Jacksonville West, FL|Jacksonville, FL|NA|NA| 169.00000
+Country Inn & Suites by Radisson, Knoxville at Cedar Bluff, TN|Knoxville, TN|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Madison West, WI|Madison, WI|NA|NA| 100.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA||NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Ann Arbor, MI|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Auburn, AL|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Austin, TX|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Chapel Hill, NC|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Cincinnati, OH|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Dayton, OH|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Durham, NC|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Fayetteville, AR|NA|NA| 103.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Fort Worth, TX|NA|NA| 103.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Hartford, CT|NA|NA| 103.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Houston, TX|NA|NA| 103.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Indianapolis, IN|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Knoxville, TN|NA|NA| 103.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Lawrence, KS|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Lexington, KY|NA|NA| 103.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Spokane, WA|NA|NA| 103.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Storrs, CT|NA|NA| 104.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Tucson, AZ|NA|NA| 103.00000
+Country Inn & Suites by Radisson, Omaha Airport, IA|Tuscaloosa, AL|NA|NA| 103.00000
+Country Inn & Suites by Radisson, Orangeburg, SC|Orangeburg, SC|NA|NA| 132.00000
+Country Inn & Suites by Radisson, Phoenix Airport, AZ|Phoenix, AZ|NA|NA| 120.00000
+Country Inn & Suites by Radisson, Richmond I-95 South, VA|Richmond, VA|NA|NA|  98.00000
+Country Inn & Suites by Radisson, Shreveport-Airport, LA|Shreveport, LA|NA|NA|  85.00000
+Country Inn & Suites by Radisson, Sycamore, IL|Dekalb, IL|NA|NA| 129.00000
+Country Inn & Suites by Radisson, Tampa/Brandon, FL|Tampa, FL|NA|NA| 121.00000
+Country Inn & Suites by Radisson, Valparaiso, IN|Valparaiso, IN|NA|NA| 156.00000
+Country Inn & Suites by Radisson, Washington, D.C. East - Capitol Heights, MD|Landover, MD|NA|NA| 105.00000
+Courtyard by Marriott Detroit Dearborn|Detroit, MI|42.325159| -83.2025854| 168.00000
+Courtyard by Marriott Greenville Haywood Mall|Greenville, SC|34.854002| -82.3310445| 167.00000
+Courtyard by Marriott Miami Coconut Grove|Miami, FL|25.731369| -80.2359074| 692.00000
+Courtyard by Marriott New Orleans Westbank/Gretna|New Orleans, LA|29.925683| -90.0414280| 146.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA||41.237716| -95.8926499| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Ann Arbor, MI|41.237716| -95.8926499| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Auburn, AL|41.237716| -95.8926499| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Austin, TX|30.267153| -97.7430608| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Chapel Hill, NC|35.913200| -79.0558445| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Cincinnati, OH|39.103118| -84.5120196| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Dayton, OH|41.237716| -95.8926499| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Durham, NC|35.994033| -78.8986190| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Fayetteville, AR|36.062658| -94.1605839| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Fort Worth, TX|32.755488| -97.3307658| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Hartford, CT|41.237716| -95.8926499| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Houston, TX|29.760427| -95.3698028| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Indianapolis, IN|41.237716| -95.8926499| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Knoxville, TN|35.960638| -83.9207392| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Lawrence, KS|41.237716| -95.8926499| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Lexington, KY|38.040584| -84.5037164| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Spokane, WA|47.658780|-117.4260466| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Storrs, CT|41.808431| -72.2495231| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Tucson, AZ|32.253979|-110.9741769| 109.00000
+Courtyard by Marriott Omaha East/Council Bluffs, IA|Tuscaloosa, AL|33.209841| -87.5691735| 109.00000
+Courtyard by Marriott Rancho Cordova Sacramento|Sacramento, CA|38.588397|-121.2898956| 146.00000
+Courtyard by Marriott San Jose Cupertino|San Jose, CA|37.332562|-122.0151468| 412.00000
+Courtyard by Marriott San Jose Cupertino|Santa Clara, CA|37.332562|-122.0151468| 412.00000
+Courtyard by Marriott Shreveport-Bossier/Louisiana Boardwalk|Shreveport, LA|32.517049| -93.7392603| 160.00000
+Courtyard Largo Medical Center Drive|Landover, MD|38.906921| -76.8469238| 140.00000
+Courtyard Marriott Aksarben Village||41.243194| -96.0141824| 123.00000
+Courtyard Marriott Aksarben Village|Ann Arbor, MI|41.243194| -96.0141824| 123.00000
+Courtyard Marriott Aksarben Village|Auburn, AL|41.243194| -96.0141824| 123.00000
+Courtyard Marriott Aksarben Village|Austin, TX|30.267153| -97.7430608| 123.00000
+Courtyard Marriott Aksarben Village|Chapel Hill, NC|35.913200| -79.0558445| 123.00000
+Courtyard Marriott Aksarben Village|Cincinnati, OH|39.103118| -84.5120196| 123.00000
+Courtyard Marriott Aksarben Village|Dayton, OH|39.758948| -84.1916069| 123.00000
+Courtyard Marriott Aksarben Village|Durham, NC|35.994033| -78.8986190| 123.00000
+Courtyard Marriott Aksarben Village|Fayetteville, AR|36.062658| -94.1605839| 123.00000
+Courtyard Marriott Aksarben Village|Fort Worth, TX|32.755488| -97.3307658| 123.00000
+Courtyard Marriott Aksarben Village|Hartford, CT|41.765804| -72.6733723| 123.00000
+Courtyard Marriott Aksarben Village|Houston, TX|29.705383| -95.3013358| 123.00000
+Courtyard Marriott Aksarben Village|Indianapolis, IN|39.768403| -86.1580680| 123.00000
+Courtyard Marriott Aksarben Village|Knoxville, TN|35.960638| -83.9207392| 123.00000
+Courtyard Marriott Aksarben Village|Lawrence, KS|38.971669| -95.2352501| 123.00000
+Courtyard Marriott Aksarben Village|Lexington, KY|38.040584| -84.5037164| 123.00000
+Courtyard Marriott Aksarben Village|Spokane, WA|47.658780|-117.4260466| 123.00000
+Courtyard Marriott Aksarben Village|Storrs, CT|41.808431| -72.2495231| 123.00000
+Courtyard Marriott Aksarben Village|Tucson, AZ|32.253979|-110.9741769| 123.00000
+Courtyard Marriott Aksarben Village|Tuscaloosa, AL|33.209841| -87.5691735| 123.00000
+Courtyard Marriott Riverwalk|San Antonio, TX|29.425553| -98.4916483| 365.00000
+Courtyard Miami in Coral Gables by Marriott|Miami, FL|25.753824| -80.2624606| 353.00000
+Courtyard Palo Alto Los Altos|Santa Clara, CA|37.404837|-122.1191990| 353.00000
+Cozy Carriage House | Walk to UNC | + Free Bikes|Greeley, CO|40.423314|-104.7091322| 294.00000
+Cozy Retreat | Walk to UNC | FREE Cruiser Bikes|Greeley, CO|40.423314|-104.7091322| 271.00000
+Days Hotel by Wyndham Peoria Glendale Area|Glendale, AZ|33.590793|-112.2515722|  95.00000
+Days Inn & Suites by Wyndham Bloomington/Normal IL|Normal, IL|NA|NA|  95.00000
+Days Inn & Suites by Wyndham East Flagstaff|Flagstaff, AZ|NA|NA|  64.00000
+Days Inn & Suites by Wyndham Euless DFW Airport South|Arlington, TX|NA|NA|  73.00000
+Days Inn & Suites by Wyndham Fargo 19th Ave/Airport Dome|Fargo, ND|NA|NA| 121.00000
+Days Inn & Suites by Wyndham Huntsville|Huntsville, AL|NA|NA| 100.00000
+Days Inn & Suites by Wyndham Surprise|Glendale, AZ|NA|NA|  94.00000
+Days Inn & Suites by Wyndham Thibodaux|Thibodaux, LA|NA|NA| 129.00000
+Days Inn & Suites by Wyndham Youngstown / Girard Ohio|Youngstown, OH|NA|NA|  68.00000
+Days Inn by Wyndham Fort Worth North / Fossil Creek|Fort Worth, TX|32.826560| -97.3148833|  58.00000
+Days Inn by Wyndham North Mobile|Mobile, AL|30.760287| -88.2225213| 101.00000
+Days Inn by Wyndham Oklahoma City|Oklahoma City, OK|35.592316| -97.4360651|  63.00000
+Days Inn by Wyndham San Antonio Airport|San Antonio, TX|29.518346| -98.4727469|  76.00000
+Days Inn by Wyndham Shelby|Boiling Springs, NC|35.289976| -81.5652127|  78.00000
+Days Inn by Wyndham Suites San Antonio North/Stone Oak|San Antonio, TX|29.602036| -98.4720287|  78.00000
+Delta Hotels by Marriott Baltimore Hunt Valley|Towson, MD|39.490001| -76.6585074| 114.00000
+Delta Hotels by Marriott Edmonton South Conference Centre|Edmonton, Canada|53.481558|-113.4933749| 200.00000
+DoubleTree by Hilton Baltimore North/Pikesville|Towson, MD|39.382513| -76.7335273| 127.00000
+DoubleTree by Hilton Omaha Downtown||41.260326| -95.9371488| 142.00000
+DoubleTree by Hilton Omaha Downtown|Ann Arbor, MI|42.331704| -83.0470684| 142.00000
+DoubleTree by Hilton Omaha Downtown|Auburn, AL|41.260326| -95.9371488| 142.00000
+DoubleTree by Hilton Omaha Downtown|Austin, TX|30.272921| -97.7443863| 142.00000
+DoubleTree by Hilton Omaha Downtown|Chapel Hill, NC|35.913200| -79.0558445| 142.00000
+DoubleTree by Hilton Omaha Downtown|Cincinnati, OH|41.504783| -81.6856808| 142.00000
+DoubleTree by Hilton Omaha Downtown|Dayton, OH|41.504783| -81.6856808| 142.00000
+DoubleTree by Hilton Omaha Downtown|Durham, NC|41.256537| -95.9345034| 142.00000
+DoubleTree by Hilton Omaha Downtown|Fayetteville, AR|36.062658| -94.1605839| 142.00000
+DoubleTree by Hilton Omaha Downtown|Fort Worth, TX|41.256537| -95.9345034| 142.00000
+DoubleTree by Hilton Omaha Downtown|Hartford, CT|41.256537| -95.9345034| 142.00000
+DoubleTree by Hilton Omaha Downtown|Houston, TX|29.755970| -95.3573194| 142.00000
+DoubleTree by Hilton Omaha Downtown|Indianapolis, IN|41.256537| -95.9345034| 142.00000
+DoubleTree by Hilton Omaha Downtown|Knoxville, TN|35.960638| -83.9207392| 142.00000
+DoubleTree by Hilton Omaha Downtown|Lawrence, KS|41.260326| -95.9371488| 142.00000
+DoubleTree by Hilton Omaha Downtown|Lexington, KY|38.040584| -84.5037164| 142.00000
+DoubleTree by Hilton Omaha Downtown|Spokane, WA|NA|NA| 142.00000
+DoubleTree by Hilton Omaha Downtown|Storrs, CT|41.808431| -72.2495231| 142.00000
+DoubleTree by Hilton Omaha Downtown|Tucson, AZ|32.253979|-110.9741769| 142.00000
+DoubleTree by Hilton Omaha Downtown|Tuscaloosa, AL|33.209841| -87.5691735| 142.00000
+DoubleTree by Hilton Omaha Southwest||41.226211| -96.0247778| 121.00000
+DoubleTree by Hilton Omaha Southwest|Ann Arbor, MI|41.256537| -95.9345034| 121.00000
+DoubleTree by Hilton Omaha Southwest|Auburn, AL|41.226211| -96.0247778| 121.00000
+DoubleTree by Hilton Omaha Southwest|Austin, TX|30.267153| -97.7430608| 121.00000
+DoubleTree by Hilton Omaha Southwest|Chapel Hill, NC|35.913200| -79.0558445| 121.00000
+DoubleTree by Hilton Omaha Southwest|Cincinnati, OH|41.226211| -96.0247778| 121.00000
+DoubleTree by Hilton Omaha Southwest|Dayton, OH|39.758948| -84.1916069| 121.00000
+DoubleTree by Hilton Omaha Southwest|Durham, NC|35.994033| -78.8986190| 121.00000
+DoubleTree by Hilton Omaha Southwest|Fayetteville, AR|36.062658| -94.1605839| 121.00000
+DoubleTree by Hilton Omaha Southwest|Fort Worth, TX|41.256537| -95.9345034| 121.00000
+DoubleTree by Hilton Omaha Southwest|Hartford, CT|41.256537| -95.9345034| 121.00000
+DoubleTree by Hilton Omaha Southwest|Houston, TX|41.256537| -95.9345034| 121.00000
+DoubleTree by Hilton Omaha Southwest|Indianapolis, IN|41.226211| -96.0247778| 121.00000
+DoubleTree by Hilton Omaha Southwest|Knoxville, TN|35.960638| -83.9207392| 121.00000
+DoubleTree by Hilton Omaha Southwest|Lawrence, KS|41.226211| -96.0247778| 121.00000
+DoubleTree by Hilton Omaha Southwest|Lexington, KY|38.040584| -84.5037164| 121.00000
+DoubleTree by Hilton Omaha Southwest|Spokane, WA|41.256537| -95.9345034| 121.00000
+DoubleTree by Hilton Omaha Southwest|Storrs, CT|41.808431| -72.2495231| 121.00000
+DoubleTree by Hilton Omaha Southwest|Tucson, AZ|32.253979|-110.9741769| 121.00000
+DoubleTree by Hilton Omaha Southwest|Tuscaloosa, AL|33.209841| -87.5691735| 121.00000
+DoubleTree by Hilton Williamsburg|Williamsburg, VA|37.243438| -76.6592330| 148.00000
+DoubleTree Suites by Hilton Minneapolis Downtown|Minneapolis, MN|44.973381| -93.2769056| 145.00000
+Drury Inn & Suites Cape Girardeau|Cape Girardeau, MO|NA|NA| 132.00000
+Drury Inn & Suites Dallas Frisco|Frisco, TX|NA|NA| 132.00000
+Drury Inn & Suites Dallas Frisco|McKinney, TX|NA|NA| 132.00000
+Drury Inn & Suites Huntsville at the Space & Rocket Center|Huntsville, AL|NA|NA| 168.00000
+Eastsider Motel|Inglewood, CA|34.022321|-118.2527248| 101.00000
+Eastsider Motel|Los Angeles, CA|34.022321|-118.2527248| 101.00000
+Econo Lodge Inn & Suites|Huntsville, AL|NA|NA|  65.00000
+Econo Lodge Inn & Suites Natchitoches|Natchitoches, LA|NA|NA|  97.00000
+Econo Lodge Pittsburgh I-79|Pittsburgh, PA|40.449312| -80.1060530| 116.00000
+Econo Lodge Portland City Center|Portland, OR|45.515232|-122.6783853| 116.00000
+Economy Inn & Suites Shreveport|Shreveport, LA|43.088562| -88.0023327|  45.00000
+Element Scottsdale at SkySong|Phoenix, AZ|33.462332|-111.9257587| 364.00000
+Element Scottsdale at SkySong|Tempe, AZ|33.462332|-111.9257587| 364.00000
+Embassy Suites by Hilton Albuquerque|Albuquerque, NM|35.091716|-106.6360474| 176.00000
+Embassy Suites by Hilton Miami International Airport|Coral Gables, FL|25.806657| -80.2615857| 153.00000
+Embassy Suites Omaha - Downtown/Old Market||41.254943| -95.9290239| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Ann Arbor, MI|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Auburn, AL|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Austin, TX|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Chapel Hill, NC|41.254943| -95.9290239| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Cincinnati, OH|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Dayton, OH|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Durham, NC|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Fayetteville, AR|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Fort Worth, TX|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Hartford, CT|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Houston, TX|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Indianapolis, IN|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Knoxville, TN|35.964119| -83.9201656| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Lawrence, KS|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Lexington, KY|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Spokane, WA|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Storrs, CT|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Tucson, AZ|41.255576| -95.9310643| 187.00000
+Embassy Suites Omaha - Downtown/Old Market|Tuscaloosa, AL|41.255576| -95.9310643| 187.00000
+Embassy Suites Williamsburg|Williamsburg, VA|37.289005| -76.7200103| 125.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel||41.257889| -95.9463407| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Ann Arbor, MI|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Auburn, AL|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Austin, TX|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Chapel Hill, NC|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Cincinnati, OH|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Dayton, OH|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Durham, NC|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Fayetteville, AR|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Fort Worth, TX|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Hartford, CT|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Houston, TX|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Indianapolis, IN|39.768403| -86.1580680| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Knoxville, TN|35.960638| -83.9207392| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Lawrence, KS|41.257889| -95.9463407| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Lexington, KY|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Spokane, WA|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Storrs, CT|41.808431| -72.2495231| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Tucson, AZ|41.255576| -95.9310643| 105.00000
+EVEN Hotel Omaha Downtown - Old Market, an IHG Hotel|Tuscaloosa, AL|41.255576| -95.9310643| 105.00000
+Executive Inn & Suites Embarcadero Cove|Berkeley, CA|NA|NA| 147.00000
+Extended Stay America Premier Suites Greenville Woodruff Rd|Greenville, SC|34.837736| -82.3134180|  99.00000
+Extended Stay America Suites Arlington|Arlington, TX|32.735687| -97.1080656|  68.00000
+Extended Stay America Suites Arlington Six Flags|Arlington, TX|32.760819| -97.0675570|  70.00000
+Extended Stay America Suites Atlanta Cumberland Mall|Atlanta, GA|33.882184| -84.4781630| 102.00000
+Extended Stay America Suites Boston Braintree|Boston, MA|42.226284| -71.0298584| 143.00000
+Extended Stay America Suites Boston Burlington|Allston, MA|42.355509| -71.1328247| 122.00000
+Extended Stay America Suites Columbia West Interstate 126|Columbia, SC|34.013656| -81.0774745|  85.00000
+Extended Stay America Suites Fort Worth Southwest|Fort Worth, TX|32.680807| -97.4117639|  79.00000
+Extended Stay America Suites Fremont Fremont Blvd South|Santa Clara, CA|37.490283|-121.9469910| 131.00000
+Extended Stay America Suites Fremont Newark|Santa Clara, CA|37.532337|-122.0033874| 120.00000
+Extended Stay America Suites Little Rock Financial Centre Pw|Little Rock, AR|34.744462| -92.2880157|  93.00000
+Extended Stay America Suites Little Rock Financial Centre Pw|North Little Rock, AR|34.756104| -92.2677497|  93.00000
+Extended Stay America Suites Memphis Apple Tree|Memphis, TN|35.068620| -89.8604560|  92.00000
+Extended Stay America Suites Newark Woodbridge|Piscataway, NJ|40.538284| -74.2994003| 109.00000
+Extended Stay America Suites Oklahoma City Northwest|Oklahoma City, OK|35.608063| -97.6331130|  66.00000
+Extended Stay America Suites Philadelphia Plymouth Meeting|Philadelphia, PA|39.883854| -75.2482251|  99.00000
+Extended Stay America Suites Philadelphia Plymouth Meeting|Villanova, PA|39.883854| -75.2482251|  99.00000
+Extended Stay America Suites Raleigh RTP 4919 Miami Blvd|Raleigh, NC|35.887874| -78.8486220|  81.00000
+Extended Stay America Suites Sacramento South Natomas|Sacramento, CA|38.627481|-121.4979092| 120.00000
+Extended Stay America Suites Sacramento West Sacramento|Sacramento, CA|38.589871|-121.5553570| 128.00000
+Extended Stay America Suites San Antonio Airport|San Antonio, TX|29.425190| -98.4945922|  79.00000
+Extended Stay America Suites San Jose Milpitas McCarthy Ranc|San Jose, CA|37.422508|-121.9209704| 136.00000
+Extended Stay America Suites San Jose Sunnyvale|Santa Clara, CA|37.419589|-121.9756984| 139.00000
+Extended Stay America Suites Tampa Airport N Westshore Blvd|Tampa, FL|27.955630| -82.5240710| 124.00000
+Extended Stay America Suites Washington DC Falls Church|Washington, DC|38.882334| -77.1710914| 107.00000
+Fairfield Inn & Suites Abilene|Abilene, TX|NA|NA| 102.00000
+Fairfield Inn & Suites by Marriott Austin-University Area|Austin, TX|NA|NA| 104.00000
+Fairfield Inn & Suites by Marriott Boston Walpole|Foxborough, MA|NA|NA| 150.00000
+Fairfield Inn & Suites by Marriott Cleveland Streetsboro|Kent, OH|NA|NA| 123.00000
+Fairfield Inn & Suites by Marriott Fayetteville|Fayetteville, AR|NA|NA| 111.00000
+Fairfield Inn & Suites by Marriott Fort Worth Southwest at Cityview|Fort Worth, TX|NA|NA|  97.00000
+Fairfield Inn & Suites by Marriott Franklin Cool Springs|Nashville, TN|NA|NA| 104.00000
+Fairfield Inn & Suites by Marriott Knoxville Northwest|Knoxville, TN|NA|NA| 103.00000
+Fairfield Inn & Suites by Marriott Mansfield|Foxborough, MA|NA|NA| 142.00000
+Fairfield Inn & Suites by Marriott North Bergen|East Rutherford, NJ|NA|NA| 189.00000
+Fairfield Inn & Suites by Marriott Phoenix West/Tolleson|Glendale, AZ|NA|NA| 150.00000
+Fairfield Inn & Suites by Marriott Sacramento Airport Natomas|Sacramento, CA|NA|NA| 141.00000
+Fairfield Inn & Suites by Marriott San Antonio Market Square|San Antonio, TX|NA|NA| 106.00000
+Fairfield Inn & Suites by Marriott San Jose North/Silicon Valley|Santa Clara, CA|NA|NA| 216.00000
+Fairfield Inn & Suites by Marriott Santa Cruz, CA|Santa Cruz, CA|NA|NA| 154.00000
+Fairfield Inn & Suites by Marriott Shelby|Boiling Springs, NC|NA|NA| 133.00000
+Fairfield Inn & Suites by Marriott South Bend Mishawaka|Notre Dame, IN|NA|NA| 102.00000
+Fairfield Inn & Suites Dallas Plano|Frisco, TX|NA|NA|  76.00000
+Fairfield Inn & Suites Lexington Keeneland Airport|Lexington, KY|NA|NA| 102.00000
+Fairfield Inn & Suites Natchitoches|Natchitoches, LA|NA|NA| 143.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA||NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Ann Arbor, MI|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Auburn, AL|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Austin, TX|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Chapel Hill, NC|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Cincinnati, OH|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Dayton, OH|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Durham, NC|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Fayetteville, AR|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Fort Worth, TX|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Hartford, CT|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Houston, TX|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Indianapolis, IN|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Knoxville, TN|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Lawrence, KS|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Lexington, KY|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Omaha, NE|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Spokane, WA|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Storrs, CT|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Tucson, AZ|NA|NA|  85.00000
+Fairfield Inn & Suites Omaha East/Council Bluffs, IA|Tuscaloosa, AL|NA|NA|  85.00000
+Fairfield Inn & Suites Tampa Westshore / Airport|Tampa, FL|NA|NA| 182.00000
+Fairfield Inn & Suites Youngstown Boardman/Poland|Youngstown, OH|NA|NA| 112.00000
+Fairfield Inn and Suites by Marriott Sacramento Elk Grove|Sacramento, CA|38.455238|-121.4081651| 187.00000
+Fairfield Inn by Marriott Columbia Northwest|Columbia, SC|34.083376| -80.9444630| 106.00000
+Feather Factory|East Rutherford, NJ|40.833989| -74.0970865| 127.00000
+Feather Factory|New York, NY|40.744101| -73.9406222| 127.00000
+Fontainebleau Miami Beach|Miami, FL|25.817837| -80.1227119|1229.00000
+Fortune House Hotel Suites|Coral Gables, FL|25.759412| -80.1909976| 502.00000
+Four Points by Sheraton Omaha Midtown|Tucson, AZ|41.256537| -95.9345034|  94.00000
+Fullerton Inn - Near Medieval Times|Anaheim, CA|33.859373|-117.9728453|  81.00000
+Gamma Ciudad Juarez|El Paso, TX|31.742916|-106.4528422| 109.00000
+Glen Capri Inn & Suites - Burbank Universal|Pasadena, CA|NA|NA| 105.00000
+Grand Bay Hotel San Francisco|Stanford, CA|37.523722|-122.2606361| 233.00000
+Grand Victorian - Spring Lake|West Long Branch, NJ|40.290389| -74.0176381| 227.00000
+Great Wolf Lodge Williamsburg|Williamsburg, VA|37.348803| -76.7309277| 271.00000
+Green Park Inn|Boone, NC|36.118528| -81.6602571| 145.00000
+Greensprings Vacation Resort|Williamsburg, VA|37.265592| -76.7963834| 131.00000
+GreenTree Inn & Suites Alhambra|Pasadena, CA|40.416916| -80.0453561| 138.00000
+Griffin Hotel - A Colonial Williamsburg Hotel|Williamsburg, VA|37.268536| -76.6947631| 280.00000
+H3 Inn & Suites - LAX Airport - Los Angeles|Inglewood, CA|33.945688|-118.3604403|  91.00000
+Hampton Inn & Suites Abilene I-20|Abilene, TX|NA|NA| 160.00000
+Hampton Inn & Suites Baltimore/Woodlawn|Baltimore, MD|NA|NA| 113.00000
+Hampton Inn & Suites Baltimore/Woodlawn|Towson, MD|NA|NA| 113.00000
+Hampton Inn & Suites Bethlehem|Easton, PA|NA|NA| 156.00000
+Hampton Inn & Suites Boston Crosstown Center|Allston, MA|NA|NA| 157.00000
+Hampton Inn & Suites Chapel Hill/Durham, Area|Durham, NC|NA|NA| 145.00000
+Hampton Inn & Suites Charlottesville-At the University|Charlottesville, VA|NA|NA| 148.00000
+Hampton Inn & Suites Cleveland Southeast/Streetsboro|Kent, OH|NA|NA| 119.00000
+Hampton Inn & Suites Conway|Conway, AR|NA|NA| 114.00000
+Hampton Inn & Suites Dallas Arlington N Entertainment Dist.|Arlington, TX|NA|NA| 117.00000
+Hampton Inn & Suites Dallas Market Center|Dallas, TX|NA|NA| 125.00000
+Hampton Inn & Suites Dallas/Frisco North-FieldhouseUSA|Frisco, TX|NA|NA| 137.00000
+Hampton Inn & Suites Dallas/Plano Central|McKinney, TX|NA|NA|  87.00000
+Hampton Inn & Suites Deptford|Philadelphia, PA|NA|NA| 135.00000
+Hampton Inn & Suites Fort Myers-Estero/FGCU|Estero, FL|NA|NA| 230.00000
+Hampton Inn & Suites Foxborough/Mansfield|Foxborough, MA|NA|NA| 189.00000
+Hampton Inn & Suites Glenarden/Washington DC|Landover, MD|NA|NA| 124.00000
+Hampton Inn & Suites Harvey/New Orleans West Bank|New Orleans, LA|NA|NA| 125.00000
+Hampton Inn & Suites Huntsville Downtown|Huntsville, AL|NA|NA| 173.00000
+Hampton Inn & Suites Lansing West|East Lansing, MI|NA|NA| 110.00000
+Hampton Inn & Suites Legacy Park-Frisco|Frisco, TX|NA|NA| 120.00000
+Hampton Inn & Suites Moore|Norman, OK|NA|NA| 100.00000
+Hampton Inn & Suites Muncie|Muncie, IN|NA|NA| 133.00000
+Hampton Inn & Suites National Harbor - Alexandria Area|Washington, DC|NA|NA| 354.00000
+Hampton Inn & Suites Orangeburg|Orangeburg, SC|NA|NA| 149.00000
+Hampton Inn & Suites Phoenix Glendale-Westgate|Glendale, AZ|NA|NA| 164.00000
+Hampton Inn & Suites Phoenix Glendale-Westgate|Phoenix, AZ|NA|NA| 164.00000
+Hampton Inn & Suites State College at Williamsburg Square|University Park, PA|NA|NA| 188.00000
+Hampton Inn & Suites Teaneck Glenpointe|New York, NY|NA|NA| 146.00000
+Hampton Inn & Suites Valparaiso|Valparaiso, IN|NA|NA| 162.00000
+Hampton Inn & Suites-Dallas Allen|McKinney, TX|NA|NA| 106.00000
+Hampton Inn Austin North @ I - 35 & Hwy 183|Austin, TX|30.336932| -97.6996422| 106.00000
+Hampton Inn Birmingham I-65/Lakeshore Drive|Birmingham, AL|33.457788| -86.8210807| 140.00000
+Hampton Inn Boston - Logan Airport|Allston, MA|42.401256| -71.0063568| 133.00000
+Hampton Inn Carlstadt-At The Meadowlands|Bronx, NY|40.821616| -74.0689337| 129.00000
+Hampton Inn Council Bluffs||41.240860| -95.9101617| 113.00000
+Hampton Inn Council Bluffs|Ann Arbor, MI|42.280826| -83.7430378| 113.00000
+Hampton Inn Council Bluffs|Auburn, AL|41.240860| -95.9101617| 113.00000
+Hampton Inn Council Bluffs|Austin, TX|30.433026| -97.7178738| 113.00000
+Hampton Inn Council Bluffs|Chapel Hill, NC|35.913200| -79.0558445| 113.00000
+Hampton Inn Council Bluffs|Cincinnati, OH|39.103118| -84.5120196| 113.00000
+Hampton Inn Council Bluffs|Dayton, OH|39.758948| -84.1916069| 113.00000
+Hampton Inn Council Bluffs|Durham, NC|35.994033| -78.8986190| 113.00000
+Hampton Inn Council Bluffs|Fayetteville, AR|41.240860| -95.9101617| 113.00000
+Hampton Inn Council Bluffs|Fort Worth, TX|33.008798| -97.2571141| 113.00000
+Hampton Inn Council Bluffs|Hartford, CT|41.240860| -95.9101617| 113.00000
+Hampton Inn Council Bluffs|Houston, TX|29.760427| -95.3698028| 113.00000
+Hampton Inn Council Bluffs|Indianapolis, IN|39.768403| -86.1580680| 113.00000
+Hampton Inn Council Bluffs|Knoxville, TN|35.960638| -83.9207392| 113.00000
+Hampton Inn Council Bluffs|Lawrence, KS|38.971669| -95.2352501| 113.00000
+Hampton Inn Council Bluffs|Lexington, KY|38.040584| -84.5037164| 113.00000
+Hampton Inn Council Bluffs|Omaha, NE|41.240860| -95.9101617| 113.00000
+Hampton Inn Council Bluffs|Spokane, WA|47.658780|-117.4260466| 113.00000
+Hampton Inn Council Bluffs|Storrs, CT|41.240860| -95.9101617| 113.00000
+Hampton Inn Council Bluffs|Tucson, AZ|32.253979|-110.9741769| 113.00000
+Hampton Inn Council Bluffs|Tuscaloosa, AL|33.209841| -87.5691735| 113.00000
+Hampton Inn Easley|Greenville, SC|34.826122| -82.5321369| 141.00000
+Hampton Inn East Windsor|Princeton, NJ|40.269908| -74.5078263| 135.00000
+Hampton Inn Ft. Lauderdale-West/Pembroke Pines|Miami Gardens, FL|26.025456| -80.3476793| 137.00000
+Hampton Inn Gainesville|Gainesville, FL|29.614970| -82.3825961| 118.00000
+Hampton Inn Greenville/I-385 Haywood Mall|Greenville, SC|34.853978| -82.3367424| 163.00000
+Hampton Inn Huntsville-Arsenal/South Pkway|Huntsville, AL|34.670311| -86.5757418| 138.00000
+Hampton Inn Memphis-Poplar|Memphis, TN|35.108304| -89.8846892| 134.00000
+Hampton Inn New Orleans-St. Charles Ave./Garden District|New Orleans, LA|29.926930| -90.0939953| 199.00000
+Hampton Inn Pittsburgh/Greentree|Pittsburgh, PA|40.419314| -80.0537695| 115.00000
+Hampton Inn Ridgefield Park|East Rutherford, NJ|40.844707| -74.0147481| 126.00000
+Hampton Inn Ridgefield Park|New York, NY|40.844707| -74.0147481| 126.00000
+Hampton Inn Shreveport Airport|Shreveport, LA|32.457261| -93.8274103| 139.00000
+Harborview Inn & Suites San Diego Harbor|San Diego, CA|32.779201| -79.9257978| 105.00000
+HarbourView Inn|Charleston, SC|32.779201| -79.9257978| 389.00000
+Harding Ave by Sextant|Miami Gardens, FL|25.942038| -80.2456045| 687.00000
+Harmony Suites|New York, NY|40.788545| -74.0431397| 164.00000
+Harrahs Council Bluffs Hotel & Casino||41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Ann Arbor, MI|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Auburn, AL|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Austin, TX|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Chapel Hill, NC|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Cincinnati, OH|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Dayton, OH|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Durham, NC|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Fayetteville, AR|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Fort Worth, TX|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Hartford, CT|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Houston, TX|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Indianapolis, IN|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Knoxville, TN|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Lawrence, KS|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Lexington, KY|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Spokane, WA|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Storrs, CT|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Tucson, AZ|41.251226| -95.9145820| 108.00000
+Harrahs Council Bluffs Hotel & Casino|Tuscaloosa, AL|41.251226| -95.9145820| 108.00000
+Harrahs New Orleans Casino & Hotel|New Orleans, LA|29.947930| -90.0655331| 390.00000
+Hawthorn Suites by Wyndham Dallas/Love Field Airport|Dallas, TX|32.818960| -96.8647951|  85.00000
+Hilton Garden Inn Bossier City, LA|Shreveport, LA|32.518133| -93.7108020| 145.00000
+Hilton Garden Inn Boston Brookline, MA|Chestnut Hill, MA|42.332108| -71.1140116| 199.00000
+Hilton Garden Inn Durham Southpoint|Durham, NC|35.902347| -78.9386158| 180.00000
+Hilton Garden Inn Las Vegas City Center|Las Vegas, NV|36.105835|-115.1821893| 421.00000
+Hilton Garden Inn Omaha East/Council Bluffs||41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Ann Arbor, MI|41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Auburn, AL|41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Austin, TX|30.267153| -97.7430608| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Chapel Hill, NC|35.913200| -79.0558445| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Cincinnati, OH|41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Dayton, OH|41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Durham, NC|41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Fayetteville, AR|36.062658| -94.1605839| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Fort Worth, TX|32.755488| -97.3307658| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Hartford, CT|41.765804| -72.6733723| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Houston, TX|29.760427| -95.3698028| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Indianapolis, IN|39.768403| -86.1580680| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Knoxville, TN|35.960638| -83.9207392| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Lawrence, KS|41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Lexington, KY|41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Omaha, NE|41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Spokane, WA|47.658780|-117.4260466| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Storrs, CT|41.808431| -72.2495231| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Tucson, AZ|41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Omaha East/Council Bluffs|Tuscaloosa, AL|41.236085| -95.8872548| 113.00000
+Hilton Garden Inn Owings Mills|Towson, MD|39.402787| -76.7967403| 107.00000
+Hilton Garden Inn Palo Alto|Santa Clara, CA|37.409191|-122.1226482| 404.00000
+Hilton Garden Inn Sacramento Elk Grove|Sacramento, CA|38.422770|-121.3976085| 177.00000
+Hilton Garden Inn Shreveport|Shreveport, LA|32.451254| -93.8566732| 127.00000
+Hilton Garden Inn Valley Forge/Oaks|Villanova, PA|40.130173| -75.4505983| 136.00000
+Hilton Grand Vacations Club on the Las Vegas Strip|Las Vegas, NV|36.139879|-115.1608993| 453.00000
+Hilton Meadowlands|New York, NY|40.805202| -74.0781257| 142.00000
+Hilton Omaha||41.263103| -95.9303991| 240.00000
+Hilton Omaha|Ann Arbor, MI|42.280826| -83.7430378| 240.00000
+Hilton Omaha|Auburn, AL|41.263103| -95.9303991| 240.00000
+Hilton Omaha|Austin, TX|30.267153| -97.7430608| 240.00000
+Hilton Omaha|Chapel Hill, NC|35.913200| -79.0558445| 240.00000
+Hilton Omaha|Cincinnati, OH|39.133631| -84.4928498| 240.00000
+Hilton Omaha|Dayton, OH|39.758948| -84.1916069| 240.00000
+Hilton Omaha|Durham, NC|35.994033| -78.8986190| 240.00000
+Hilton Omaha|Fayetteville, AR|36.062658| -94.1605839| 240.00000
+Hilton Omaha|Fort Worth, TX|32.776286| -97.4638738| 240.00000
+Hilton Omaha|Hartford, CT|41.263103| -95.9303991| 240.00000
+Hilton Omaha|Houston, TX|29.755824| -95.4564793| 240.00000
+Hilton Omaha|Indianapolis, IN|39.768403| -86.1580680| 240.00000
+Hilton Omaha|Knoxville, TN|35.923553| -84.2147293| 240.00000
+Hilton Omaha|Lawrence, KS|41.263103| -95.9303991| 240.00000
+Hilton Omaha|Lexington, KY|41.263103| -95.9303991| 240.00000
+Hilton Omaha|Spokane, WA|47.658780|-117.4260466| 240.00000
+Hilton Omaha|Storrs, CT|41.808431| -72.2495231| 240.00000
+Hilton Omaha|Tucson, AZ|32.253979|-110.9741769| 240.00000
+Hilton Omaha|Tuscaloosa, AL|33.209841| -87.5691735| 240.00000
+Hilton San Jose|Santa Clara, CA|37.329303|-121.8905809| 351.00000
+Hilton Santa Clara|Santa Clara, CA|37.402627|-121.9768768| 305.00000
+Hilton Shreveport|Shreveport, LA|32.517065| -93.7511069| 140.00000
+Hilton Washington DC Capitol Hill|College Park, MD|38.896850| -77.0109060| 599.00000
+Hilton Washington DC Capitol Hill|Landover, MD|38.896850| -77.0109060| 599.00000
+Hilton Washington DC National Mall The Wharf|College Park, MD|38.883920| -77.0239952| 552.50000
+Hilton Washington DC National Mall The Wharf|Landover, MD|38.883920| -77.0239952| 552.00000
+Holiday Inn & Suites McKinney - N Allen, an IHG Hotel|McKinney, TX|NA|NA| 111.00000
+Holiday Inn Chicago – Midway Airport S, an IHG hotel|Chicago, IL|41.758660| -87.7409176| 166.00000
+Holiday Inn Club Vacations Williamsburg Resort, an IHG Hotel|Williamsburg, VA|37.350833| -76.7393824| 168.00000
+Holiday Inn Express & Suites Abilene, an IHG Hotel|Abilene, TX|NA|NA| 103.00000
+Holiday Inn Express & Suites American Fork - North Provo, an IHG Hotel|Provo, UT|NA|NA| 119.00000
+Holiday Inn Express & Suites Birmingham - Homewood, an IHG Hotel|Birmingham, AL|NA|NA| 149.00000
+Holiday Inn Express & Suites Bloomington - Normal, an IHG Hotel|Normal, IL|NA|NA| 130.00000
+Holiday Inn Express & Suites Conway, an IHG Hotel|Conway, AR|NA|NA| 101.00000
+Holiday Inn Express & Suites Dallas NE - Allen, an IHG Hotel|Frisco, TX|NA|NA|  96.00000
+Holiday Inn Express & Suites Dallas NE - Allen, an IHG Hotel|McKinney, TX|NA|NA|  96.00000
+Holiday Inn Express & Suites Dallas-Frisco NW Toyota Stdm, an IHG Hotel|Frisco, TX|NA|NA| 111.00000
+Holiday Inn Express & Suites Elk Grove West I-5, an IHG Hotel|Sacramento, CA|NA|NA| 156.00000
+Holiday Inn Express & Suites Fort Lauderdale Airport South, an IHG Hotel|Miami Gardens, FL|NA|NA| 157.00000
+Holiday Inn Express & Suites Harrisonburg University Area, an IHG Hotel|Harrisonburg, VA|NA|NA| 127.00000
+Holiday Inn Express & Suites Kent - University Area, an IHG Hotel|Kent, OH|NA|NA| 135.00000
+Holiday Inn Express & Suites McKinney - Frisco East, an IHG Hotel|Frisco, TX|NA|NA|  85.00000
+Holiday Inn Express & Suites McKinney - Frisco East, an IHG Hotel|McKinney, TX|NA|NA|  85.00000
+Holiday Inn Express & Suites Miami - Hialeah, an IHG Hotel|Miami Gardens, FL|NA|NA| 146.00000
+Holiday Inn Express & Suites Moore, an IHG Hotel|Norman, OK|NA|NA| 109.00000
+Holiday Inn Express & Suites Norwood-Boston Area, an IHG Hotel|Foxborough, MA|NA|NA| 155.00000
+Holiday Inn Express & Suites Oklahoma City Southeast I-35, an IHG Hotel|Oklahoma City, OK|NA|NA| 107.00000
+Holiday Inn Express & Suites Orange City - Deltona, an IHG Hotel|Deland, FL|NA|NA| 118.00000
+Holiday Inn Express & Suites Phoenix - Glendale Sports Dist, an IHG Hotel|Glendale, AZ|NA|NA| 154.00000
+Holiday Inn Express & Suites Plano - The Colony, an IHG Hotel|Frisco, TX|NA|NA|  96.00000
+Holiday Inn Express & Suites San Antonio SE By At&t Center, an IHG Hotel|San Antonio, TX|NA|NA| 119.00000
+Holiday Inn Express & Suites San Jose Silicon Valley, an IHG Hotel|San Jose, CA|NA|NA| 145.00000
+Holiday Inn Express & Suites Sylva - Western Carolina Area, an IHG Hotel|Cullowhee, NC|NA|NA| 127.00000
+Holiday Inn Express & Suites W. Monroe, an IHG Hotel|Monroe, LA|NA|NA| 141.00000
+Holiday Inn Express & Suites Windsor East - Lakeshore, an IHG Hotel|Detroit, MI|NA|NA| 139.00000
+Holiday Inn Express & Suites Youngstown West - Austintown, an IHG Hotel|Youngstown, OH|NA|NA| 119.00000
+Holiday Inn Express And Suites Detroit Dearborn, an IHG Hotel|Detroit, MI|42.335254| -83.2144128| 146.00000
+Holiday Inn Express And Suites Greenville - Taylors, an IHG Hotel|Greenville, SC|34.884261| -82.3568976| 136.00000
+Holiday Inn Express And Suites Omaha Downtown - Airport, an IHG Hotel|Tucson, AZ|32.130086|-110.9331827| 111.00000
+Holiday Inn Express Atlanta Airport - College Park, an IHG Hotel|Atlanta, GA|33.630383| -84.4585768| 106.00000
+Holiday Inn Express Frisco, an IHG Hotel|Frisco, TX|33.108235| -96.8165216| 106.00000
+Holiday Inn Express Hotel & Stes Kansas City Sports Complex, an IHG Hotel|Kansas City, MO|NA|NA| 129.00000
+Holiday Inn Express Hotel & Suites Bozeman West, an IHG Hotel|Bozeman, MT|NA|NA| 187.00000
+Holiday Inn Express Hotel & Suites Cape Girardeau I-55, an IHG Hotel|Cape Girardeau, MO|NA|NA| 127.00000
+Holiday Inn Express Hotel & Suites Chicago-Midway Airport, an IHG Hotel|Chicago, IL|NA|NA| 158.00000
+Holiday Inn Express Hotel & Suites Cleveland-Streetsboro, an IHG Hotel|Kent, OH|NA|NA| 116.00000
+Holiday Inn Express Hotel & Suites Cookeville, an IHG Hotel|Cookeville, TN|NA|NA| 136.00000
+Holiday Inn Express Hotel & Suites Easton, an IHG Hotel|Easton, PA|NA|NA| 145.00000
+Holiday Inn Express Hotel & Suites Hamburg, an IHG Hotel|Orchard Park, NY|NA|NA| 132.00000
+Holiday Inn Express Hotel & Suites Meadowlands Area, an IHG Hotel|East Rutherford, NJ|NA|NA| 163.00000
+Holiday Inn Express Hotel & Suites Milwaukee Airport, an IHG Hotel|Milwaukee, WI|NA|NA| 102.00000
+Holiday Inn Express Hotel & Suites Missoula, an IHG Hotel|Missoula, MT|NA|NA| 148.00000
+Holiday Inn Express Hotel & Suites Natchitoches, an IHG Hotel|Natchitoches, LA|NA|NA| 158.00000
+Holiday Inn Express Hotel & Suites Orangeburg, an IHG Hotel|Orangeburg, SC|NA|NA| 140.00000
+Holiday Inn Express Hotel & Suites Oxford, an IHG Hotel|University, MS|NA|NA|  96.00000
+Holiday Inn Express Hotel & Suites Raleigh SW NC State, an IHG Hotel|Raleigh, NC|NA|NA| 169.00000
+Holiday Inn Express Hotel & Suites River Park, an IHG Hotel|Fresno, CA|NA|NA| 143.00000
+Holiday Inn Express Hotel & Suites White River Junction, an IHG Hotel|Hanover, NH|NA|NA| 176.00000
+Holiday Inn Express Las Vegas South, an IHG Hotel|Las Vegas, NV|36.084782|-115.1847820| 170.36842
+Holiday Inn Express Los Angeles Airport Hawthorne, an IHG Hotel|Inglewood, CA|33.930134|-118.3522863| 170.00000
+Holiday Inn Express Los Angeles Airport, an IHG Hotel|Inglewood, CA|33.959169|-118.3850236| 169.00000
+Holiday Inn Express Nicholasville, an IHG Hotel|Lexington, KY|37.901275| -84.5664462|  92.00000
+Holiday Inn Express Philadelphia-Midtown, an IHG Hotel|Philadelphia, PA|39.949357| -75.1623767| 167.00000
+Holiday Inn Express Pittsburgh East - Mall Area, an IHG Hotel|Pittsburgh, PA|40.413584| -79.9040655| 117.00000
+Holiday Inn Express Redwood City-Central, an IHG Hotel|Stanford, CA|37.477660|-122.2244358| 234.00000
+Holiday Inn Glendale - Stadium & Ent Dist, an IHG Hotel|Glendale, AZ|NA|NA| 156.00000
+Holiday Inn Hasbrouck Heights-Meadowlands, an IHG Hotel|East Rutherford, NJ|40.860643| -74.0675573| 144.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel||NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Ann Arbor, MI|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Auburn, AL|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Austin, TX|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Chapel Hill, NC|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Cincinnati, OH|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Dayton, OH|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Durham, NC|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Fayetteville, AR|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Fort Worth, TX|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Hartford, CT|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Houston, TX|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Indianapolis, IN|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Knoxville, TN|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Lawrence, KS|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Lexington, KY|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Omaha, NE|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Spokane, WA|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Storrs, CT|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Tucson, AZ|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Council Bluffs I-29, an IHG Hotel|Tuscaloosa, AL|NA|NA| 117.00000
+Holiday Inn Hotel & Suites Oklahoma City North, an IHG Hotel|Oklahoma City, OK|NA|NA| 107.00000
+Holiday Inn Indianapolis Carmel, an IHG Hotel|Indianapolis, IN|39.931155| -86.1522747| 120.00000
+Holiday Inn New Orleans - Downtown Superdome, an IHG Hotel|New Orleans, LA|29.952993| -90.0749665| 179.00000
+Holiday Inn Omaha Downtown - Waterpark, an IHG Hotel|Tucson, AZ|41.263720| -95.9371289| 111.00000
+Holiday Inn Shreveport Downtown, an IHG Hotel|Shreveport, LA|32.512349| -93.7434893| 139.00000
+Holiday Inn St. Louis - Downtown Conv Ctr, an IHG Hotel|Saint Louis, MO|38.632756| -90.1924546| 477.00000
+Holiday Inn St. Louis - Downtown Conv Ctr, an IHG Hotel|St. Louis, MO|38.632756| -90.1924546| 477.00000
+Holiday Inn Woodruff Road, an IHG Hotel|Greenville, SC|34.830782| -82.3032356| 108.00000
+Hollywood Beach Suites, a South Beach Group Hotel|Miami Gardens, FL|25.779029| -80.1317192| 107.00000
+Home2 Suites by Hilton Boston South Bay|Chestnut Hill, MA|42.325825| -71.0607396| 155.00000
+Home2 Suites by Hilton Dallas North Park|Dallas, TX|32.891034| -96.7667504| 114.00000
+Home2 Suites by Hilton Hasbrouck Heights|East Rutherford, NJ|40.862891| -74.0657973| 165.00000
+Home2 Suites by Hilton Las Vegas City Center|Las Vegas, NV|36.099687|-115.1819903| 347.00000
+Home2 Suites by Hilton Shreveport|Shreveport, LA|32.445518| -93.7232208| 173.00000
+Home2 Suites by Hilton West Sacramento, CA|Sacramento, CA|38.582218|-121.5215740| 154.00000
+Home2 Suites Montgomery Prattville|Montgomery, AL|32.464025| -86.4596966| 173.00000
+Homewood Suites by Hilton Arlington Rosslyn Key Bridge|Washington, DC|38.897337| -77.0790560| 193.00000
+Homewood Suites by Hilton Chicago Downtown South Loop|Chicago, IL|41.869154| -87.6256129| 229.00000
+Homewood Suites by Hilton Concord Charlotte|Charlotte, NC|35.363025| -80.7018599| 115.00000
+Homewood Suites by Hilton East Rutherford - Meadowlands|East Rutherford, NJ|40.829524| -74.0935940| 189.00000
+Homewood Suites by Hilton Miami-Airport/Blue Lagoon|Miami, FL|25.781684| -80.2845964| 126.00000
+Homewood Suites by Hilton Orlando-Int'l Drive/Convention Ctr|Orlando, FL|28.417917| -81.3041451| 371.00000
+Homewood Suites by Hilton Shreveport|Shreveport, LA|32.453296| -93.8456547| 133.00000
+Homewood Suites by Hilton Williamsburg|Williamsburg, VA|37.285130| -76.7093723| 115.00000
+Homewood Suites Phoenix Avondale|Glendale, AZ|33.457554|-112.3036363| 181.00000
+Horseshoe Bossier Casino & Hotel|Shreveport, LA|32.515245| -93.7382067| 105.00000
+Hotel 1868|Allston, MA|42.387904| -71.1196093| 141.00000
+Hotel Blackfoot|Calgary, Canada|51.000414|-114.0470133| 140.00000
+Hotel BnB-2|Chicago, IL|41.895846| -87.6379710| 170.00000
+Hotel Broad Ripple|Indianapolis, IN|39.874257| -86.1417307| 205.00000
+Hotel Citrine, Palo Alto, a Tribute Portfolio Hotel|Santa Clara, CA|37.417973|-122.1024605| 402.00000
+Hotel Deco||41.256682| -95.9360909| 175.00000
+Hotel Deco|Ann Arbor, MI|42.280826| -83.7430378| 175.00000
+Hotel Deco|Auburn, AL|32.609857| -85.4807825| 175.00000
+Hotel Deco|Austin, TX|30.267153| -97.7430608| 175.00000
+Hotel Deco|Chapel Hill, NC|35.913200| -79.0558445| 175.00000
+Hotel Deco|Cincinnati, OH|39.103118| -84.5120196| 175.00000
+Hotel Deco|Dayton, OH|39.758948| -84.1916069| 175.00000
+Hotel Deco|Durham, NC|35.994033| -78.8986190| 175.00000
+Hotel Deco|Fayetteville, AR|36.062658| -94.1605839| 175.00000
+Hotel Deco|Fort Worth, TX|32.755488| -97.3307658| 175.00000
+Hotel Deco|Hartford, CT|41.765804| -72.6733723| 175.00000
+Hotel Deco|Houston, TX|29.967437| -95.5388348| 175.00000
+Hotel Deco|Indianapolis, IN|39.768403| -86.1580680| 175.00000
+Hotel Deco|Knoxville, TN|35.960638| -83.9207392| 175.00000
+Hotel Deco|Lawrence, KS|38.971669| -95.2352501| 175.00000
+Hotel Deco|Lexington, KY|38.040584| -84.5037164| 175.00000
+Hotel Deco|Spokane, WA|47.658780|-117.4260466| 175.00000
+Hotel Deco|Storrs, CT|41.808431| -72.2495231| 175.00000
+Hotel Deco|Tucson, AZ|32.253979|-110.9741769| 175.00000
+Hotel Deco|Tuscaloosa, AL|33.209841| -87.5691735| 175.00000
+Hotel Griffon|Berkeley, CA|37.792700|-122.3923344| 127.00000
+Hotel Hive|Landover, MD|38.897148| -77.0496138|1195.00000
+Hotel Indigo New Orleans French Quarter, an IHG Hotel|New Orleans, LA|29.952410| -90.0698560| 165.00000
+Hotel Indigo NEW ORLEANS GARDEN DISTRICT, an IHG Hotel|New Orleans, LA|29.934281| -90.0811091| 183.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel||41.260066| -95.9403103| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Ann Arbor, MI|NA|NA| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Auburn, AL|32.609857| -85.4807825| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Austin, TX|30.269131| -97.7366133| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Chapel Hill, NC|35.913200| -79.0558445| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Cincinnati, OH|39.103118| -84.5120196| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Dayton, OH|39.758948| -84.1916069| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Durham, NC|36.027725| -78.9234783| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Fayetteville, AR|36.062658| -94.1605839| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Fort Worth, TX|32.746439| -97.3383310| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Hartford, CT|41.765804| -72.6733723| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Houston, TX|NA|NA| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Indianapolis, IN|39.768403| -86.1580680| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Knoxville, TN|41.256537| -95.9345034| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Lawrence, KS|41.260066| -95.9403103| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Lexington, KY|38.040584| -84.5037164| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Spokane, WA|47.657650|-117.4204379| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Storrs, CT|41.808431| -72.2495231| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Tucson, AZ|32.130086|-110.9331827| 149.00000
+Hotel Indigo Omaha Downtown, an IHG Hotel|Tuscaloosa, AL|33.209841| -87.5691735| 149.00000
+Hotel Monteleone, New Orleans|New Orleans, LA|29.954222| -90.0677562| 454.00000
+Hotel Nexus, BW Signature Collection|Seattle, WA|47.709128|-122.3322840| 137.00000
+Hotel Nirvana|East Rutherford, NJ|40.759242| -73.9398854| 118.00000
+Hotel Spero|Berkeley, CA|37.786150|-122.4116840| 413.00000
+Hotel Spero|San Francisco, CA|37.786150|-122.4116840| 419.23077
+Hotel The Villa|East Rutherford, NJ|40.757998| -73.9422479| 107.00000
+Hotel Vance, Portland, a Tribute Portfolio Hotel|Portland, OR|45.514392|-122.6826894| 150.00000
+Hotel Vinache|New Orleans, LA|29.956294| -90.0744306| 110.00000
+Hotel Zephyr San Francisco|San Francisco, CA|37.807809|-122.4132775| 217.00000
+Howard Johnson by Wyndham Chattanooga Lookout Mountain|Chattanooga, TN|35.026292| -85.3630108|  94.00000
+Howard Johnson by Wyndham Clifton NJ|Newark, NJ|40.835514| -74.1495361| 125.00000
+Howard Johnson by Wyndham North Bergen|East Rutherford, NJ|40.764327| -74.0472017| 129.00000
+Howard Johnson by Wyndham Torrance|Inglewood, CA|33.838360|-118.3513312|  95.00000
+Hyatt Centric Arlington|College Park, MD|38.895206| -77.0727105| 467.00000
+Hyatt Centric Faneuil Hall Boston|Allston, MA|42.358253| -71.0571840| 462.00000
+Hyatt Centric Faneuil Hall Boston|Boston, MA|42.358253| -71.0571840| 462.00000
+Hyatt Centric Faneuil Hall Boston|Chestnut Hill, MA|42.358253| -71.0571840| 462.00000
+Hyatt Centric French Quarter|New Orleans, LA|29.954221| -90.0701870| 359.00000
+Hyatt Centric Mountain View|Santa Clara, CA|37.403756|-122.1104426| 365.00000
+HYATT house Belmont/Redwood Shores|Stanford, CA|37.532627|-122.2707057| 168.25000
+Hyatt House Raleigh / RDU / Brier Creek|Durham, NC|35.895591| -78.8066725| 132.00000
+Hyatt House Washington DC/The Wharf|Landover, MD|38.878591| -77.0242409| 371.00000
+Hyatt Place Baltimore/BWI Airport|Baltimore, MD|39.207932| -76.6778628| 123.00000
+Hyatt Place Baltimore/Owings Mills|Towson, MD|39.401820| -76.7845518| 114.00000
+Hyatt Place Boca Raton/Downtown|Boca Raton, FL|26.350020| -80.0859895| 268.00000
+Hyatt Place Boston/Medford|Boston, MA|42.417116| -71.1050696| 141.00000
+Hyatt Place Boston/Medford|Chestnut Hill, MA|42.417116| -71.1050696| 141.00000
+Hyatt Place Dallas/Park Central|Dallas, TX|32.917755| -96.7677028| 108.00000
+Hyatt Place Fort Lee / George Washington Bridge|New York, NY|40.861957| -73.9760191| 184.00000
+Hyatt Place Omaha Downtown Old Market||41.254652| -95.9323026| 136.00000
+Hyatt Place Omaha Downtown Old Market|Ann Arbor, MI|41.254652| -95.9323026| 136.00000
+Hyatt Place Omaha Downtown Old Market|Auburn, AL|32.609857| -85.4807825| 136.00000
+Hyatt Place Omaha Downtown Old Market|Austin, TX|30.272921| -97.7443863| 136.00000
+Hyatt Place Omaha Downtown Old Market|Chapel Hill, NC|35.913200| -79.0558445| 136.00000
+Hyatt Place Omaha Downtown Old Market|Cincinnati, OH|39.103118| -84.5120196| 136.00000
+Hyatt Place Omaha Downtown Old Market|Dayton, OH|39.758948| -84.1916069| 136.00000
+Hyatt Place Omaha Downtown Old Market|Durham, NC|41.254652| -95.9323026| 136.00000
+Hyatt Place Omaha Downtown Old Market|Fayetteville, AR|41.254652| -95.9323026| 136.00000
+Hyatt Place Omaha Downtown Old Market|Fort Worth, TX|32.755488| -97.3307658| 136.00000
+Hyatt Place Omaha Downtown Old Market|Hartford, CT|41.765804| -72.6733723| 136.00000
+Hyatt Place Omaha Downtown Old Market|Houston, TX|41.255576| -95.9310643| 136.00000
+Hyatt Place Omaha Downtown Old Market|Indianapolis, IN|39.768403| -86.1580680| 136.00000
+Hyatt Place Omaha Downtown Old Market|Knoxville, TN|35.964119| -83.9201656| 136.00000
+Hyatt Place Omaha Downtown Old Market|Lawrence, KS|41.254652| -95.9323026| 136.00000
+Hyatt Place Omaha Downtown Old Market|Lexington, KY|41.254652| -95.9323026| 136.00000
+Hyatt Place Omaha Downtown Old Market|Spokane, WA|47.658780|-117.4260466| 136.00000
+Hyatt Place Omaha Downtown Old Market|Storrs, CT|41.808431| -72.2495231| 136.00000
+Hyatt Place Omaha Downtown Old Market|Tucson, AZ|32.253979|-110.9741769| 136.00000
+Hyatt Place Omaha Downtown Old Market|Tuscaloosa, AL|33.209841| -87.5691735| 136.00000
+Hyatt Place Phoenix -North|Glendale, AZ|33.585016|-112.1160553| 132.00000
+Hyatt Place Tampa Airport/Westshore|Tampa, FL|27.957476| -82.5259078| 161.00000
+Hyatt Regency Boston|Allston, MA|42.355509| -71.1328247| 381.00000
+Hyatt Regency Boston|Boston, MA|42.353548| -71.0609509| 381.00000
+Hyatt Regency Boston|Chestnut Hill, MA|42.332867| -71.1727583| 381.00000
+Hyatt Regency Coral Gables|Miami, FL|25.751878| -80.2558201| 394.00000
+Inn at 605|Williamsburg, VA|37.275861| -76.7143560| 257.00000
+Inn At The Convention Center|Portland, OR|45.529867|-122.6611145| 127.00000
+Insignia Hotel, Ascend Hotel Collection|Brooklyn, NY|40.635720| -74.0110670| 174.00000
+InterContinental - New York Times Square, an IHG Hotel|East Rutherford, NJ|40.758661| -73.9893761| 704.00000
+InterContinental Boston, an IHG Hotel|Allston, MA|42.353691| -71.0519125| 582.00000
+InterContinental Washington D.C. - The Wharf, an IHG Hotel|Landover, MD|38.879364| -77.0249025| 527.00000
+Irvine Marriott|Anaheim, CA|33.836593|-117.9143012| 423.00000
+John Hotel|New York, NY|40.760273| -73.8342783| 134.00000
+John Thomas Bed and Breakfast|Monroe, LA|32.498923| -92.1255879| 120.00000
+JW Marriott Austin|Austin, TX|30.264208| -97.7434655| 521.00000
+JW Marriott New Orleans|New Orleans, LA|29.952173| -90.0691413| 768.00000
+JW Marriott San Francisco Union Square|Berkeley, CA|37.788319|-122.4104901| 412.00000
+JW Marriott San Francisco Union Square|San Francisco, CA|37.788319|-122.4104901| 412.00000
+Kimpton Cottonwood, an IHG Hotel||41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Ann Arbor, MI|42.280826| -83.7430378| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Auburn, AL|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Austin, TX|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Chapel Hill, NC|35.913200| -79.0558445| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Cincinnati, OH|39.103118| -84.5120196| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Dayton, OH|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Durham, NC|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Fayetteville, AR|36.062658| -94.1605839| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Fort Worth, TX|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Hartford, CT|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Houston, TX|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Indianapolis, IN|39.768403| -86.1580680| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Knoxville, TN|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Lawrence, KS|38.971669| -95.2352501| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Lexington, KY|38.040584| -84.5037164| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Spokane, WA|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Storrs, CT|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Tucson, AZ|41.257472| -95.9666939| 183.00000
+Kimpton Cottonwood, an IHG Hotel|Tuscaloosa, AL|33.209841| -87.5691735| 183.00000
+Kimpton George Hotel, an IHG Hotel|College Park, MD|38.896331| -77.0098888| 455.00000
+Kimpton George Hotel, an IHG Hotel|Landover, MD|38.896331| -77.0098888| 455.00000
+Kimpton George Hotel, an IHG Hotel|Washington, DC|38.896331| -77.0098888| 455.00000
+King George Hotel|Berkeley, CA|37.786777|-122.4092908| 122.00000
+King George Hotel|San Francisco, CA|37.786777|-122.4092908| 122.00000
+Knights Inn San Antonio near AT&T Center|San Antonio, TX|29.425725| -98.4189364|  70.00000
+La Quinta Inn & Suites by Wyndham Abilene Mall|Abilene, TX|NA|NA| 104.00000
+La Quinta Inn & Suites by Wyndham Allen at The Village|McKinney, TX|NA|NA|  80.00000
+La Quinta Inn & Suites by Wyndham Arlington North 6 Flags Dr|Arlington, TX|NA|NA| 115.00000
+La Quinta Inn & Suites by Wyndham Baltimore N / White Marsh|Baltimore, MD|NA|NA| 103.00000
+La Quinta Inn & Suites by Wyndham Baltimore S. Glen Burnie|Baltimore, MD|NA|NA|  98.00000
+La Quinta Inn & Suites by Wyndham Baton Rouge - Port Allen|Baton Rouge, LA|NA|NA| 128.00000
+La Quinta Inn & Suites by Wyndham Blue Springs|Kansas City, MO|NA|NA|  88.00000
+La Quinta Inn & Suites by Wyndham Boone University|Boone, NC|NA|NA| 127.00000
+La Quinta Inn & Suites by Wyndham Boston Somerville|Allston, MA|NA|NA| 148.00000
+La Quinta Inn & Suites by Wyndham Boston-Andover|North Andover, MA|NA|NA| 126.00000
+La Quinta Inn & Suites by Wyndham Clifton/Rutherford|East Rutherford, NJ|NA|NA| 151.00000
+La Quinta Inn & Suites by Wyndham Corpus Christi Southeast|Corpus Christi, TX|NA|NA| 118.00000
+La Quinta Inn & Suites by Wyndham Dallas Arlington South|Arlington, TX|NA|NA|  84.00000
+La Quinta Inn & Suites by Wyndham Dallas Grand Prairie South|Arlington, TX|NA|NA| 127.00000
+La Quinta Inn & Suites by Wyndham Dallas Plano - The Colony|Frisco, TX|NA|NA|  91.00000
+La Quinta Inn & Suites by Wyndham Dallas Plano West|Frisco, TX|NA|NA|  85.00000
+La Quinta Inn & Suites by Wyndham DC Metro Capital Beltway|Landover, MD|NA|NA|  85.00000
+La Quinta Inn & Suites by Wyndham Denver Southwest Lakewood|Denver, CO|NA|NA|  93.00000
+La Quinta Inn & Suites by Wyndham Fargo-Medical Center|Fargo, ND|NA|NA| 112.00000
+La Quinta Inn & Suites by Wyndham Flagstaff East I-40|Flagstaff, AZ|NA|NA| 159.00000
+La Quinta Inn & Suites by Wyndham Fort Worth Eastchase|Arlington, TX|NA|NA| 108.00000
+La Quinta Inn & Suites by Wyndham Frisco|Frisco, TX|NA|NA| 118.00000
+La Quinta Inn & Suites by Wyndham Ft. Lauderdale Airport|Miami Gardens, FL|NA|NA| 149.00000
+La Quinta Inn & Suites by Wyndham Lackawanna|Orchard Park, NY|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Las Vegas Airport South|Las Vegas, NV|NA|NA| 146.00000
+La Quinta Inn & Suites by Wyndham LAX|Inglewood, CA|NA|NA| 131.00000
+La Quinta Inn & Suites by Wyndham McKinney|Frisco, TX|NA|NA|  96.00000
+La Quinta Inn & Suites by Wyndham Miami Lakes|Miami Gardens, FL|NA|NA| 117.00000
+La Quinta Inn & Suites by Wyndham Minneapolis Bloomington W|Minneapolis, MN|NA|NA|  92.00000
+La Quinta Inn & Suites by Wyndham Montgomery|Montgomery, AL|NA|NA| 110.00000
+La Quinta Inn & Suites by Wyndham New Orleans Airport|New Orleans, LA|NA|NA| 110.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown||NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Ann Arbor, MI|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Auburn, AL|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Austin, TX|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Chapel Hill, NC|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Cincinnati, OH|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Dayton, OH|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Durham, NC|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Fayetteville, AR|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Fort Worth, TX|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Hartford, CT|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Houston, TX|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Indianapolis, IN|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Knoxville, TN|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Lawrence, KS|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Lexington, KY|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Omaha, NE|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Spokane, WA|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Storrs, CT|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Omaha Airport Downtown|Tuscaloosa, AL|NA|NA|  86.00000
+La Quinta Inn & Suites by Wyndham Orlando South|Orlando, FL|NA|NA|  80.00000
+La Quinta Inn & Suites by Wyndham Oxford|University, MS|NA|NA|  97.00000
+La Quinta Inn & Suites by Wyndham Phoenix Chandler|Tempe, AZ|NA|NA| 106.00000
+La Quinta Inn & Suites by Wyndham Phoenix Mesa West|Tempe, AZ|NA|NA| 118.00000
+La Quinta Inn & Suites by Wyndham Phoenix West Peoria|Glendale, AZ|NA|NA| 111.00000
+La Quinta Inn & Suites by Wyndham Raleigh Durham Intl AP|Durham, NC|NA|NA|  84.00000
+La Quinta Inn & Suites by Wyndham Salem NH|North Andover, MA|NA|NA| 102.00000
+La Quinta Inn & Suites by Wyndham San Marcos Outlet Mall|San Marcos, TX|NA|NA| 107.00000
+La Quinta Inn & Suites by Wyndham Secaucus Meadowlands|East Rutherford, NJ|NA|NA| 147.00000
+La Quinta Inn & Suites by Wyndham Secaucus Meadowlands|New York, NY|NA|NA| 147.00000
+La Quinta Inn & Suites by Wyndham Shreveport Airport|Shreveport, LA|NA|NA| 113.00000
+La Quinta Inn by Wyndham San Antonio Brooks City Base|San Antonio, TX|29.351026| -98.4290892|  93.00000
+La Quinta Inn by Wyndham San Antonio I-35 N at Rittiman Rd|San Antonio, TX|29.488677| -98.4015502|  70.00000
+La Quinta Inn by Wyndham San Antonio South Park|San Antonio, TX|29.355212| -98.5259736|  61.00000
+La Quinta Inn by Wyndham Vancouver Airport|Vancouver, Canada|49.177594|-123.1272144| 125.00000
+Le Meridien Arlington|College Park, MD|38.897275| -77.0700761| 536.00000
+Le Méridien Essex Chicago|Chicago, IL|41.871720| -87.6245810| 265.00000
+Le Meridien San Francisco|Berkeley, CA|37.794705|-122.4007267| 698.00000
+Le Méridien Tampa, The Courthouse|Tampa, FL|27.950072| -82.4574567| 232.00000
+Le Pavillon New Orleans|New Orleans, LA|29.950523| -90.0727996| 454.00000
+LeBossier Hotel|Shreveport, LA|32.530731| -93.6710387| 109.00000
+Legends 4604 Golf and Beach!|Conway, SC|33.836003| -79.0478143| 637.00000
+leQube Apartments|Montreal, Canada|45.522240| -73.5740215| 206.00000
+Loews Coral Gables Hotel|Miami, FL|25.744712| -80.2574210| 490.00000
+Magnolia Hotel Omaha||41.255277| -95.9379320| 140.00000
+Magnolia Hotel Omaha|Ann Arbor, MI|42.280826| -83.7430378| 140.00000
+Magnolia Hotel Omaha|Auburn, AL|32.609857| -85.4807825| 140.00000
+Magnolia Hotel Omaha|Austin, TX|41.256537| -95.9345034| 140.00000
+Magnolia Hotel Omaha|Chapel Hill, NC|35.913200| -79.0558445| 140.00000
+Magnolia Hotel Omaha|Cincinnati, OH|39.133631| -84.4928498| 140.00000
+Magnolia Hotel Omaha|Dayton, OH|39.758948| -84.1916069| 140.00000
+Magnolia Hotel Omaha|Durham, NC|41.256537| -95.9345034| 140.00000
+Magnolia Hotel Omaha|Fayetteville, AR|36.062658| -94.1605839| 140.00000
+Magnolia Hotel Omaha|Fort Worth, TX|32.776286| -97.4638738| 140.00000
+Magnolia Hotel Omaha|Hartford, CT|41.256537| -95.9345034| 140.00000
+Magnolia Hotel Omaha|Houston, TX|29.759094| -95.3615749| 140.00000
+Magnolia Hotel Omaha|Indianapolis, IN|39.768403| -86.1580680| 140.00000
+Magnolia Hotel Omaha|Knoxville, TN|35.984979| -83.8963070| 140.00000
+Magnolia Hotel Omaha|Lawrence, KS|38.971669| -95.2352501| 140.00000
+Magnolia Hotel Omaha|Lexington, KY|41.256537| -95.9345034| 140.00000
+Magnolia Hotel Omaha|Spokane, WA|47.658780|-117.4260466| 140.00000
+Magnolia Hotel Omaha|Storrs, CT|41.808431| -72.2495231| 140.00000
+Magnolia Hotel Omaha|Tucson, AZ|41.256537| -95.9345034| 140.00000
+Magnolia Hotel Omaha|Tuscaloosa, AL|33.209841| -87.5691735| 140.00000
+Maison Dupuy Hotel|New Orleans, LA|29.959337| -90.0683102| 174.00000
+Mandarin Oriental, New York|Brooklyn, NY|40.768987| -73.9830172|1719.00000
+Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA|36.850769| -76.2858726| 424.00000
+Margaritaville Jacksonville Beach|Jacksonville, FL|30.295757| -81.3908241| 158.00000
+Margaritaville Resort Casino|Shreveport, LA|32.521150| -93.7436314| 115.00000
+Marriott's Manor Club at Ford's Colony|Williamsburg, VA|37.303478| -76.7805010| 108.00000
+May-Dee Suites|Miami Gardens, FL|26.010725| -80.1949503| 122.00000
+Mayfair House Hotel & Garden|Miami, FL|25.728811| -80.2412399| 450.00000
+Merryton Inn|Shreveport, LA|32.458257| -93.8275445|  52.00000
+Metropolitan Inn & Suites|Pasadena, CA|40.757799|-111.8945892| 113.00000
+Mi Casa Hotel|Orlando, FL|28.430509| -81.4762725|  85.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha||NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Ann Arbor, MI|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Auburn, AL|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Austin, TX|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Chapel Hill, NC|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Cincinnati, OH|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Dayton, OH|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Durham, NC|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Fayetteville, AR|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Fort Worth, TX|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Hartford, CT|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Houston, TX|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Indianapolis, IN|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Knoxville, TN|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Lawrence, KS|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Lexington, KY|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Omaha, NE|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Spokane, WA|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Storrs, CT|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Bellevue/Omaha|Tuscaloosa, AL|NA|NA|  90.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha||NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Ann Arbor, MI|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Auburn, AL|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Austin, TX|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Chapel Hill, NC|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Cincinnati, OH|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Dayton, OH|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Durham, NC|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Fayetteville, AR|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Fort Worth, TX|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Hartford, CT|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Houston, TX|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Indianapolis, IN|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Knoxville, TN|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Lawrence, KS|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Lexington, KY|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Spokane, WA|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Storrs, CT|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Tucson, AZ|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Tuscaloosa, AL|NA|NA|  77.00000
+Microtel Inn & Suites by Wyndham Eagan/St Paul|Minneapolis, MN|NA|NA|  93.00000
+Microtel Inn & Suites by Wyndham Montgomery|Montgomery, AL|NA|NA|  85.00000
+Microtel Inn & Suites By Wyndham Moorhead Fargo Area|Fargo, ND|NA|NA|  89.00000
+Microtel Inn & Suites by Wyndham Opelika|Auburn, AL|NA|NA| 123.00000
+Microtel Inn & Suites by Wyndham Pittsburgh Airport|Pittsburgh, PA|NA|NA|  86.00000
+Microtel Inn & Suites By Wyndham Sylva Dillsboro Area|Cullowhee, NC|NA|NA|  98.00000
+Mitchell Executive Hotel|New York, NY|40.867161| -73.9743742| 194.00000
+Morgan and Wells B&B|Boiling Springs, NC|35.296331| -81.5414874| 192.00000
+Moxy Louisville Downtown|Louisville, KY|38.256594| -85.7517456| 136.00000
+My Place Hotel - Council Bluffs/Omaha East, IA||41.241169| -95.8971051|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Ann Arbor, MI|42.280826| -83.7430378|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Auburn, AL|32.609857| -85.4807825|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Austin, TX|30.267153| -97.7430608|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Chapel Hill, NC|35.913200| -79.0558445|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Cincinnati, OH|39.103118| -84.5120196|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Dayton, OH|39.758948| -84.1916069|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Durham, NC|35.994033| -78.8986190|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Fayetteville, AR|36.062658| -94.1605839|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Fort Worth, TX|33.008798| -97.2571141|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Hartford, CT|41.765804| -72.6733723|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Houston, TX|29.760427| -95.3698028|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Indianapolis, IN|39.768403| -86.1580680|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Knoxville, TN|35.960638| -83.9207392|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Lawrence, KS|41.241169| -95.8971051|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Lexington, KY|38.040584| -84.5037164|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Omaha, NE|41.241169| -95.8971051|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Spokane, WA|47.658780|-117.4260466|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Storrs, CT|41.808431| -72.2495231|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Tucson, AZ|32.253979|-110.9741769|  94.00000
+My Place Hotel - Council Bluffs/Omaha East, IA|Tuscaloosa, AL|33.209841| -87.5691735|  94.00000
+My Place Hotel - Fargo, ND|Fargo, ND|46.840738| -96.8812086| 109.00000
+Myrtle Beach Myrtlewood Golf and Beach Escape!|Conway, SC|33.836003| -79.0478143| 457.00000
+Nestle Inn|Indianapolis, IN|39.776423| -86.1483900| 245.00000
+North Miami Beach Gardens Inn & Suites|Miami Gardens, FL|NA|NA|  98.00000
+Ocean Park Hotel|Inglewood, CA|34.021212|-118.4524436| 101.00000
+Omaha Marriott Downtown at the Capitol District||41.261191| -95.9294797| 239.00000
+Omaha Marriott Downtown at the Capitol District|Ann Arbor, MI|42.280826| -83.7430378| 239.00000
+Omaha Marriott Downtown at the Capitol District|Auburn, AL|41.261191| -95.9294797| 239.00000
+Omaha Marriott Downtown at the Capitol District|Austin, TX|41.261191| -95.9294797| 239.00000
+Omaha Marriott Downtown at the Capitol District|Chapel Hill, NC|35.913200| -79.0558445| 239.00000
+Omaha Marriott Downtown at the Capitol District|Cincinnati, OH|41.261191| -95.9294797| 239.00000
+Omaha Marriott Downtown at the Capitol District|Dayton, OH|41.261191| -95.9294797| 239.00000
+Omaha Marriott Downtown at the Capitol District|Durham, NC|35.994033| -78.8986190| 239.00000
+Omaha Marriott Downtown at the Capitol District|Fayetteville, AR|36.062658| -94.1605839| 239.00000
+Omaha Marriott Downtown at the Capitol District|Fort Worth, TX|32.755488| -97.3307658| 239.00000
+Omaha Marriott Downtown at the Capitol District|Hartford, CT|41.765804| -72.6733723| 239.00000
+Omaha Marriott Downtown at the Capitol District|Houston, TX|41.261191| -95.9294797| 239.00000
+Omaha Marriott Downtown at the Capitol District|Indianapolis, IN|41.261191| -95.9294797| 239.00000
+Omaha Marriott Downtown at the Capitol District|Knoxville, TN|35.960638| -83.9207392| 239.00000
+Omaha Marriott Downtown at the Capitol District|Lawrence, KS|41.261191| -95.9294797| 239.00000
+Omaha Marriott Downtown at the Capitol District|Lexington, KY|38.040584| -84.5037164| 239.00000
+Omaha Marriott Downtown at the Capitol District|Spokane, WA|47.658780|-117.4260466| 239.00000
+Omaha Marriott Downtown at the Capitol District|Storrs, CT|41.261191| -95.9294797| 239.00000
+Omaha Marriott Downtown at the Capitol District|Tucson, AZ|41.261191| -95.9294797| 239.00000
+Omaha Marriott Downtown at the Capitol District|Tuscaloosa, AL|33.209841| -87.5691735| 239.00000
+OPUS Hotel Vancouver|Vancouver, Canada|49.274603|-123.1226017| 370.00000
+Pod Brooklyn|New York, NY|40.715048| -73.9590458| 201.00000
+Private Ocean Condos at Marenas Beach|Miami Gardens, FL|25.949161| -80.1198845| 611.00000
+Quality Inn & Suites||NA|NA|  67.00000
+Quality Inn & Suites|Ann Arbor, MI|NA|NA|  67.00000
+Quality Inn & Suites|Auburn, AL|NA|NA|  67.00000
+Quality Inn & Suites|Austin, TX|NA|NA|  67.00000
+Quality Inn & Suites|Chapel Hill, NC|NA|NA|  67.00000
+Quality Inn & Suites|Dayton, OH|NA|NA|  67.00000
+Quality Inn & Suites|Durham, NC|NA|NA|  67.00000
+Quality Inn & Suites|Fayetteville, AR|NA|NA|  67.00000
+Quality Inn & Suites|Hartford, CT|NA|NA|  67.00000
+Quality Inn & Suites|Houston, TX|NA|NA|  67.00000
+Quality Inn & Suites|Knoxville, TN|NA|NA|  67.00000
+Quality Inn & Suites|Lawrence, KS|NA|NA|  67.00000
+Quality Inn & Suites|Lexington, KY|NA|NA|  67.00000
+Quality Inn & Suites|Orangeburg, SC|NA|NA|  63.00000
+Quality Inn & Suites|Spokane, WA|NA|NA|  67.00000
+Quality Inn & Suites|Storrs, CT|NA|NA|  67.00000
+Quality Inn & Suites|Tucson, AZ|NA|NA|  67.00000
+Quality Inn & Suites|Tuscaloosa, AL|NA|NA|  67.00000
+Quality Inn & Suites|University, MS|NA|NA|  89.00000
+Quality Inn & Suites Arden Hills - Saint Paul North|Minneapolis, MN|NA|NA|  98.00000
+Quality Inn & Suites Bloomington I-55 and I-74|Normal, IL|NA|NA| 100.00000
+Quality Inn & Suites Bloomington University Area|Normal, IL|NA|NA|  90.00000
+Quality Inn & Suites Blue Springs - Kansas City|Kansas City, MO|NA|NA|  82.00000
+Quality Inn & Suites DFW Airport South|Arlington, TX|NA|NA|  77.00000
+Quality Inn & Suites Goodyear - Phoenix West|Glendale, AZ|NA|NA| 118.00000
+Quality Inn & Suites Huntsville Research Park Area|Huntsville, AL|NA|NA| 129.00000
+Quality Inn & Suites I-35 - near ATT Center|San Antonio, TX|NA|NA|  75.00000
+Quality Inn & Suites Montgomery East Carmichael Rd|Montgomery, AL|NA|NA|  97.00000
+Quality Inn & Suites near Coliseum and Hwy 231 North|Montgomery, AL|NA|NA|  74.00000
+Quality Inn & Suites near Six Flags East|Atlanta, GA|NA|NA| 106.00000
+Quality Inn & Suites North Lima - Boardman|Youngstown, OH|NA|NA|  84.00000
+Quality Inn & Suites North Richland Hills|Arlington, TX|NA|NA|  70.00000
+Quality Inn & Suites Orlando Airport|Orlando, FL|NA|NA|  97.00000
+Quality Inn & Suites Phoenix NW - Sun City|Glendale, AZ|NA|NA|  95.00000
+Quality Inn & Suites Plano East - Richardson|McKinney, TX|NA|NA|  76.00000
+Quality Inn & Suites Raleigh Durham Airport|Durham, NC|NA|NA|  77.00000
+Quality Inn Downtown - near Market Square|San Antonio, TX|29.415853| -98.5059486|  70.00000
+Quality Inn near Casinos and Convention Center|Shreveport, LA|32.514620| -93.7279969|  98.00000
+Quality Inn Sacramento Convention Center|Sacramento, CA|38.579982|-121.4863920| 158.00000
+Quality Inn Shreveport|Shreveport, LA|32.460004| -93.8292980|  81.00000
+Quality Suites|San Antonio, TX|29.352914| -98.4253400|  75.00000
+Ramada by Wyndham Bronx|Bronx, NY|40.879896| -73.8314762| 209.00000
+Ramada by Wyndham Des Moines Airport|Des Moines, IA|41.525645| -93.6411060|  77.00000
+Ramada by Wyndham Portland|Portland, OR|45.519482|-122.5630868| 116.00000
+Ramada by Wyndham Shreveport Airport|Shreveport, LA|32.453137| -93.8478397|  82.00000
+Red Fern Plantation Lodge|Statesboro, GA|32.495245| -81.7525655| 179.00000
+Red Lion Hotel Portland Airport|Portland, OR|45.574281|-122.5786048| 115.00000
+Red Lion Inn & Suites Goodyear Phoenix|Glendale, AZ|42.282016| -73.3120333| 184.00000
+Red Roof Inn & Conference Center McKinney|McKinney, TX|NA|NA|  82.00000
+Red Roof Inn & Suites DeKalb|Dekalb, IL|NA|NA| 101.00000
+Red Roof Inn & Suites Omaha - Council Bluffs||NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Ann Arbor, MI|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Auburn, AL|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Austin, TX|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Chapel Hill, NC|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Cincinnati, OH|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Dayton, OH|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Durham, NC|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Fayetteville, AR|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Fort Worth, TX|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Hartford, CT|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Houston, TX|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Indianapolis, IN|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Knoxville, TN|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Lawrence, KS|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Lexington, KY|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Omaha, NE|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Spokane, WA|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Storrs, CT|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Tucson, AZ|NA|NA|  83.00000
+Red Roof Inn & Suites Omaha - Council Bluffs|Tuscaloosa, AL|NA|NA|  83.00000
+Red Roof Inn & Suites Statesboro - University|Statesboro, GA|NA|NA|  71.00000
+Red Roof Inn PLUS+ Boston - Logan|Allston, MA|42.468658| -71.0245652| 105.00000
+Red South Beach|Miami, FL|25.806191| -80.1245716| 154.00000
+Regency Miami Airport by Sonesta|Miami, FL|25.781770| -80.2649319| 141.00000
+Renaissance Atlanta Airport Gateway Hotel|Atlanta, GA|33.643032| -84.4562454| 472.00000
+Renaissance Austin Hotel|Austin, TX|30.392078| -97.7499160| 400.00000
+Renaissance Phoenix Glendale Hotel & Spa|Glendale, AZ|NA|NA| 285.00000
+Residence Inn Ann Arbor Downtown|Ann Arbor, MI|42.281922| -83.7495989| 382.00000
+Residence Inn Ann Arbor Downtown|Ypsilanti, MI|42.281922| -83.7495989| 382.00000
+Residence Inn Bryan College Station|College Station, TX|30.632839| -96.3260007| 155.00000
+Residence Inn by Marriott Boca Raton|Boca Raton, FL|26.420184| -80.0927976| 153.00000
+Residence Inn by Marriott Dallas Allen/Fairview|McKinney, TX|33.134376| -96.6509536| 120.00000
+Residence Inn by Marriott Greenville|Greenville, SC|34.826307| -82.3056787| 152.00000
+Residence Inn by Marriott Greenville Downtown|Greenville, SC|34.849779| -82.3970908| 336.00000
+Residence Inn by Marriott Las Vegas Hughes Center|Las Vegas, NV|36.115756|-115.1559444| 703.00000
+Residence Inn by Marriott Philadelphia Valley Forge|Villanova, PA|40.066708| -75.4522933| 169.00000
+Residence Inn by Marriott Richmond Downtown|Richmond, VA|37.535078| -77.4328450| 191.00000
+Residence Inn by Marriott San Diego La Jolla|San Diego, CA|32.870128|-117.2371998| 455.00000
+Residence Inn Durham McPherson/Duke University Medical Cntr|Durham, NC|36.001878| -78.9118016| 183.00000
+Residence Inn Lansing West|East Lansing, MI|42.744199| -84.6552318| 151.00000
+Residence Inn Las Vegas Airport|Las Vegas, NV|36.087047|-115.1380080| 394.00000
+Residence Inn Phoenix Downtown|Tempe, AZ|33.446340|-112.0740874| 394.00000
+Residence Inn Shreveport Airport|Shreveport, LA|32.454491| -93.8286552| 127.00000
+Rodeway Inn & Suites Pasadena|Pasadena, CA|NA|NA| 103.00000
+Rodeway Inn South Gate - Los Angeles South|Inglewood, CA|33.950864|-118.1829743|  96.00000
+Rosen Inn International|Orlando, FL|28.452356| -81.4733653|  90.00000
+Royalton Park Avenue|East Rutherford, NJ|40.743901| -73.9841382| 629.00000
+Sam's Town Hotel & Casino, Shreveport|Shreveport, LA|36.112713|-115.0623825|  94.00000
+Seattle Marriott Bellevue|Seattle, WA|47.612822|-122.1930616| 380.00000
+SERENA Hotel Aventura Miami, Tapestry Collection by Hilton|Miami Gardens, FL|25.973118| -80.1454755| 201.00000
+Sheraton Midwest City Hotel at the Reed Conference Center|Oklahoma City, OK|35.447231| -97.4209510| 119.00000
+Signature Inn Santa Clara|Santa Clara, CA|37.344930|-121.9322672| 113.00000
+SIXTY Beverly Hills|Inglewood, CA|34.066710|-118.3960923| 411.00000
+SIXTY Beverly Hills|Los Angeles, CA|34.066710|-118.3960923| 411.00000
+Sleep Inn & Suites|Abilene, TX|NA|NA|  83.00000
+Sleep Inn & Suites Fargo Medical Center|Fargo, ND|NA|NA| 102.00000
+Sleep Inn & Suites Green Bay South|Green Bay, WI|NA|NA| 106.00000
+Sleep Inn & Suites Lincoln University Area|Lincoln, NE|NA|NA| 120.00000
+Sleep Inn & Suites Medical Center|Shreveport, LA|NA|NA| 107.00000
+Sleep Inn & Suites Near Downtown North|Houston, TX|NA|NA| 113.00000
+Sleep Inn & Suites Near Joint Base Andrews - Washington Area|Landover, MD|NA|NA|  95.00000
+Sleep Inn & Suites near Westchase|Houston, TX|NA|NA|  74.00000
+Sleep Inn & Suites Omaha Airport||NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Ann Arbor, MI|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Auburn, AL|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Austin, TX|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Chapel Hill, NC|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Cincinnati, OH|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Dayton, OH|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Durham, NC|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Fayetteville, AR|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Fort Worth, TX|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Hartford, CT|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Houston, TX|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Indianapolis, IN|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Knoxville, TN|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Lawrence, KS|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Lexington, KY|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Omaha, NE|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Spokane, WA|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Storrs, CT|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Tucson, AZ|NA|NA|  94.00000
+Sleep Inn & Suites Omaha Airport|Tuscaloosa, AL|NA|NA|  94.00000
+Sleep Inn & Suites Pittsburgh|Pittsburgh, PA|NA|NA|  95.00000
+Sleep Inn Dallas Love Field - Medical District|Dallas, TX|32.823543| -96.8761830|  90.00000
+Sonesta ES Suites Omaha|Tucson, AZ|32.253979|-110.9741769| 106.00000
+Sonesta Select Los Angeles Torrance South Bay|Inglewood, CA|33.859137|-118.3120595| 138.00000
+Sonesta Simply Suites Huntsville Research Park|Huntsville, AL|34.711188| -86.6684057| 137.00000
+Sonesta Simply Suites Jacksonville|Jacksonville, FL|30.246358| -81.5843410| 112.00000
+Sonesta Simply Suites Phoenix Glendale|Glendale, AZ|33.589667|-112.1156378| 108.00000
+Sonesta Simply Suites Salt Lake City Airport|Salt Lake City, UT|40.772346|-111.9525961| 112.00000
+Sonesta Simply Suites Silicon Valley Santa Clara|San Jose, CA|37.352393|-121.9354490| 155.00000
+SOVA Micro-Room & Social Hotel|Dallas, TX|32.781633| -96.7919170| 123.00000
+SpringHill Suites by Marriott East Rutherford Meadowlands/Carlstadt|East Rutherford, NJ|40.840378| -74.0906974| 189.00000
+SpringHill Suites by Marriott Fort Worth Historic Stockyards|Fort Worth, TX|32.786616| -97.3497281| 433.00000
+Springhill Suites By Marriott Memphis Downtown|Memphis, TN|35.146011| -90.0528543| 168.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA||41.236550| -95.8941646|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Ann Arbor, MI|41.236550| -95.8941646|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Auburn, AL|41.236550| -95.8941646|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Austin, TX|30.267153| -97.7430608|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Chapel Hill, NC|35.913200| -79.0558445|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Cincinnati, OH|41.236550| -95.8941646|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Dayton, OH|41.236550| -95.8941646|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Durham, NC|41.236550| -95.8941646|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Fayetteville, AR|36.062658| -94.1605839|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Fort Worth, TX|32.755488| -97.3307658|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Hartford, CT|41.236550| -95.8941646|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Houston, TX|29.760427| -95.3698028|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Indianapolis, IN|41.236550| -95.8941646|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Knoxville, TN|35.960638| -83.9207392|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Lawrence, KS|41.236550| -95.8941646|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Lexington, KY|41.236550| -95.8941646|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Spokane, WA|47.658780|-117.4260466|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Storrs, CT|41.808431| -72.2495231|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Tucson, AZ|32.253979|-110.9741769|  97.00000
+SpringHill Suites by Marriott Omaha East/Council Bluffs, IA|Tuscaloosa, AL|33.209841| -87.5691735|  97.00000
+Springhill Suites By Marriott Phoenix Glendale Peoria|Glendale, AZ|33.639168|-112.2278061| 183.00000
+SpringHill Suites by Marriott Tallahassee North|Tallahassee, FL|30.503607| -84.2525772| 105.00000
+Springhill Suites Phoenix Glendale Sports & Entertainment District|Glendale, AZ|33.542721|-112.2599400| 175.00000
+SpringHill Suites Phoenix North|Glendale, AZ|33.572158|-112.1158780| 128.00000
+Springhill Suites San Diego Mission Valley|San Diego, CA|32.771704|-117.1372462| 185.00000
+Springwood Hotel|Auburn, AL|32.644595| -85.3539063|  70.00000
+St. Charles Inn|New Orleans, LA|29.926981| -90.0943457| 174.00000
+Stay Fairfield - Fairfield Place and Fairfield Manor Bed & Breakfast|Shreveport, LA|41.140836| -73.2612615| 114.00000
+Staybridge Suites Charlottesville Airport, an IHG Hotel|Charlottesville, VA|38.131255| -78.4416157| 137.00000
+Staybridge Suites Fargo, an IHG Hotel|Fargo, ND|46.848607| -96.8536755| 130.00000
+Staybridge Suites Jackson, an IHG Hotel|Jackson, MS|32.402614| -90.1412124| 106.00000
+Sterling Hotel Dallas|Dallas, TX|32.827479| -96.8875486| 154.00000
+Stuart Hotel - Near Good Samaritan Hospital|Inglewood, CA|34.053263|-118.2713993|  98.00000
+Stuart Hotel - Near Good Samaritan Hospital|Pasadena, CA|34.053263|-118.2713993|  98.00000
+Studio City Court Yard Hotel|Los Angeles, CA|34.145700|-118.4149593| 111.00000
+Sunset Marquis|Inglewood, CA|34.092153|-118.3776029| 479.00000
+Sunset Marquis|Los Angeles, CA|34.092153|-118.3776029| 479.00000
+Sunset Tower Hotel|Inglewood, CA|34.095097|-118.3719666| 640.00000
+Sunset Tower Hotel|Los Angeles, CA|34.095097|-118.3719666| 643.00000
+Super 8 by Wyndham - Mesa/Gilbert|Tempe, AZ|33.387455|-111.7896461| 113.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area||41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Ann Arbor, MI|NA|NA|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Auburn, AL|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Austin, TX|30.267153| -97.7430608|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Chapel Hill, NC|35.913200| -79.0558445|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Cincinnati, OH|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Dayton, OH|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Durham, NC|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Fayetteville, AR|36.062658| -94.1605839|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Fort Worth, TX|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Hartford, CT|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Houston, TX|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Indianapolis, IN|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Knoxville, TN|35.960638| -83.9207392|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Lawrence, KS|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Lexington, KY|38.040584| -84.5037164|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Spokane, WA|47.658780|-117.4260466|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Storrs, CT|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Tucson, AZ|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Council Bluffs IA Omaha NE Area|Tuscaloosa, AL|41.234376| -95.8802918|  78.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake||41.286156| -95.9094773|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Ann Arbor, MI|41.286156| -95.9094773|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Auburn, AL|41.286156| -95.9094773|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Austin, TX|41.286156| -95.9094773|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Chapel Hill, NC|35.913200| -79.0558445|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Cincinnati, OH|41.286156| -95.9094773|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Dayton, OH|41.286156| -95.9094773|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Durham, NC|35.994033| -78.8986190|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Fayetteville, AR|36.062658| -94.1605839|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Fort Worth, TX|32.755488| -97.3307658|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Hartford, CT|41.765804| -72.6733723|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Houston, TX|29.760427| -95.3698028|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Indianapolis, IN|41.286156| -95.9094773|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Knoxville, TN|35.960638| -83.9207392|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Lawrence, KS|41.286156| -95.9094773|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Lexington, KY|38.040584| -84.5037164|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Spokane, WA|47.658780|-117.4260466|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Storrs, CT|41.808431| -72.2495231|  67.00000
+Super 8 by Wyndham Omaha Eppley Airport/Carter Lake|Tuscaloosa, AL|33.209841| -87.5691735|  67.00000
+Super 8 by Wyndham Shelby|Boiling Springs, NC|35.272674| -81.5031477|  79.00000
+Super Lake Hotel|Jamaica, NY|40.761419| -73.8326828| 105.00000
+Super Lake Hotel|New York, NY|40.761419| -73.8326828| 105.00000
+SureStay Hotel by Best Western Oklahoma City West|Oklahoma City, OK|35.462487| -97.6372680|  64.00000
+SureStay Hotel by Best Western San Antonio Riverwalk|San Antonio, TX|29.436935| -98.4936007|  83.00000
+SureStay Hotel by Best Western Secaucus Meadowlands|New York, NY|40.788781| -74.0462278| 128.00000
+Surf & Sand Hotel|Boca Raton, FL|NA|NA| 152.00000
+Swissotel - Chicago|Chicago, IL|41.887175| -87.6194888| 254.00000
+The Ann Stevens House|Deland, FL|28.969610| -81.2332153| 179.00000
+The Azure Hotel|Tempe, AZ|33.414767|-111.8168192| 119.00000
+The Baltic Hotel|Brooklyn, NY|40.682584| -73.9855281| 143.00000
+The Beach Club at Charleston Harbor Resort and Marina|Charleston, SC|32.786900| -79.9066000| 251.00000
+The Bidwell Marriott Portland|Portland, OR|45.520368|-122.6787163| 205.00000
+The Box House Hotel|New York, NY|40.737662| -73.9535114| 234.00000
+The Camby, Autograph Collection|Phoenix, AZ|33.508675|-112.0293488| 407.00000
+The Camby, Autograph Collection|Tempe, AZ|33.508675|-112.0293488| 407.00000
+The Central Park North|Bronx, NY|40.799754| -73.9536023| 129.00000
+The Central Park North|East Rutherford, NJ|40.799754| -73.9536023| 129.00000
+The Crawford Hotel|Denver, CO|39.752988|-104.9999544| 398.00000
+The Fifty Sonesta Select New York|Jamaica, NY|40.756086| -73.9710793| 451.00000
+The Godfrey Hotel Boston|Allston, MA|42.354453| -71.0617610| 412.00000
+The Godfrey Hotel Boston|Boston, MA|42.354453| -71.0617610| 412.00000
+The Godfrey Hotel Boston|Chestnut Hill, MA|42.354453| -71.0617610| 412.00000
+The Hi-Lo, Autograph Collection|Portland, OR|45.520349|-122.6751337| 186.00000
+The Hotel Serene|Glendale, AZ|33.641168|-112.2302520| 103.00000
+The Hoxton Portland|Portland, OR|45.523401|-122.6747275| 156.00000
+The Inn on Arsenal|Chestnut Hill, MA|42.364375| -71.1784101| 155.00000
+The Inn on Biltmore Estate|Asheville, NC|35.557787| -82.5805968| 667.00000
+The Jesse Hotel & Bar|Reno, NV|39.530549|-119.8099869| 145.00000
+The Jung Hotel and Residences|New Orleans, LA|29.957205| -90.0758125| 152.00000
+The Lenox Hotel Boston|Allston, MA|42.349229| -71.0795280| 425.00000
+The Liberty, a Marriott Luxury Collection Hotel, Boston|Allston, MA|42.355509| -71.1328247| 449.00000
+The Monastery at Forest Lake|Oklahoma City, OK|35.506748| -97.4414062| 214.00000
+The Mutiny Hotel|Coral Gables, FL|25.727169| -80.2398046| 400.00000
+The Mutiny Hotel|Miami, FL|25.727169| -80.2398046| 400.00000
+The Nest Hotel Palo Alto|Santa Clara, CA|37.417346|-122.1289907| 591.00000
+The Ocean Plaza|West Long Branch, NJ|40.213150| -74.0041105| 178.00000
+The Olivier House Hotel|New Orleans, LA|29.958150| -90.0670527| 139.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton||41.258289| -95.9395113| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Ann Arbor, MI|42.280826| -83.7430378| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Auburn, AL|41.258289| -95.9395113| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Austin, TX|30.267153| -97.7430608| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Chapel Hill, NC|35.913200| -79.0558445| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Cincinnati, OH|39.102579| -84.5138191| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Dayton, OH|39.758948| -84.1916069| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Durham, NC|NA|NA| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Fayetteville, AR|36.062658| -94.1605839| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Fort Worth, TX|32.755488| -97.3307658| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Hartford, CT|41.765804| -72.6733723| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Houston, TX|30.142882| -95.4731336| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Indianapolis, IN|39.768403| -86.1580680| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Knoxville, TN|35.960638| -83.9207392| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Lawrence, KS|41.258289| -95.9395113| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Lexington, KY|41.258289| -95.9395113| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Spokane, WA|47.658780|-117.4260466| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Storrs, CT|41.808431| -72.2495231| 169.00000
+The Peregrine Omaha Downtown, Curio Collection by Hilton|Tuscaloosa, AL|33.209841| -87.5691735| 169.00000
+The Pierre, A Taj Hotel, New York|Bronx, NY|40.765183| -73.9718937|1696.00000
+The Pierre, A Taj Hotel, New York|New York, NY|40.765183| -73.9718937|1696.00000
+The Remington Suite Hotel and Spa|Shreveport, LA|32.515487| -93.7482465| 151.00000
+The Ritz-Carlton, Los Angeles|Inglewood, CA|34.045263|-118.2666205| 703.00000
+The Royal Sonesta New Orleans|New Orleans, LA|29.955616| -90.0681189| 408.00000
+The Saint Hotel, New Orleans, French Quarter|New Orleans, LA|29.955058| -90.0713923| 744.00000
+The Seagate Hotel & Spa|Boca Raton, FL|26.461144| -80.0614234| 386.00000
+The Shelburne Sonesta New York|Jamaica, NY|40.748478| -73.9780769| 547.00000
+The West Hollywood EDITION|Inglewood, CA|34.090361|-118.3891226| 653.00000
+The Westin Austin at The Domain|Austin, TX|30.399104| -97.7245849| 432.00000
+The Westin Georgetown, Washington D.C.|College Park, MD|38.905076| -77.0510900| 436.00000
+The Westin Georgetown, Washington D.C.|Washington, DC|38.905076| -77.0510900| 436.00000
+The Westin Nashville|Nashville, TN|36.155148| -86.7807408| 364.00000
+The Westin New Orleans|New Orleans, LA|29.951227| -90.0648026| 396.00000
+The Westin St. Francis San Francisco on Union Square|Berkeley, CA|37.787683|-122.4087648| 383.00000
+The Westin Tempe|Phoenix, AZ|33.423019|-111.9392877| 358.00000
+The Whitehall Houston|Houston, TX|29.753650| -95.3732060| 209.00000
+The Wigwam|Glendale, AZ|33.493736|-112.3550345| 318.00000
+The William Vale|Brooklyn, NY|40.722316| -73.9566829| 451.00000
+The Williamsburg Hotel|Jamaica, NY|40.721504| -73.9587016| 449.00000
+Towneplace Suites By Marriott Bloomington|Bloomington, IN|39.168261| -86.5702687| 145.00000
+TownePlace Suites by Marriott Detroit Dearborn|Detroit, MI|42.333713| -83.2127385| 120.00000
+TownePlace Suites by Marriott Miami Airport|Miami, FL|25.782818| -80.2626099| 152.00000
+TownePlace Suites by Marriott Sacramento Elk Grove|Sacramento, CA|38.419060|-121.3916822| 194.00000
+TownePlace Suites Missoula|Missoula, MT|46.901114|-114.0380337| 257.00000
+Travelodge Inn & Suites by Wyndham Missoula University Park|Missoula, MT|NA|NA|  93.00000
+Tru By Hilton Baltimore Harbor East, MD|Towson, MD|39.285815| -76.5990224| 121.00000
+Tru By Hilton Ft. Lauderdale Airport|Miami Gardens, FL|26.053253| -80.1432571| 149.00000
+Tru By Hilton Minneapolis Downtown|Minneapolis, MN|44.978914| -93.2665500| 125.00000
+Tru By Hilton Omaha I-80 at 72nd Street, NE|Tucson, AZ|41.228417| -96.0223250| 109.00000
+Trump International Hotel & Tower New York|East Rutherford, NJ|NA|NA| 925.00000
+Vīb Hotel by Best Western Phoenix - Tempe|Tempe, AZ|33.425259|-111.9439844| 174.00000
+Victorian Hotel|Vancouver, Canada|49.282390|-123.1121388| 125.00000
+W New Orleans - French Quarter|New Orleans, LA|29.954614| -90.0658450|1395.00000
+W San Francisco|Berkeley, CA|37.785416|-122.4002069| 378.00000
+W San Francisco|San Francisco, CA|37.785416|-122.4002069| 378.00000
+Waldorf Astoria Beverly Hills|Inglewood, CA|34.066685|-118.4115759|1154.00000
+Wedmore Place|Williamsburg, VA|37.232384| -76.7205514| 187.00000
+Western Inn||NA|NA|  74.00000
+Western Inn|Ann Arbor, MI|42.280826| -83.7430378|  74.00000
+Western Inn|Auburn, AL|32.609857| -85.4807825|  74.00000
+Western Inn|Austin, TX|30.220558| -97.6911448|  74.00000
+Western Inn|Chapel Hill, NC|35.913200| -79.0558445|  74.00000
+Western Inn|Cincinnati, OH|39.103118| -84.5120196|  74.00000
+Western Inn|Dayton, OH|39.758948| -84.1916069|  74.00000
+Western Inn|Durham, NC|35.994033| -78.8986190|  74.00000
+Western Inn|Fayetteville, AR|36.062658| -94.1605839|  74.00000
+Western Inn|Fort Worth, TX|32.755488| -97.3307658|  74.00000
+Western Inn|Hartford, CT|41.765804| -72.6733723|  74.00000
+Western Inn|Houston, TX|29.812709| -95.3792256|  74.00000
+Western Inn|Indianapolis, IN|39.768403| -86.1580680|  74.00000
+Western Inn|Knoxville, TN|35.960638| -83.9207392|  74.00000
+Western Inn|Lawrence, KS|38.971669| -95.2352501|  74.00000
+Western Inn|Lexington, KY|38.040584| -84.5037164|  74.00000
+Western Inn|Spokane, WA|47.658780|-117.4260466|  74.00000
+Western Inn|Storrs, CT|41.808431| -72.2495231|  74.00000
+Western Inn|Tuscaloosa, AL|33.176678| -87.4731064|  74.00000
+Westgate Flamingo Bay Resort|Las Vegas, NV|36.114046|-115.2189351| 127.00000
+Westgate New York Grand Central|Jamaica, NY|40.702677| -73.7889689| 503.00000
+Westin Tampa Bay Hotel|Tampa, FL|27.968242| -82.5656287| 362.00000
+Wharf Inn|Berkeley, CA|37.807756|-122.4142291| 122.00000
+Wingate by Wyndham Chandler|Tempe, AZ|33.303560|-111.9704623| 110.00000
+Wingate by Wyndham Los Angeles International Airport LAX|Inglewood, CA|33.942729|-118.3696124|  87.00000
+Wingate by Wyndham San Jose|San Jose, CA|37.257069|-121.8708928| 146.00000
+Wingate by Wyndham Shreveport Airport|Shreveport, LA|32.448856| -93.8678256|  91.00000
+Woodlands Hotel & Suites - A Colonial Williamsburg Hotel|Williamsburg, VA|NA|NA| 191.00000
+WoodSpring Suites Charlotte Shelby|Boiling Springs, NC|35.271967| -81.5222897|  73.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel||41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Ann Arbor, MI|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Auburn, AL|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Austin, TX|30.267153| -97.7430608|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Chapel Hill, NC|35.913200| -79.0558445|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Cincinnati, OH|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Dayton, OH|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Durham, NC|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Fayetteville, AR|36.062658| -94.1605839|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Fort Worth, TX|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Hartford, CT|41.765804| -72.6733723|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Houston, TX|29.760427| -95.3698028|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Indianapolis, IN|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Knoxville, TN|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Lawrence, KS|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Lexington, KY|38.040584| -84.5037164|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Spokane, WA|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Storrs, CT|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Tucson, AZ|32.253979|-110.9741769|  71.00000
+WoodSpring Suites Council Bluffs, an Extended Stay Hotel|Tuscaloosa, AL|41.248136| -95.9042180|  71.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel||41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Ann Arbor, MI|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Auburn, AL|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Austin, TX|30.267153| -97.7430608|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Chapel Hill, NC|35.913200| -79.0558445|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Cincinnati, OH|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Dayton, OH|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Durham, NC|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Fayetteville, AR|36.062658| -94.1605839|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Fort Worth, TX|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Hartford, CT|41.765804| -72.6733723|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Houston, TX|29.760427| -95.3698028|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Indianapolis, IN|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Knoxville, TN|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Lawrence, KS|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Lexington, KY|38.040584| -84.5037164|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Spokane, WA|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Storrs, CT|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Tucson, AZ|32.253979|-110.9741769|  78.00000
+WoodSpring Suites Omaha Bellevue, an Extended Stay Hotel|Tuscaloosa, AL|41.138510| -95.9536001|  78.00000
+WoodSpring Suites Tampa Airport North Veterans Expressway|Tampa, FL|28.034235| -82.5433578| 124.00000
+Wyndham Garden Ft Lauderdale Airport & Cruise Port|Miami Gardens, FL|26.054996| -80.1440359| 182.00000
+Wyndham Garden Greensboro|Greensboro, NC|36.064352| -79.9088674| 109.00000
+Wyndham Garden North Bergen Near Secaucus|East Rutherford, NJ|40.766546| -74.0435154| 154.00000
+Wyndham Riverfront Little Rock|North Little Rock, AR|34.754734| -92.2697448| 120.00000
+Yours Truly DC|Washing
