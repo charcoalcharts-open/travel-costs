@@ -13697,8 +13697,10 @@ Cousins Country Inn|Spokane, WA|45.612602|-121.2086364|  87.00000
 Cousins Country Inn|Storrs, CT|41.808431| -72.2495231|  87.00000
 Cousins Country Inn|Tucson, AZ|32.253979|-110.9741769|  87.00000
 Cousins Country Inn|Tuscaloosa, AL|33.209841| -87.5691735|  87.00000
-Cozy Carriage House | Walk to UNC | + Free Bikes|Greeley, CO|40.423314|-104.7091322| 294.00000
-Cozy Retreat | Walk to UNC | FREE Cruiser Bikes|Greeley, CO|40.423314|-104.7091322| 271.00000
+Cozy Carriage House | Walk to UNC |NA|NA|  40.42331
+-104.7091322| 294.00000|NA|NA|NA
+Cozy Retreat | Walk to UNC |NA|NA|  40.42331
+-104.7091322| 271.00000|NA|NA|NA
 Crenshaw Inn Motel|Inglewood, CA|33.982716|-118.3313189| 107.00000
 Dauphine Orleans Hotel|New Orleans, LA|29.957346| -90.0684177| 197.00000
 Delta Hotels by Marriott Raleigh-Durham at Research Triangle Park|Durham, NC|35.885055| -78.8453866| 224.00000
@@ -14169,7 +14171,7 @@ MainStay Suites Cincinnati University - Uptown|Highland Heights, KY|39.124679| -
 MainStay Suites Dover|Dover, DE|39.149185| -75.5010414| 139.00000
 MainStay Suites Orlando Altamonte Springs|Orlando, FL|28.673315| -81.3879809|  85.00000
 MainStay Suites Spokane Airport|Spokane, WA|47.619716|-117.5056001| 137.00000
-Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA|36.850769| -76.2858726| 424.00000
+Manor And Mutts ||NA|NA|NA
 Margaritaville Resort Times Square|Bronx, NY|40.755045| -73.9880308| 553.00000
 Markham House Suites - Little Rock Medical Center|Little Rock, AR|34.752275| -92.3314168| 102.00000
 Markham House Suites - Little Rock Medical Center|North Little Rock, AR|34.752275| -92.3314168| 102.00000
@@ -14473,4 +14475,381 @@ WoodSpring Suites Richmond West I-64|Richmond, VA|37.607849| -77.5167471|  96.00
 WoodSpring Suites Virginia Beach|Norfolk, VA|36.833008| -76.1405124|  87.00000
 Wylie Hotel|Atlanta, GA|33.773464| -84.3688669| 378.00000
 YOTEL New York Times Square|Bronx, NY|40.759161| -73.9954657| 413.00000
-Yours Tru
+Yours Tru||NA|NA|NA
+1 Hotel Brooklyn Bridge|New York, NY|40.702408| -73.9955338| 787.00000
+AC Hotel by Marriott National Harbor Washington, D.C. Area|Washington, DC|38.784305| -77.0163025| 360.00000
+AC Hotel by Marriott Tampa Airport|Tampa, FL|27.965217| -82.5112532| 362.00000
+Accent Inns Vancouver Airport|Vancouver, Canada|49.185160|-123.1068830| 138.00000
+Adria Hotel And Conference Center|Elmont, NY|40.761987| -73.7599127| 186.00000
+Alexis Park Hotel|San Francisco, CA|37.784280|-122.4195845|  91.00000
+Aloft Lexington|Chestnut Hill, MA|42.445427| -71.2606811| 133.00000
+Aloft Raleigh|Raleigh, NC|35.786731| -78.6636597| 384.00000
+Aloft San Francisco Airport|Millbrae, CA|37.602940|-122.3778494| 132.00000
+Aloft St. Louis Cortex|Saint Louis, MO|38.635665| -90.2517453| 173.00000
+Alpine Inn And Suites|Millbrae, CA|37.708433|-122.4249503| 111.00000
+Ansonborough Inn|Charleston, SC|32.783760| -79.9280014| 425.00000
+Argonaut Hotel|San Francisco, CA|37.807518|-122.4203909| 270.00000
+Auberge du Carré St-Louis|Montreal, Canada|45.517336| -73.5686921| 111.00000
+avid hotel Nashville Airport, an IHG Hotel|Nashville, TN|36.144960| -86.6752448| 166.00000
+Avion Inn Near LGA Airport, Ascend Hotel Collection|Elmont, NY|40.765802| -73.8860280| 393.00000
+Baccarat Hotel and Residences New York|Bronx, NY|40.760901| -73.9773752|2522.00000
+Barclay Hotel Atlanta Downtown|Atlanta, GA|33.757336| -84.3894393| 172.00000
+Bay Breeze Inn|San Francisco, CA|37.763958|-122.2157017| 107.00000
+Baymont by Wyndham Baton Rouge|Baton Rouge, LA|30.432072| -91.0587531|  83.00000
+Baymont by Wyndham Buffalo|Buffalo, NY|42.908265| -78.7524384| 130.00000
+Baymont by Wyndham Fort Wayne|Fort Wayne, IN|41.180999| -85.1051476| 109.00000
+Best Inn & Suites|Anaheim, CA|NA|NA| 113.00000
+Best Western Atlanta-Marietta Ballpark Hotel|Atlanta, GA|33.906517| -84.4747009| 121.00000
+Best Western Coyote Point Inn|Millbrae, CA|37.580494|-122.3233469| 111.00000
+Best Western Plus Chalmette Hotel|New Orleans, LA|29.950960| -89.9603805| 177.00000
+Best Western Plus Grosvenor Airport Hotel|Millbrae, CA|37.643304|-122.4043715| 113.00000
+Best Western Plus Nashville Airport Hotel|Nashville, TN|36.146278| -86.6634299| 164.00000
+Best Western Plus Sunrise Inn|Nashville, TN|36.133529| -86.7240805| 156.00000
+Best Western Plus Westbank|New Orleans, LA|29.875311| -90.0498114| 162.00000
+Bogart Hotel|Brooklyn, NY|40.703888| -73.9331920| 292.00000
+Boston Marriott Newton|Chestnut Hill, MA|42.346075| -71.2578827| 122.00000
+BridgePoint Inn Daly City|Millbrae, CA|37.705280|-122.4080384| 103.00000
+Brisas del Mar, Inn at the Beach|Santa Barbara, CA|34.409961|-119.6973417| 460.00000
+Brooklyn Motor Inn|Brooklyn, NY|40.681562| -74.0062230| 181.00000
+Brooklyn Motor Inn|Newark, NJ|40.681562| -74.0062230| 181.00000
+Buena Park Inn|Anaheim, CA|33.837863|-117.9932311| 104.00000
+Candlewood Suites Airport, an IHG Hotel|Notre Dame, IN|41.693568| -86.3037856| 118.00000
+Candlewood Suites I-26 at Northwoods Mall, an IHG Hotel|Charleston, SC|32.940115| -80.0429841| 118.00000
+Candlewood Suites Lafayette, an IHG Hotel|West Lafayette, IN|40.414045| -86.8163410| 138.00000
+Charleston Marriott|Charleston, SC|32.788055| -79.9584022| 489.00000
+Chateau Mar Golf Resort, Trademark Collection by Wyndham|Sunrise, FL|26.169784| -80.2363128| 228.00000
+Clarion Inn near Lookout Mountain|Chattanooga, TN|35.018568| -85.3785220| 113.00000
+Clarion Pointe Downtown|Syracuse, NY|43.052929| -76.1468830| 114.00000
+Clayton Plaza Hotel & Extended Stay|Saint Louis, MO|38.648262| -90.3364140| 144.00000
+Clayton Plaza Hotel & Extended Stay|St. Louis, MO|38.648262| -90.3364140| 144.00000
+Comfort Inn & Suites Denver Northfield|Denver, CO|NA|NA|  94.00000
+Comfort Inn and Suites San Francisco Airport North|Millbrae, CA|37.598547|-122.3871942| 110.00000
+Comfort Inn Marrero - New Orleans West|New Orleans, LA|29.892187| -90.1228230| 145.00000
+Comfort Inn Nashville West|Nashville, TN|36.151363| -86.8567760| 158.00000
+Comfort Inn Portland near I-84 and I-205|Portland, OR|45.532611|-122.5783060| 117.00000
+Comfort Suites Miami - Kendall|Coral Gables, FL|25.733224| -80.3826900| 234.00000
+Comfort Suites Raleigh Durham Airport/Research Triangle Park|Raleigh, NC|35.880258| -78.8436450|  96.00000
+Conrad New York Midtown|Bronx, NY|40.763466| -73.9806007|1255.00000
+Costa Mesa Inn|Anaheim, CA|33.669174|-117.9196389| 107.00000
+Country Inn & Suites by Radisson, Atlanta Airport North, GA|Atlanta, GA|NA|NA| 140.00000
+Country Inn & Suites by Radisson, Chattanooga-Lookout Mountain|Chattanooga, TN|NA|NA| 139.00000
+Courtyard by Marriott Arlington Crystal City/Reagan National|Washington, DC|38.847951| -77.0519066| 112.00000
+Courtyard by Marriott Boston Waltham|Boston, MA|42.398048| -71.2590332| 117.00000
+Courtyard by Marriott Boston Waltham|Chestnut Hill, MA|42.398048| -71.2590332| 117.00000
+Courtyard by Marriott Boston-Cambridge|Chestnut Hill, MA|42.358597| -71.1149590| 167.00000
+Courtyard by Marriott Chicago Highland Park/Northbrook|Evanston, IL|42.153292| -87.8008605| 139.00000
+Courtyard by Marriott Delray Beach|Boca Raton, FL|26.458565| -80.0667343| 355.00000
+Courtyard by Marriott Detroit Pontiac/Auburn Hills|Rochester, MI|42.607333| -83.2509759| 117.00000
+Courtyard by Marriott Dulles Airport Herndon/Reston|Fairfax, VA|38.953947| -77.3792115| 104.00000
+Courtyard by Marriott Indianapolis at the Capitol|Indianapolis, IN|39.771962| -86.1637180| 544.00000
+Courtyard by Marriott Indianapolis West - Speedway|Indianapolis, IN|39.799206| -86.2703746| 385.00000
+Courtyard by Marriott Miami Airport West/Doral|Coral Gables, FL|25.810159| -80.3238049| 224.00000
+Courtyard by Marriott New Carrollton|Washington, DC|38.947711| -76.8633127| 105.00000
+Courtyard by Marriott Philadelphia Plymouth Meeting|Philadelphia, PA|40.122061| -75.2834015| 156.00000
+Courtyard by Marriott Philadelphia Plymouth Meeting|Villanova, PA|40.122061| -75.2834015| 156.00000
+Courtyard by Marriott Tampa Brandon|Tampa, FL|27.941745| -82.3337048| 453.00000
+Courtyard by Marriott Tysons McLean|Washington, DC|38.920276| -77.2271294| 109.00000
+Courtyard by Marriott Williamsburg Busch Gardens Area|Williamsburg, VA|37.249149| -76.6627044| 348.00000
+Cozy Carriage House | Walk to UNC | + Free Bikes|Greeley, CO|40.423314|-104.7091322| 305.00000
+Cozy Retreat | Walk to UNC | FREE Cruiser Bikes|Greeley, CO|40.423314|-104.7091322| 285.00000
+Crowne Plaza Milwaukee South, an IHG Hotel|Milwaukee, WI|42.927814| -87.9315331| 112.00000
+Crowne Plaza San Francisco Airport, an IHG Hotel|Millbrae, CA|37.590010|-122.3596198| 118.00000
+Cypress Inn On Miramar Beach|Millbrae, CA|37.493805|-122.4602290| 595.00000
+Days Hotel by Wyndham North Bergen /NYC Area|Bronx, NY|40.773276| -74.0409238| 180.00000
+Days Hotel by Wyndham North Bergen /NYC Area|Brooklyn, NY|40.773276| -74.0409238| 180.00000
+Days Hotel by Wyndham North Bergen /NYC Area|New York, NY|40.773276| -74.0409238| 180.00000
+Days Inn & Suites by Wyndham Sherwood Park Edmonton|Edmonton, Canada|NA|NA|  86.00000
+Days Inn & Suites by Wyndham West Edmonton|Edmonton, Canada|NA|NA|  92.00000
+Days Inn by Wyndham Columbus East Airport|Columbus, OH|39.937697| -82.8296444|  94.00000
+Days Inn by Wyndham Jersey City / NYC Area|Brooklyn, NY|40.755803| -74.0547518| 159.00000
+Days Inn by Wyndham Jersey City / NYC Area|New York, NY|40.755803| -74.0547518| 159.00000
+Days Inn by Wyndham Raleigh-Airport-Research Triangle Park|Raleigh, NC|35.858200| -78.8199919|  91.00000
+Days Inn by Wyndham Virginia Beach Town Center|Norfolk, VA|36.836576| -76.1350756|  94.00000
+Delta Hotels by Marriott Philadelphia Airport|Philadelphia, PA|39.877843| -75.2444333| 151.00000
+DoubleTree by Hilton Fullerton|Anaheim, CA|33.877175|-117.8792178| 149.00000
+DoubleTree by Hilton San Francisco Airport|Millbrae, CA|37.590663|-122.3511341| 118.00000
+DoubleTree by Hilton St. Louis Airport|St. Louis, MO|38.733368| -90.3579562| 138.00000
+Drury Inn & Suites St. Louis Brentwood|Saint Louis, MO|NA|NA| 171.00000
+EB Hotel Miami|Coral Gables, FL|25.808790| -80.2661565| 440.00000
+Econo Lodge Chesapeake Route 13 and I-464|Norfolk, VA|36.776984| -76.2686249|  93.00000
+Edge Hotel|New Rochelle, NY|40.911488| -73.7823549| 507.00000
+Element Atlanta Midtown|Atlanta, GA|33.772042| -84.3855100| 359.00000
+Element Detroit at the Metropolitan|Detroit, MI|42.335358| -83.0487137| 510.00000
+Element Philadelphia Downtown|Philadelphia, PA|39.951116| -75.1651992| 475.00000
+Ellis Hotel, Atlanta, A Tribute Portfolio Hotel by Marriott|Atlanta, GA|33.748752| -84.3876845| 372.00000
+Embassy Suites by Hilton Nashville Downtown|Nashville, TN|36.157306| -86.7801460| 447.00000
+Engen Hus Bed and Breakfast|Salt Lake City, UT|40.638871|-111.8256280| 201.00000
+Extended Stay America Premier Suites Nashville Vanderbilt|Nashville, TN|36.140063| -86.8175350| 238.00000
+Extended Stay America Suites Birmingham Wildwood|Birmingham, AL|33.457003| -86.8210086| 111.00000
+Extended Stay America Suites Dallas Coit Road|Dallas, TX|32.967124| -96.7687813|  95.00000
+Extended Stay America Suites Edison Raritan Center|Piscataway, NJ|40.521544| -74.3402700| 120.00000
+Extended Stay America Suites Houston Galleria Uptown|Houston, TX|29.739204| -95.4644667|  82.00000
+Extended Stay America Suites Meadowlands East Rutherford|Brooklyn, NY|40.805519| -74.0758491| 173.00000
+Extended Stay America Suites Meadowlands East Rutherford|Newark, NJ|40.805519| -74.0758491| 173.00000
+Extended Stay America Suites Meadowlands Rutherford|New York, NY|40.805519| -74.0758491| 162.00000
+Extended Stay America Suites Nashville Brentwood|Nashville, TN|36.140063| -86.8175350| 134.00000
+Extended Stay America Suites New Orleans Metairie|New Orleans, LA|29.984092| -90.1528519| 145.00000
+Extended Stay America Suites Oakland Emeryville|Berkeley, CA|37.839503|-122.2892278| 137.00000
+Extended Stay America Suites Phoenix Airport|Phoenix, AZ|33.413504|-112.0080133| 122.00000
+Extended Stay America Suites Phoenix Airport|Tempe, AZ|33.413504|-112.0080133| 122.00000
+Fairfield Inn & Suites by Marriott Chattanooga South/East Ridge|Chattanooga, TN|NA|NA| 128.00000
+Fairfield Inn & Suites by Marriott Milwaukee Airport|Milwaukee, WI|NA|NA| 102.00000
+Fairfield Inn & Suites by Marriott Philadelphia Horsham|Philadelphia, PA|NA|NA| 147.00000
+Fairfield Inn & Suites by Marriott Pittsburgh Neville Island|Pittsburgh, PA|NA|NA| 115.00000
+Fairfield Inn & Suites by Marriott Seattle Bellevue/Redmond|Seattle, WA|NA|NA| 123.00000
+Fairfield Inn & Suites by Marriott Tampa Fairgrounds/Casino|Tampa, FL|NA|NA| 351.00000
+Fairfield Inn & Suites by Marriott Toledo North|Toledo, OH|NA|NA| 111.00000
+Fairfield Inn & Suites Colorado Springs N./Air Force Academy|Colorado Springs, CO|NA|NA| 130.00000
+Fairfield Inn & Suites Dallas Park Central|Dallas, TX|NA|NA|  91.00000
+Fairfield Inn & Suites Pittsburgh Airport/Robinson Township|Pittsburgh, PA|NA|NA| 125.00000
+Fairfield Inn & Suites Riverside Corona/Norco|Riverside, CA|NA|NA| 166.00000
+Fairfield Inn & Suites Rochester Hills|Rochester, MI|NA|NA| 107.00000
+Fairfield Inn by Marriott Philadelphia Airport|Philadelphia, PA|39.946889| -75.1623510| 177.00000
+Four Points by Sheraton Downtown Seattle Center|Seattle, WA|47.624963|-122.3447049| 141.00000
+Four Points by Sheraton Los Angeles Westside|Los Angeles, CA|33.983117|-118.3935537| 216.00000
+GLō Best Western Nashville Airport West|Nashville, TN|36.137524| -86.7017264| 160.00000
+Grand Hyatt at SFO|Millbrae, CA|37.612801|-122.3938993| 404.00000
+Grand Hyatt Tampa Bay|Tampa, FL|27.965324| -82.5500628| 395.00000
+Grand Legacy At the Park|Anaheim, CA|33.807536|-117.9149663| 479.00000
+Grandview Hotel New York|Brooklyn, NY|40.769169| -73.8326754| 150.00000
+Grandview Hotel New York|Elmont, NY|40.769169| -73.8326754| 150.00000
+Grandview Hotel New York|New York, NY|40.769169| -73.8326754| 150.00000
+Granville Island Hotel|Vancouver, Canada|49.271157|-123.1339931| 365.00000
+Greenstay Inn & Suites CourtView|Springfield, MO|NA|NA| 118.00000
+Haley Hotel|Santa Barbara, CA|34.417454|-119.6944658| 399.00000
+Hampton Inn & Suites Charlotte Airport Lake Pointe|Charlotte, NC|NA|NA| 146.00000
+Hampton Inn & Suites Columbus-Downtown|Columbus, OH|NA|NA| 445.00000
+Hampton Inn & Suites Dayton - Vandalia|Dayton, OH|NA|NA| 129.00000
+Hampton Inn & Suites El Paso-Airport|El Paso, TX|NA|NA| 131.00000
+Hampton Inn & Suites Herndon-Reston|Fairfax, VA|NA|NA| 109.00000
+Hampton Inn & Suites Huntersville|Davidson, NC|NA|NA| 146.00000
+Hampton Inn & Suites New Orleans Downtown (French Qtr Area)|New Orleans, LA|NA|NA| 247.00000
+Hampton Inn & Suites Philadelphia/Media|Villanova, PA|NA|NA| 167.00000
+Hampton Inn & Suites Providence/Smithfield|Providence, RI|NA|NA| 134.00000
+Hampton Inn & Suites Rockville Centre|Elmont, NY|NA|NA| 371.00000
+Hampton Inn & Suites San Francisco-Burlingame-Airport South|Millbrae, CA|NA|NA| 162.00000
+Hampton Inn & Suites Yonkers|Bronx, NY|NA|NA| 178.00000
+Hampton Inn Baltimore/White Marsh|Towson, MD|39.371875| -76.4594903| 118.00000
+Hampton Inn Boise - Airport|Boise, ID|43.572595|-116.2174881| 105.00000
+Hampton Inn Buffalo-Hamburg|Buffalo, NY|42.738948| -78.8457924| 133.00000
+Hampton Inn by Hilton Milwaukee Northwest|Milwaukee, WI|43.154933| -88.0542934| 105.00000
+Hampton Inn Charleston - Daniel Island|Charleston, SC|32.866412| -79.9125923| 119.00000
+Hampton Inn Chattanooga West/Lookout Mountain|Chattanooga, TN|35.020016| -85.3802758| 122.00000
+Hampton Inn Eugene|Eugene, OR|44.047204|-123.1507328| 127.00000
+Hampton Inn Linden|Newark, NJ|40.621699| -74.2468983| 156.00000
+Hampton Inn Milwaukee-Airport|Milwaukee, WI|42.931037| -87.9278688| 110.00000
+Hampton Inn Niles|Notre Dame, IN|41.809250| -86.2488098|  99.00000
+Hampton Inn Ridgefield Park|Bronx, NY|40.844707| -74.0147481| 169.00000
+Hampton Inn Toledo/Oregon|Toledo, OH|41.638303| -83.4778556| 119.00000
+Hillside Crossing Nashville a Ramada by Wyndham|Nashville, TN|36.136282| -86.7234159| 139.00000
+Hilton Arlington|Washington, DC|38.906981| -77.0422669| 125.00000
+Hilton Garden Inn Charlotte Airport|Charlotte, NC|35.199176| -80.9167314| 145.00000
+Hilton Garden Inn Charlotte/Concord|Charlotte, NC|35.370592| -80.7099195| 124.00000
+Hilton Garden Inn Nashville West End Avenue|Nashville, TN|36.139268| -86.8219781| 209.00000
+Hilton Garden Inn Pittsburgh Airport South-Robinson Mall|Pittsburgh, PA|40.450440| -80.1667113| 125.00000
+Hilton Garden Inn Reno|Reno, NV|39.440328|-119.7583938| 146.00000
+Hilton Garden Inn San Francisco Arpt North|Millbrae, CA|37.657481|-122.3976530| 117.00000
+Hilton Garden Inn San Jose/Milpitas|San Jose, CA|37.425027|-121.9231443| 113.00000
+Hilton Garden Inn Seattle Downtown|Seattle, WA|47.616495|-122.3324579| 141.00000
+Hilton Garden Inn Summerville|Charleston, SC|33.044451| -80.1506870| 152.00000
+Hilton Garden Inn Tampa/Riverview/Brandon|Tampa, FL|27.909613| -82.3455682| 351.00000
+Hilton Garden Inn Tysons Corner|Washington, DC|38.916557| -77.2328041| 105.00000
+Hilton Nashville Airport|Nashville, TN|36.153699| -86.6904733| 173.00000
+Hilton San Francisco Airport Bayfront|Millbrae, CA|37.589939|-122.3427589| 125.00000
+Holiday Inn Denver East, an IHG Hotel|Denver, CO|39.764349|-104.9040910| 105.00000
+Holiday Inn Express & Suites Allen Park, an IHG Hotel|Detroit, MI|NA|NA| 149.00000
+Holiday Inn Express & Suites Anaheim Resort Area, an IHG Hotel|Anaheim, CA|NA|NA| 371.00000
+Holiday Inn Express & Suites Ann Arbor - University South, an IHG Hotel|Ypsilanti, MI|NA|NA| 421.00000
+Holiday Inn Express & Suites Atlanta Buckhead, an IHG Hotel|Atlanta, GA|NA|NA| 170.00000
+Holiday Inn Express & Suites Chalmette - New Orleans S, an IHG Hotel|New Orleans, LA|NA|NA| 168.00000
+Holiday Inn Express & Suites Rock Hill, an IHG Hotel|Rock Hill, SC|NA|NA| 138.00000
+Holiday Inn Express & Suites St Louis Airport, an IHG Hotel|St. Louis, MO|NA|NA| 165.00000
+Holiday Inn Express & Suites Waco South, an IHG Hotel|Waco, TX|NA|NA| 166.00000
+Holiday Inn Express Boston - Waltham, an IHG Hotel|Boston, MA|42.398606| -71.2581824| 116.00000
+Holiday Inn Express Hotel & Suites Mission-McAllen Area, an IHG Hotel|Edinburg, TX|NA|NA| 427.00000
+Holiday Inn Express Lockport, an IHG Hotel|Buffalo, NY|43.092301| -78.6977114| 117.00000
+Holiday Inn Express Maspeth, an IHG Hotel|Brooklyn, NY|40.726437| -73.9072987| 217.00000
+Holiday Inn Express Maspeth, an IHG Hotel|New York, NY|40.726437| -73.9072987| 217.00000
+Holiday Inn Express St Louis - Central West End, an IHG Hotel|Saint Louis, MO|38.642434| -90.2609952| 185.00000
+Holiday Inn Express Tampa N I-75 - University Area, an IHG Hotel|Tampa, FL|28.067786| -82.3753868| 182.00000
+Holiday Inn Express W-I40/Whitebridge Road, an IHG Hotel|Nashville, TN|36.148483| -86.8590878| 179.00000
+Holston House Nashville, in The Unbound Collection by Hyatt|Nashville, TN|36.160337| -86.7813422| 517.00000
+Home2 Suites by Hilton Columbus Downtown|Columbus, OH|39.957618| -82.9884646| 150.00000
+Home2 Suites by Hilton Dallas Downtown at Baylor Scott & White|Dallas, TX|32.789976| -96.7820889| 157.00000
+Home2 Suites By Hilton Mt Pleasant Charleston|Charleston, SC|32.830281| -79.8354528| 130.00000
+Home2 Suites By Hilton Nashville West End Avenue|Nashville, TN|36.139269| -86.8219778| 274.00000
+Home2 Suites by Hilton Salt Lake City/West Valley City, UT|Salt Lake City, UT|40.712748|-111.9871350|  98.00000
+Homewood Suites by Hilton Horsham Willow Grove|Philadelphia, PA|40.159698| -75.1416856| 190.00000
+Homewood Suites By Hilton Milwaukee Downtown|Milwaukee, WI|43.036417| -87.9084858| 141.00000
+Homewood Suites by Hilton Philadelphia-Valley Forge|Villanova, PA|40.127688| -75.4072677| 360.00000
+Homewood Suites by Hilton St Louis - Galleria|Saint Louis, MO|38.637441| -90.3441142| 151.00000
+Homewood Suites by Hilton St Louis - Galleria|St. Louis, MO|38.637441| -90.3441142| 151.00000
+Homewood Suites by Hilton Teaneck Glenpointe|Bronx, NY|40.871240| -74.0033837| 204.00000
+Hotel 1550|Millbrae, CA|37.612020|-122.4027200| 139.00000
+Hotel Aluxor SFO|Millbrae, CA|37.623281|-122.4123990| 105.00000
+Hotel Aura SFO|Millbrae, CA|37.617680|-122.4083239| 126.00000
+Hotel Focus SFO|Millbrae, CA|37.649481|-122.4044233| 126.00000
+Hotel Indigo Atlanta Airport - College Park, an IHG Hotel|Atlanta, GA|33.653077| -84.4472942| 156.00000
+Hotel Indigo Atlanta Midtown, an IHG Hotel|Atlanta, GA|33.773191| -84.3845720| 436.00000
+Hotel Indigo Vancouver Dwtn – Portland Area, an IHG Hotel|Portland, OR|45.623500|-122.6777200| 366.00000
+Hotel Kabuki, part of JdV by Hyatt|San Francisco, CA|37.785577|-122.4289389| 405.00000
+Hôtel Le Chablis|Montreal, Canada|45.574794| -73.5475954| 114.00000
+Hotel Le Germain Calgary|Calgary, Canada|51.044896|-114.0633852| 210.00000
+Hotel Le Germain Montreal|Montreal, Canada|45.502488| -73.5744095| 371.00000
+Hotel Sausalito|San Francisco, CA|37.855786|-122.4790107| 371.00000
+Hotel St-Denis|Montreal, Canada|45.513204| -73.5597806| 133.00000
+Hotel Zachary Chicago, a Tribute Portfolio Hotel|Chicago, IL|41.947884| -87.6572172| 445.00000
+Hotel Zachary Chicago, a Tribute Portfolio Hotel|Evanston, IL|41.947884| -87.6572172| 445.00000
+Hyatt Centric Buckhead Atlanta|Atlanta, GA|33.843572| -84.3619501| 252.00000
+Hyatt Centric Downtown Nashville|Nashville, TN|36.158934| -86.7737990| 765.00000
+Hyatt Place Flushing/LaGuardia Airport|Elmont, NY|40.759375| -73.8328921| 388.00000
+Hyatt Place Reno Tahoe Airport|Reno, NV|39.504421|-119.7795893| 193.00000
+Hyatt Regency JFK Airport at Resorts World New York|Brooklyn, NY|40.673723| -73.8327454| 303.00000
+Hyatt Regency San Francisco Airport|Millbrae, CA|37.593873|-122.3651261| 194.00000
+Intercontinental at Doral Miami, an IHG Hotel|Coral Gables, FL|25.797556| -80.3359440| 353.00000
+Jolly Roger Hotel|Los Angeles, CA|33.988889|-118.4513889| 152.00000
+JW Marriott Anaheim Resort|Anaheim, CA|33.804372|-117.9104409| 384.00000
+Kimpton Aertson Hotel, an IHG Hotel|Nashville, TN|36.148567| -86.7986591| 413.00000
+Kimpton Hotel Fontenot, an IHG Hotel|New Orleans, LA|29.948541| -90.0673398| 376.00000
+Kimpton Sylvan Hotel, an IHG Hotel|Atlanta, GA|33.839289| -84.3750024| 229.00000
+Kinn Guesthouse Bay View|Milwaukee, WI|42.998675| -87.9010250| 364.00000
+Knott's Berry Farm Hotel|Anaheim, CA|33.840201|-117.9986106| 352.00000
+La Playa Inn|Santa Barbara, CA|34.409425|-119.6954747| 443.00000
+La Quinta Inn & Suites by Wyndham Atlanta Airport North|Atlanta, GA|NA|NA| 133.00000
+La Quinta Inn & Suites by Wyndham Atlanta Midtown - Buckhead|Atlanta, GA|NA|NA| 139.00000
+La Quinta Inn & Suites by Wyndham Bonita Springs Naples N.|Estero, FL|NA|NA| 255.00000
+La Quinta Inn & Suites by Wyndham Columbus - Grove City|Columbus, OH|NA|NA| 101.00000
+La Quinta Inn & Suites by Wyndham Deerfield Beach I-95|Boca Raton, FL|NA|NA| 157.00000
+La Quinta Inn & Suites by Wyndham Las Vegas Summerlin Tech|Las Vegas, NV|NA|NA| 214.00000
+La Quinta Inn & Suites by Wyndham Latham Albany Airport|Albany, NY|NA|NA| 110.00000
+La Quinta Inn & Suites by Wyndham Mission at West McAllen|Edinburg, TX|NA|NA| 110.00000
+La Quinta Inn & Suites by Wyndham San Francisco Airport N|Millbrae, CA|NA|NA| 122.00000
+La Quinta Inn & Suites by Wyndham San Francisco Airport West|Millbrae, CA|NA|NA| 145.00000
+La Quinta Inn & Suites by Wyndham South Bend|Notre Dame, IN|NA|NA| 108.00000
+La Quinta Inn & Suites by Wyndham Tampa Brandon West|Tampa, FL|NA|NA| 139.00000
+La Quinta Inn & Suites by Wyndham West Memphis|Memphis, TN|NA|NA| 173.00000
+LaGuardia Plaza Hotel|Bronx, NY|40.767010| -73.8670435| 251.00000
+Larkspur Landing South San Francisco - An All-Suite Hotel|Millbrae, CA|37.658232|-122.3966620| 112.00000
+Latitude 26 Waterfront Resort & Marina|Fort Myers, FL|26.330170| -81.8302300| 228.00000
+Le Meridien St. Louis Downtown|Saint Louis, MO|38.628618| -90.1956050| 195.00000
+Le Petit Hotel|Montreal, Canada|45.503083| -73.5548873| 401.00000
+Le Relais Lyonnais|Montreal, Canada|45.514846| -73.5625770| 133.00000
+Le Westin Montréal|Montreal, Canada|45.503606| -73.5595661| 321.00000
+Live! Casino & Hotel|Baltimore, MD|39.909191| -75.1646617| 387.00000
+Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA|36.850769| -76.2858726| 451.00000
+Marriott Phoenix Airport|Tempe, AZ|33.460172|-111.9858654| 202.00000
+Marsh Hotel|New Orleans, LA|29.930841| -90.0939154| 196.00000
+Mason Beach Inn|Santa Barbara, CA|34.409300|-119.6947000| 428.00000
+McKnight Hotel|Pittsburgh, PA|40.497854| -80.0127654| 122.00000
+Mitchell Executive Hotel|Bronx, NY|40.867161| -73.9743742| 194.00000
+Motel 6 Orange, CA - Anaheim|Anaheim, CA|33.842197|-117.8321273| 103.00000
+Moxy Atlanta Midtown|Atlanta, GA|33.785823| -84.3859649| 277.00000
+New Orleans Marriott Metairie at Lakeway|New Orleans, LA|30.018386| -90.1558066| 184.00000
+Oceano Hotel and Spa|Millbrae, CA|37.504141|-122.4840576| 408.00000
+Old 77 Hotel|New Orleans, LA|29.947926| -90.0674355| 290.00000
+Opal Grand Oceanfront Resort & Spa|Boca Raton, FL|26.462425| -80.0589592| 463.00000
+Paris Suites Hotel|Bronx, NY|40.844782| -73.8648268| 186.00000
+Park Pointe Hotel|Millbrae, CA|37.648056|-122.4044444| 109.00000
+Perramont Hotel|San Francisco, CA|37.766752|-122.4302557|  91.00000
+Philadelphia Airport Marriott|Philadelphia, PA|39.877843| -75.2444333| 407.00000
+Portland Marriott Downtown Waterfront|Portland, OR|45.512385|-122.6759331| 180.00000
+Quality Inn Summerville - Charleston|Charleston, SC|33.036357| -80.1504838| 113.00000
+Quality Suites NYC Gateway|New York, NY|40.764038| -74.0478591| 202.44444
+Radisson Hotel & Conference Centre Calgary Airport|Calgary, Canada|NA|NA|  96.00000
+Ramada by Wyndham Hawthorne LAX / LA Stadium|Los Angeles, CA|33.916065|-118.3720833| 105.00000
+Ramada by Wyndham Jersey City|New York, NY|40.732984| -74.0676022| 198.00000
+Ramada by Wyndham Yonkers / Westchester|Bronx, NY|40.955875| -73.8647863| 138.00000
+Ramada Limited Columbia|Columbia, SC|34.038969| -81.0914180|  90.00000
+Red Roof Inn PLUS+ Atlanta - Buckhead |Atlanta, GA|33.834541| -84.3402779| 117.00000
+Red Roof Inn PLUS+ San Francisco Airport|Millbrae, CA|37.589550|-122.3504099|  80.00000
+Redmond Inn|Seattle, WA|47.668396|-122.1052280| 123.00000
+Renaissance Charleston Historic District Hotel|Charleston, SC|32.782856| -79.9334080| 661.00000
+Renaissance Columbus Downtown Hotel|Columbus, OH|39.963718| -82.9977289| 210.00000
+Renaissance Philadelphia Downtown Hotel|Philadelphia, PA|39.949054| -75.1476610| 394.00000
+Renaissance Phoenix Glendale Hotel & Spa|Phoenix, AZ|NA|NA| 349.00000
+Renaissance St. Louis Airport Hotel|St. Louis, MO|38.731920| -90.3462729| 144.00000
+Residence Inn Atlanta Downtown by Marriott|Atlanta, GA|33.757269| -84.3882035| 404.00000
+Residence Inn by Marriott Baltimore at The Johns Hopkins Medical Campus|Towson, MD|39.299912| -76.5911532| 136.00000
+Residence Inn By Marriott Jacksonville - Mayo Clinic Area|Jacksonville, FL|30.255069| -81.4364632| 188.00000
+Residence Inn by Marriott Philadelphia Conshohocken|Philadelphia, PA|40.070974| -75.3052765| 157.00000
+Residence Inn by Marriott Philadelphia Willow Grove|Philadelphia, PA|40.167798| -75.1417300| 197.00000
+Residence Inn by Marriott St Louis Downtown|Saint Louis, MO|38.626873| -90.2187316| 170.00000
+Residence Inn By Marriott Tampa Downtown|Tampa, FL|27.951519| -82.4610680| 346.00000
+Residence Inn by Marriott Tampa Sabal Park/Brandon|Tampa, FL|27.979525| -82.3387863| 351.00000
+Residence Inn Long Island Garden City|Elmont, NY|40.724507| -73.6406054| 345.00000
+Residence Inn National Harbor Washington, DC Area|Washington, DC|38.782846| -77.0165076| 466.00000
+Residence Inn New York The Bronx At Metro Center Atrium|Bronx, NY|40.849325| -73.8425338| 347.00000
+Robert Treat Hotel, BW Premier Collection|New York, NY|40.739199| -74.1683123| 161.00000
+Ruby Room|Chicago, IL|41.903197| -87.6716811| 398.00000
+San Francisco Airport Marriott Waterfront|Millbrae, CA|37.602243|-122.3704350| 152.00000
+Senna House Scottsdale, A Curio Collection By Hilton|Tempe, AZ|33.501918|-111.9199943| 528.00000
+Sheraton Atlanta Perimeter North Hotel|Atlanta, GA|33.919484| -84.3608187| 112.00000
+Sheraton Baltimore Washington Airport Hotel - BWI|Baltimore, MD|39.205385| -76.6930271| 131.00000
+Sheraton Metairie - New Orleans Hotel|New Orleans, LA|29.995871| -90.1529029| 163.00000
+Sheraton Suites Philadelphia Airport|Philadelphia, PA|39.890517| -75.2315352| 162.00000
+Sheraton Tampa Brandon Hotel|Tampa, FL|27.980186| -82.3309301| 373.00000
+Silver Sands Beach Resort|Coral Gables, FL|25.695787| -80.1576312| 201.00000
+Sleep Inn & Suites|Mobile, AL|NA|NA| 122.00000
+Sleep Inn Phoenix Sky Harbor Airport|Tempe, AZ|33.423777|-111.9790530| 131.00000
+Sonesta Select Atlanta Cumberland Galleria|Atlanta, GA|33.877680| -84.4653794| 114.00000
+SpringHill Suites Birmingham Downtown at UAB|Birmingham, AL|33.509651| -86.8014842| 172.00000
+SpringHill Suites by Marriott Atlanta Airport Gateway|Atlanta, GA|33.643774| -84.4574476| 448.00000
+SpringHill Suites by Marriott Cincinnati Airport South|Cincinnati, OH|39.019780| -84.6366736| 120.00000
+SpringHill Suites by Marriott Cincinnati Airport South|Highland Heights, KY|39.019780| -84.6366736| 120.00000
+SpringHill Suites Minneapolis-St Paul Airpt/Mall of America|Saint Paul, MN|44.861268| -93.2319012| 109.00000
+SpringHill Suites Philadelphia Willow Grove|Philadelphia, PA|40.161419| -75.1315531| 163.00000
+SpringHill Suites St. Louis Brentwood|Saint Louis, MO|38.623563| -90.3352275| 137.00000
+SpringHill Suites St. Louis Brentwood|St. Louis, MO|38.623563| -90.3352275| 137.00000
+Stillwell Hotel|Los Angeles, CA|34.044864|-118.2586677| 144.00000
+Stonehurst Place Bed & Breakfast|Atlanta, GA|33.779857| -84.3805750| 454.00000
+Super 8 by Wyndham Albuquerque West/Coors Blvd|Albuquerque, NM|35.102898|-106.7079384|  93.00000
+Super 8 by Wyndham Farmers Branch/North Dallas|Dallas, TX|32.937609| -96.9014001|  90.00000
+Super 8 by Wyndham Richmond/Broad Street|Richmond, VA|37.612748| -77.5202450|  81.00000
+Super 8 by Wyndham San Bruno/ San Francisco (SFO) Airport|Millbrae, CA|37.621313|-122.3789554| 128.00000
+SureStay Plus Hotel by Best Western South Bend Notre Dame|Notre Dame, IN|41.700191| -86.2379328|  80.00000
+The Alexandrian Old Town Alexandria, Autograph Collection|Washington, DC|38.804557| -77.0444684| 362.00000
+The Dylan at SFO|Millbrae, CA|37.597778|-122.3861111| 155.00000
+The Guesthouse Hotel|Chicago, IL|41.970949| -87.6678867| 562.00000
+The Guesthouse Hotel|Evanston, IL|41.970949| -87.6678867| 562.00000
+The Inn at Penn, A Hilton Hotel|Villanova, PA|39.953783| -75.1957816| 454.00000
+The Laurel Inn, part of JdV by Hyatt|San Francisco, CA|37.787594|-122.4466154| 455.00000
+The Lodge at St Edward State park|Seattle, WA|47.733075|-122.2572517| 437.00000
+The Lodge at Tiburon|San Francisco, CA|37.874814|-122.4573925| 408.00000
+The Ned NoMad|Bronx, NY|40.744956| -73.9884704| 908.00000
+The New York EDITION|Bronx, NY|40.741286| -73.9873577|1480.00000
+The One Boutique Hotel|Elmont, NY|40.763504| -73.8284160| 358.00000
+The Pontchartrain Hotel|New Orleans, LA|29.934992| -90.0796649| 408.00000
+The Ritz-Carlton New York, NoMad|Bronx, NY|40.745536| -73.9888447|2063.00000
+The Royal Sonesta Minneapolis Downtown|Saint Paul, MN|44.977284| -93.2734430| 147.00000
+The Ryder Hotel|Charleston, SC|32.782563| -79.9320809|1510.00000
+The Scottsdale Resort at McCormick Ranch|Tempe, AZ|33.548457|-111.9162323| 382.00000
+The Statler Dallas Curio Collection By Hilton|Dallas, TX|32.780190| -96.7950040| 377.00000
+The Waterman|Santa Barbara, CA|34.415068|-119.6924090| 574.00000
+The Wave Manhattan Beach|Los Angeles, CA|33.885135|-118.4102379| 114.00000
+The Westin Arlington Gateway|Washington, DC|38.880647| -77.1142986| 125.00000
+The Westin Boston Seaport District|Chestnut Hill, MA|42.345993| -71.0430104| 488.00000
+The Westin San Francisco Airport|Millbrae, CA|37.603462|-122.3761520| 151.00000
+The Westin Waltham-Boston|Chestnut Hill, MA|42.395307| -71.2597626| 122.00000
+The Westin Washington National Harbor|Washington, DC|38.784067| -77.0173762| 402.00000
+The William Vale|New York, NY|40.722316| -73.9566829| 864.00000
+Thompson Chicago|Chicago, IL|41.901342| -87.6274861| 420.00000
+Town & Country Inn and Suites|Charleston, SC|37.504854|-122.2594580| 147.00000
+TownePlace Suites Marriott Minneapolis St Paul AirportEagan|Saint Paul, MN|44.826114| -93.1694980| 102.00000
+TownePlace Suites Tampa Casino Area|Tampa, FL|27.982167| -82.3873499| 355.00000
+Tru by Hilton Lubbock Southwest|Lubbock, TX|33.536991|-101.9553451|  97.00000
+Tru by Hilton Mt Pleasant Charleston|Charleston, SC|32.819612| -79.8385806| 109.00000
+Tru by Hilton Salt Lake City Airport|Salt Lake City, UT|40.772317|-112.0191460| 105.00000
+Umbrella Hotel Brooklyn|New York, NY|40.631093| -74.0027859| 157.00000
+Vagabond Inn Executive San Francisco Airport|Millbrae, CA|37.600237|-122.3676274| 111.00000
+W Atlanta Downtown|Atlanta, GA|33.764913| -84.3895365| 461.00000
+W Chicago - City Center|Chicago, IL|41.879521| -87.6332144| 193.00000
+West Beach Inn, a Coast Hotel|Santa Barbara, CA|34.409071|-119.6933990| 352.00000
+Wheeler Hotel|Bronx, NY|40.827904| -73.8797396| 183.00000
+Wingate by Wyndham High Point|Greensboro, NC|36.060694| -79.9633089| 114.00000
+Wingate by Wyndham JFK Airport/Far Rockaway|Elmont, NY|40.602838| -73.7544137| 154.00000
+Wingate by Wyndham Nashville Airport|Nashville, TN|36.144361| -86.6860796| 163.00000
+Wingate by Wyndham Raleigh South / Garner|Raleigh, NC|35.725188| -78.6438632| 130.00000
+Wm. Mulherin's Sons Hotel|Philadelphia, PA|39.971713| -75.1350557| 549.00000
+Woodmark Hotel and Still Spa|Seattle, WA|47.656822|-122.2071000| 598.00000
+WoodSpring Suites Nashville Airport|Nashville, TN|36.090732| -86.7021838| 141.00000
+Wyndham Garden Dallas North|Dallas, TX|32.910706| -96.8893994|  9
