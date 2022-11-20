@@ -14891,8 +14891,10 @@ Courtyard by Marriott St. Louis Brentwood|Saint Louis, MO|38.629033| -90.3332393
 Courtyard by Marriott Tulsa Central|Tulsa, OK|36.113929| -95.8929364| 121.00000
 Courtyard by Marriott Washington Capitol Hill/Navy Yard|Washington, DC|38.877772| -77.0040947| 166.00000
 Courtyard Charleston Historic District|Charleston, SC|32.786623| -79.9335702| 519.00000
-Cozy Carriage House | Walk to UNC | + Free Bikes|Greeley, CO|40.423314|-104.7091322| 307.00000
-Cozy Retreat | Walk to UNC | FREE Cruiser Bikes|Greeley, CO|40.423314|-104.7091322| 286.00000
+Cozy Carriage House | Walk to UNC |NA|NA|  40.42331
+-104.7091322| 307.00000|NA|NA|NA
+Cozy Retreat | Walk to UNC |NA|NA|  40.42331
+-104.7091322| 286.00000|NA|NA|NA
 Days Inn by Wyndham Arlington/Washington DC|Washington, DC|38.880524| -77.0847762|  96.00000
 Delta Hotels by Marriott Indianapolis Airport|Indianapolis, IN|39.726303| -86.2630763| 405.00000
 DoubleTree by Hilton Albuquerque|Albuquerque, NM|35.088284|-106.6493454| 162.00000
@@ -15033,4 +15035,391 @@ Towneplace Suites by Marriott Houston Westchase|Houston, TX|29.722445| -95.55875
 TownePlace Suites by Marriott Tallahassee N Capital Circle|Tallahassee, FL|30.473051| -84.2342580| 133.00000
 Tru by Hilton Greensboro, NC|Greensboro, NC|36.052632| -79.8887260| 133.00000
 Tru by Hilton Williamsville Buffalo Airport|Buffalo, NY|42.950654| -78.6940053| 144.00000
-West Point Motel|West Point, NY|41.363949| -73.9665885| 20
+West Point Motel|West Point, NY|41.363949| -73.9665885|  20.00000
+|Fairfield, CT|41.140836| -73.2612615| 192.93333
+|Muncie, IN|40.193377| -85.3863599|  95.33333
+|Washington, DC|38.907192| -77.0368707|  86.45455
+50 Lincoln Short North B&B|Columbus, OH|39.977186| -83.0020186| 165.00000
+AC Hotel by Marriott Atlanta Midtown|Atlanta, GA|33.786349| -84.3859161| 210.00000
+AeroStay Hotel|Sioux Falls, SD|43.581232| -96.7319190| 169.00000
+Aloft Dulles Airport North|Ann Arbor, MI|42.280826| -83.7430378| 112.00000
+Aloft Dulles Airport North|Chapel Hill, NC|35.881471| -79.0625027| 112.00000
+Aloft Dulles Airport North|Hartford, CT|41.765804| -72.6733723| 112.00000
+Aloft Dulles Airport North|Indianapolis, IN|38.997378| -77.4823824| 112.00000
+Aloft Dulles Airport North|Spokane, WA|47.658780|-117.4260466| 112.00000
+American Hotel Los Angeles|Los Angeles, CA|34.045224|-118.2362758| 121.00000
+Avanti Palms Resort and Conference Center|Orlando, FL|28.458934| -81.4711994|  93.00000
+Baymont by Wyndham Des Moines North|Des Moines, IA|41.645718| -93.5997009|  78.00000
+Berkeley Park MGallery Hotel Collection|Miami, FL|25.796045| -80.1308857| 172.00000
+Best Western Dulles Airport Inn|Ann Arbor, MI|42.280826| -83.7430378|  96.00000
+Best Western Dulles Airport Inn|Chapel Hill, NC|35.913200| -79.0558445|  96.00000
+Best Western Dulles Airport Inn|Hartford, CT|41.765804| -72.6733723|  96.00000
+Best Western Dulles Airport Inn|Indianapolis, IN|38.986119| -77.4293086|  96.00000
+Best Western Dulles Airport Inn|Spokane, WA|47.658780|-117.4260466|  96.00000
+Best Western Plus Hotel & Suites Airport South|Atlanta, GA|NA|NA| 111.00000
+Best Western River North Hotel|Chicago, IL|41.892112| -87.6320790| 115.00000
+Best Western Silicon Valley Inn|Stanford, CA|37.392960|-122.0289916| 127.00000
+Boston Marriott Cambridge|Chestnut Hill, MA|42.363268| -71.0859327| 351.00000
+Boston Marriott Long Wharf|Chestnut Hill, MA|42.359993| -71.0510743| 381.00000
+Boulder Adventure Lodge|Boulder, CO|40.017989|-105.3263010| 119.00000
+Brexton Hotel|Baltimore, MD|39.301131| -76.6188583| 180.00000
+Brexton Hotel|Towson, MD|39.301131| -76.6188583| 180.00000
+BWI Airport Marriott|Baltimore, MD|39.196445| -76.6829012| 124.00000
+Cambria Hotel Bloomington Mall of America Minneapolis Airport|Saint Paul, MN|44.857803| -93.2320070|  90.00000
+Canad Inns Destination Centre Transcona|Winnipeg, Canada|49.894716| -97.0283209| 117.00000
+Carte Hotel San Diego Downtown, Curio Collection by Hilton|San Diego, CA|32.719735|-117.1666703| 379.00000
+Circa 39 Hotel Miami Beach|Miami, FL|25.812058| -80.1235427| 180.00000
+citizenM Miami Brickell|Miami, FL|25.764637| -80.1928919| 292.00000
+citizenM New York Bowery|New York, NY|40.720716| -73.9934843| 284.00000
+Clarion Hotel & Conference Center Leesburg|Ann Arbor, MI|-1.280998|  36.8209480| 126.00000
+Clarion Hotel & Conference Center Leesburg|Chapel Hill, NC|-1.280998|  36.8209480| 126.00000
+Clarion Hotel & Conference Center Leesburg|Hartford, CT|-1.280998|  36.8209480| 126.00000
+Clarion Hotel & Conference Center Leesburg|Indianapolis, IN|-1.280998|  36.8209480| 126.00000
+Clarion Hotel & Conference Center Leesburg|Spokane, WA|-1.280998|  36.8209480| 126.00000
+Comfort Inn & Suites Airport Dulles - Gateway|Ann Arbor, MI|NA|NA| 111.00000
+Comfort Inn & Suites Airport Dulles - Gateway|Chapel Hill, NC|NA|NA| 111.00000
+Comfort Inn & Suites Airport Dulles - Gateway|Hartford, CT|NA|NA| 111.00000
+Comfort Inn & Suites Airport Dulles - Gateway|Indianapolis, IN|NA|NA| 111.00000
+Comfort Inn & Suites Airport Dulles - Gateway|Spokane, WA|NA|NA| 111.00000
+Comfort Inn & Suites Moreno Valley near March Air Reserve Base|Riverside, CA|NA|NA| 110.00000
+Comfort Inn Herndon - Reston|Ann Arbor, MI|42.280826| -83.7430378|  84.00000
+Comfort Inn Herndon - Reston|Chapel Hill, NC|35.913200| -79.0558445|  84.00000
+Comfort Inn Herndon - Reston|Hartford, CT|41.765804| -72.6733723|  84.00000
+Comfort Inn Herndon - Reston|Indianapolis, IN|38.966957| -77.3688125|  84.00000
+Comfort Inn Herndon - Reston|Spokane, WA|47.658693|-117.4225481|  84.00000
+Comfort Suites Cincinnati University - Downtown|Highland Heights, KY|39.124508| -84.5020007| 147.00000
+Comfort Suites Leesburg|Ann Arbor, MI|42.280826| -83.7430378| 133.00000
+Comfort Suites Leesburg|Chapel Hill, NC|35.913200| -79.0558445| 133.00000
+Comfort Suites Leesburg|Hartford, CT|41.765804| -72.6733723| 134.00000
+Comfort Suites Leesburg|Indianapolis, IN|39.768403| -86.1580680| 134.00000
+Comfort Suites Leesburg|Spokane, WA|47.658780|-117.4260466| 134.00000
+Comfort Suites Raleigh Durham Airport/Research Triangle Park|Durham, NC|35.880258| -78.8436450|  89.00000
+Copley Square Hotel|Chestnut Hill, MA|42.348315| -71.0786214| 176.00000
+Country Inn & Suites by Radisson, Washington Dulles International Airport, VA|Ann Arbor, MI|NA|NA|  93.00000
+Country Inn & Suites by Radisson, Washington Dulles International Airport, VA|Chapel Hill, NC|NA|NA|  93.00000
+Country Inn & Suites by Radisson, Washington Dulles International Airport, VA|Hartford, CT|NA|NA|  93.00000
+Country Inn & Suites by Radisson, Washington Dulles International Airport, VA|Indianapolis, IN|NA|NA|  93.00000
+Country Inn & Suites by Radisson, Washington Dulles International Airport, VA|Spokane, WA|NA|NA|  93.00000
+Courtyard by Marriott Atlanta Midtown|Atlanta, GA|33.772079| -84.3851917| 214.00000
+Courtyard by Marriott Cincinnati Airport|Cincinnati, OH|39.052907| -84.6284845| 128.00000
+Courtyard by Marriott Dulles Airport Herndon|Ann Arbor, MI|42.280826| -83.7430378| 105.00000
+Courtyard by Marriott Dulles Airport Herndon|Chapel Hill, NC|35.913200| -79.0558445| 105.00000
+Courtyard by Marriott Dulles Airport Herndon|Hartford, CT|38.958343| -77.4215341| 105.00000
+Courtyard by Marriott Dulles Airport Herndon|Indianapolis, IN|39.768403| -86.1580680| 105.00000
+Courtyard by Marriott Dulles Airport Herndon|Spokane, WA|47.658780|-117.4260466| 105.00000
+Courtyard by Marriott Las Vegas South|Las Vegas, NV|36.083824|-115.1830351| 374.00000
+Courtyard by Marriott Omaha Downtown|Omaha, NE|41.259258| -95.9284328| 126.00000
+Courtyard by Marriott Toledo North|Toledo, OH|41.724273| -83.5116819| 122.00000
+Courtyard by Marriott Toledo Rossford/Perrysburg|Toledo, OH|41.565614| -83.5829953| 121.00000
+Courtyard by Marriott Washington Downtown/Convention Center|College Park, MD|38.904374| -77.0245939| 351.00000
+Cozy Carriage House  Walk to UNC  + Free Bikes|Greeley, CO|40.423314|-104.7091322| 294.00000
+Cozy Retreat  Walk to UNC  FREE Cruiser Bikes|Greeley, CO|40.423314|-104.7091322| 271.00000
+Crane's Beach House Boutique Hotel & Luxury Villas|Boca Raton, FL|26.460061| -80.0611224| 417.00000
+Crowne Plaza Dulles Airport, an IHG Hotel|Ann Arbor, MI|42.280826| -83.7430378| 137.00000
+Crowne Plaza Dulles Airport, an IHG Hotel|Chapel Hill, NC|35.913200| -79.0558445| 137.00000
+Crowne Plaza Dulles Airport, an IHG Hotel|Hartford, CT|41.765804| -72.6733723| 137.00000
+Crowne Plaza Dulles Airport, an IHG Hotel|Indianapolis, IN|39.768403| -86.1580680| 137.00000
+Crowne Plaza Dulles Airport, an IHG Hotel|Spokane, WA|47.664406|-117.4121132| 137.00000
+Crowne Plaza Times Square Manhattan, an IHG Hotel|Bronx, NY|40.760742| -73.9850637| 270.00000
+Crowne Plaza Times Square Manhattan, an IHG Hotel|Brooklyn, NY|40.760742| -73.9850637| 270.00000
+Crowne Plaza Times Square Manhattan, an IHG Hotel|New York, NY|40.760742| -73.9850637| 270.00000
+Days Inn by Wyndham Farmville|Farmville, VA|37.272814| -78.4034632|  66.00000
+Days Inn by Wyndham Los Angeles LAX/Redondo/Manhattan Beach|Los Angeles, CA|33.888562|-118.3518791| 101.00000
+Days Inn by Wyndham Orlando Conv. Center/International Dr|Orlando, FL|28.422903| -81.4611563|  76.00000
+Days Inn by Wyndham San Antonio Southeast By AT&T Center|San Antonio, TX|29.523898| -98.3951877|  64.00000
+DoubleTree by Hilton Hotel Portland - Tigard|Portland, OR|45.447294|-122.7752482| 105.00000
+DoubleTree by Hilton New York Downtown|New York, NY|40.703921| -74.0123541| 208.00000
+DoubleTree by Hilton Sterling - Dulles Airport|Ann Arbor, MI|42.280826| -83.7430378| 133.00000
+DoubleTree by Hilton Sterling - Dulles Airport|Chapel Hill, NC|38.953116| -77.4565388| 133.00000
+DoubleTree by Hilton Sterling - Dulles Airport|Hartford, CT|41.765804| -72.6733723| 133.00000
+DoubleTree by Hilton Sterling - Dulles Airport|Indianapolis, IN|39.768403| -86.1580680| 133.00000
+DoubleTree by Hilton Sterling - Dulles Airport|Spokane, WA|47.658780|-117.4260466| 133.00000
+Econo Lodge|Ithaca, NY|42.443961| -76.5018807| 117.00000
+Edgewater Beach inn and suites|Santa Cruz, CA|36.964319|-122.0241342| 391.00000
+Element Santa Clara|San Jose, CA|37.388148|-121.9589995| 374.00000
+Element Santa Clara|Santa Clara, CA|37.388148|-121.9589995| 374.00000
+Elevation Lofts Hotel|Asheville, NC|35.597108| -82.5521036| 765.00000
+Embassy Suites by Hilton Birmingham Hoover|Birmingham, AL|33.369128| -86.8161052| 189.00000
+Embassy Suites by Hilton Dulles Airport|Ann Arbor, MI|42.280826| -83.7430378| 153.00000
+Embassy Suites by Hilton Dulles Airport|Chapel Hill, NC|35.932030| -79.0578630| 153.00000
+Embassy Suites by Hilton Dulles Airport|Hartford, CT|41.765804| -72.6733723| 151.00000
+Embassy Suites by Hilton Dulles Airport|Indianapolis, IN|39.768403| -86.1580680| 151.00000
+Embassy Suites by Hilton Dulles Airport|Spokane, WA|38.952673| -77.4066894| 151.00000
+Embassy Suites by Hilton Dulles North Loudoun|Ann Arbor, MI|42.280826| -83.7430378| 145.00000
+Embassy Suites by Hilton Dulles North Loudoun|Chapel Hill, NC|35.913200| -79.0558445| 145.00000
+Embassy Suites by Hilton Dulles North Loudoun|Hartford, CT|41.765804| -72.6733723| 145.00000
+Embassy Suites by Hilton Dulles North Loudoun|Indianapolis, IN|39.768403| -86.1580680| 145.00000
+Embassy Suites by Hilton Dulles North Loudoun|Spokane, WA|47.658780|-117.4260466| 145.00000
+Embassy Suites by Hilton Jackson North Ridgeland|Jackson, MS|32.440788| -90.1497692| 172.00000
+Embassy Suites by Hilton Minneapolis Airport|Saint Paul, MN|44.860378| -93.2220505| 150.00000
+Embassy Suites by Hilton Santa Clara Silicon Valley|San Jose, CA|37.383959|-121.9786423| 354.00000
+Embassy Suites by Hilton Santa Clara Silicon Valley|Santa Clara, CA|37.383959|-121.9786423| 354.00000
+Empire Studios By Barsala|Pullman, WA|46.729777|-117.1817377| 219.00000
+Eurostars Magnificent Mile|Chicago, IL|41.894296| -87.6283995| 129.00000
+Extended Stay America Suites Atlanta Perimeter Hammond Drive|Atlanta, GA|33.920494| -84.3534199|  98.00000
+Extended Stay America Suites Las Vegas Midtown|Las Vegas, NV|36.135139|-115.1378750| 102.00000
+Extended Stay America Suites Las Vegas Valley View|Las Vegas, NV|36.112485|-115.1893166| 113.00000
+Extended Stay America Suites Miami Airport Miami Springs|Coral Gables, FL|25.795872| -80.2870509| 139.00000
+Extended Stay America Suites Washington DC Herndon Dulles|Ann Arbor, MI|42.280826| -83.7430378| 111.00000
+Extended Stay America Suites Washington DC Herndon Dulles|Chapel Hill, NC|35.913200| -79.0558445| 111.00000
+Extended Stay America Suites Washington DC Herndon Dulles|Hartford, CT|41.765804| -72.6733723| 111.00000
+Extended Stay America Suites Washington DC Herndon Dulles|Indianapolis, IN|38.967462| -77.3948980| 111.00000
+Extended Stay America Suites Washington DC Herndon Dulles|Spokane, WA|47.658780|-117.4260466| 111.00000
+Extended Stay America Suites Washington DC Reston|Ann Arbor, MI|42.280826| -83.7430378|  91.00000
+Extended Stay America Suites Washington DC Reston|Chapel Hill, NC|35.913200| -79.0558445|  91.00000
+Extended Stay America Suites Washington DC Reston|Hartford, CT|41.765804| -72.6733723|  91.00000
+Extended Stay America Suites Washington DC Reston|Indianapolis, IN|38.955480| -77.3665053|  91.00000
+Extended Stay America Suites Washington DC Reston|Spokane, WA|47.658780|-117.4260466|  91.00000
+Extended Stay America Suites Washington DC Sterling|Ann Arbor, MI|42.280826| -83.7430378|  97.00000
+Extended Stay America Suites Washington DC Sterling|Chapel Hill, NC|35.913200| -79.0558445|  97.00000
+Extended Stay America Suites Washington DC Sterling|Hartford, CT|41.765804| -72.6733723|  97.00000
+Extended Stay America Suites Washington DC Sterling|Indianapolis, IN|39.768403| -86.1580680|  97.00000
+Extended Stay America Suites Washington DC Sterling|Spokane, WA|47.658780|-117.4260466|  97.00000
+Extended Stay America Suites Washington DC Sterling Dulles|Ann Arbor, MI|42.280826| -83.7430378| 108.00000
+Extended Stay America Suites Washington DC Sterling Dulles|Chapel Hill, NC|35.913200| -79.0558445| 108.00000
+Extended Stay America Suites Washington DC Sterling Dulles|Hartford, CT|41.765804| -72.6733723| 108.00000
+Extended Stay America Suites Washington DC Sterling Dulles|Indianapolis, IN|38.977734| -77.4319839| 108.00000
+Extended Stay America Suites Washington DC Sterling Dulles|Spokane, WA|38.953116| -77.4565388| 108.00000
+Fairfield by Marriott Inn & Suites Herndon Reston|Ann Arbor, MI|NA|NA| 108.00000
+Fairfield by Marriott Inn & Suites Herndon Reston|Chapel Hill, NC|NA|NA| 108.00000
+Fairfield by Marriott Inn & Suites Herndon Reston|Hartford, CT|NA|NA| 108.00000
+Fairfield by Marriott Inn & Suites Herndon Reston|Indianapolis, IN|NA|NA| 108.00000
+Fairfield by Marriott Inn & Suites Herndon Reston|Spokane, WA|NA|NA| 108.00000
+Fairfield Inn & Suites by Marriott at Dulles Airport|Ann Arbor, MI|NA|NA| 122.00000
+Fairfield Inn & Suites by Marriott at Dulles Airport|Chapel Hill, NC|NA|NA| 122.00000
+Fairfield Inn & Suites by Marriott at Dulles Airport|Hartford, CT|NA|NA| 122.00000
+Fairfield Inn & Suites by Marriott at Dulles Airport|Indianapolis, IN|NA|NA| 122.00000
+Fairfield Inn & Suites by Marriott at Dulles Airport|Spokane, WA|NA|NA| 122.00000
+Fairfield Inn & Suites by Marriott Fresno Clovis|Fresno, CA|NA|NA| 138.00000
+Fairfield Inn & Suites by Marriott Milwaukee West|Milwaukee, WI|NA|NA| 108.00000
+Fairfield Inn & Suites by Marriott Pittsburgh North/McCandless Crossing|Pittsburgh, PA|NA|NA| 115.00000
+Fairfield Inn & Suites Cincinnati Uptown/University Area|Cincinnati, OH|NA|NA| 141.00000
+Fairfield Inn & Suites Colorado Springs Air Force Academy|Colorado Springs, CO|NA|NA|  96.00000
+Fairfield Inn & Suites Dallas Medical/Market Center|Dallas, TX|NA|NA| 123.00000
+Fairfield Inn & Suites New York Queens/Fresh Meadows|Jamaica, NY|NA|NA| 220.00000
+Fort Lauderdale Marriott Pompano Beach Resort and Spa|Boca Raton, FL|26.249119| -80.0860032| 375.00000
+Freehand Miami|Miami, FL|25.804573| -80.1263506| 166.00000
+Gallatin River Lodge|Bozeman, MT|45.684619|-111.0683871| 211.00000
+Hampton Inn & Suites Atlanta Buckhead Place|Atlanta, GA|NA|NA| 128.00000
+Hampton Inn & Suites Atlanta Midtown|Atlanta, GA|NA|NA| 203.00000
+Hampton Inn & Suites Las Vegas-Henderson|Las Vegas, NV|NA|NA| 124.00000
+Hampton Inn & Suites Nashville @ Opryland|Nashville, TN|NA|NA| 380.00000
+Hampton Inn & Suites Rocky Hill - Hartford South|Hartford, CT|NA|NA| 133.00000
+Hampton Inn & Suites Tampa Riverview Brandon|Tampa, FL|NA|NA| 344.00000
+Hampton Inn Atlanta Buckhead|Atlanta, GA|33.847238| -84.3737903| 123.00000
+Hampton Inn Columbia Northeast - Fort Jackson Area|Columbia, SC|34.077290| -80.9460155|  91.00000
+Hampton Inn Columbus/Dublin|Columbus, OH|40.108203| -83.0960289|  89.00000
+Hampton Inn Dulles - Cascades|Ann Arbor, MI|42.290670| -83.7440658| 121.00000
+Hampton Inn Dulles - Cascades|Chapel Hill, NC|35.913200| -79.0558445| 121.00000
+Hampton Inn Dulles - Cascades|Hartford, CT|39.029805| -77.3974803| 121.00000
+Hampton Inn Dulles - Cascades|Indianapolis, IN|39.768403| -86.1580680| 121.00000
+Hampton Inn Dulles - Cascades|Spokane, WA|47.658780|-117.4260466| 121.00000
+Hampton Inn Farmville, VA|Farmville, VA|37.294318| -78.3739561| 104.00000
+Hampton Inn Ft. Wayne-Southwest|Fort Wayne, IN|41.030744| -85.2501780| 100.00000
+Harbor Inn & Suites|Anaheim, CA|NA|NA| 105.00000
+Hawthorn Suites by Wyndham Sterling Dulles|Ann Arbor, MI|39.031441| -77.3967692|  96.00000
+Hawthorn Suites by Wyndham Sterling Dulles|Chapel Hill, NC|35.913200| -79.0558445|  96.00000
+Hawthorn Suites by Wyndham Sterling Dulles|Hartford, CT|41.792434| -72.8042797|  96.00000
+Hawthorn Suites by Wyndham Sterling Dulles|Indianapolis, IN|39.031441| -77.3967692|  96.00000
+Hawthorn Suites by Wyndham Sterling Dulles|Spokane, WA|39.031441| -77.3967692|  96.00000
+Henry Howard Hotel|New Orleans, LA|29.933830| -90.0786440| 465.00000
+Hilton Chicago/Magnificent Mile Suites|Chicago, IL|41.899779| -87.6220647| 123.78947
+Hilton Garden Inn Anaheim Resort|Anaheim, CA|33.811539|-117.9123367| 355.00000
+Hilton Garden Inn Cleveland Airport|Cleveland, OH|41.424835| -81.8465942| 139.00000
+Hilton Garden Inn Detroit Downtown|Detroit, MI|42.335915| -83.0450445| 347.00000
+Hilton Garden Inn Downtown Dallas|Dallas, TX|32.782136| -96.7989842| 166.00000
+Hilton Garden Inn Dulles North|Ann Arbor, MI|42.280826| -83.7430378| 120.00000
+Hilton Garden Inn Dulles North|Chapel Hill, NC|38.997196| -77.4813116| 120.00000
+Hilton Garden Inn Dulles North|Hartford, CT|38.997196| -77.4813116| 120.00000
+Hilton Garden Inn Dulles North|Indianapolis, IN|39.768680| -86.1565179| 120.00000
+Hilton Garden Inn Dulles North|Spokane, WA|47.642203|-117.5373277| 120.00000
+Hilton Garden Inn Fort Myers Airport/FGCU|Estero, FL|26.494782| -81.7852682| 368.00000
+Hilton Garden Inn Fort Myers Airport/FGCU|Fort Myers, FL|26.494782| -81.7852682| 368.00000
+Hilton Garden Inn Salt Lake City Downtown|Salt Lake City, UT|40.756964|-111.8983583| 154.00000
+Hilton Grand Vacations Club Elara Center Strip Las Vegas|Las Vegas, NV|36.108810|-115.1683213| 462.00000
+Hilton Washington Dulles Airport|Ann Arbor, MI|42.280826| -83.7430378| 124.00000
+Hilton Washington Dulles Airport|Chapel Hill, NC|35.932030| -79.0578630| 124.00000
+Hilton Washington Dulles Airport|Hartford, CT|41.765804| -72.6733723| 124.00000
+Hilton Washington Dulles Airport|Indianapolis, IN|39.768403| -86.1580680| 124.00000
+Hilton Washington Dulles Airport|Spokane, WA|47.658780|-117.4260466| 124.00000
+Holiday Inn Edmonton South - Evario Events, an IHG Hotel|Edmonton, Canada|53.423421|-113.4815335|  83.00000
+Holiday Inn Express & Suites Ann Arbor West, an IHG Hotel|Ann Arbor, MI|NA|NA| 140.00000
+Holiday Inn Express & Suites Farmville, an IHG Hotel|Farmville, VA|NA|NA| 115.00000
+Holiday Inn Express Hotel & Suites Fort Myers East - The Forum, an IHG Hotel|Fort Myers, FL|NA|NA| 345.00000
+Holiday Inn Express Hotel and Suites Nashville-Opryland, an IHG Hotel|Nashville, TN|36.218040| -86.7004250| 359.00000
+Holiday Inn Express Kansas City Downtown, an IHG Hotel|Kansas City, MO|39.098310| -94.5779279| 176.00000
+Holiday Inn Express Portland East, an IHG Hotel|Portland, OR|45.577844|-122.5688580|  72.76471
+Holiday Inn Express San Diego Airport - Old Town, an IHG Hotel|San Diego, CA|32.744964|-117.1866936| 152.00000
+Holiday Inn Ft. Myers Airport-Town Center, an IHG Hotel|Estero, FL|26.438136| -81.8067523| 255.00000
+Holiday Inn Ft. Myers Airport-Town Center, an IHG Hotel|Fort Myers, FL|26.598261| -81.7844238| 255.00000
+Holiday Inn Hotel & Suites Cincinnati Downtown, an IHG Hotel|Cincinnati, OH|NA|NA| 257.00000
+Holiday Inn Jackson Southeast - Pearl, an IHG Hotel|Jackson, MS|32.273399| -90.1503887| 124.00000
+Holiday Inn Miami-Doral Area, an IHG Hotel|Coral Gables, FL|25.803848| -80.3359518| 138.00000
+Holiday Inn Washington-College Pk (I-95)|College Park, MD|39.020583| -76.9266039| 114.00000
+Holiday Inn Washington-Dulles International Airport, an IHG Hotel|Ann Arbor, MI|38.984492| -77.4278560| 129.00000
+Holiday Inn Washington-Dulles International Airport, an IHG Hotel|Chapel Hill, NC|35.913200| -79.0558445| 129.00000
+Holiday Inn Washington-Dulles International Airport, an IHG Hotel|Hartford, CT|41.765804| -72.6733723| 129.00000
+Holiday Inn Washington-Dulles International Airport, an IHG Hotel|Indianapolis, IN|39.768403| -86.1580680| 129.00000
+Holiday Inn Washington-Dulles International Airport, an IHG Hotel|Spokane, WA|38.984492| -77.4278560| 129.00000
+Home2Suites by Hilton Anaheim Resort|Anaheim, CA|33.811602|-117.9127920| 362.00000
+Homewood Suites by Hilton - Asheville|Asheville, NC|35.594426| -82.5313770| 133.00000
+Homewood Suites by Hilton Charleston Historic District|Charleston, SC|32.792219| -79.9385819| 193.00000
+Homewood Suites by Hilton Dulles-North/Loudoun|Ann Arbor, MI|42.280826| -83.7430378| 145.00000
+Homewood Suites by Hilton Dulles-North/Loudoun|Chapel Hill, NC|35.913200| -79.0558445| 145.00000
+Homewood Suites by Hilton Dulles-North/Loudoun|Hartford, CT|41.765804| -72.6733723| 145.00000
+Homewood Suites by Hilton Dulles-North/Loudoun|Indianapolis, IN|39.768403| -86.1580680| 145.00000
+Homewood Suites by Hilton Dulles-North/Loudoun|Spokane, WA|47.658780|-117.4260466| 145.00000
+Homewood Suites by Hilton Hartford Manchester|Hartford, CT|41.805169| -72.5479269| 146.00000
+Homewood Suites by Hilton Leesburg|Ann Arbor, MI|42.280826| -83.7430378| 127.00000
+Homewood Suites by Hilton Leesburg|Chapel Hill, NC|35.913200| -79.0558445| 127.00000
+Homewood Suites by Hilton Leesburg|Hartford, CT|41.765804| -72.6733723| 127.00000
+Homewood Suites by Hilton Leesburg|Indianapolis, IN|39.768403| -86.1580680| 127.00000
+Homewood Suites by Hilton Leesburg|Spokane, WA|39.108048| -77.5439420| 127.00000
+Homewood Suites Corpus Christi|Corpus Christi, TX|27.736125| -97.4339709|  99.00000
+Hotel St Paul|Montreal, Canada|45.500281| -73.5567557| 235.00000
+Hotel Weyanoke|Farmville, VA|37.301836| -78.3944008| 129.00000
+Hyatt House Austin/Downtown|Austin, TX|30.269743| -97.7367901| 159.00000
+HYATT house Hartford North/Windsor|Hartford, CT|41.870206| -72.6674068| 145.00000
+Hyatt House LA - University Medical Center|Los Angeles, CA|34.063770|-118.2023295| 187.00000
+HYATT house San Jose/Silicon Valley|San Jose, CA|37.416567|-121.9529547| 365.00000
+HYATT house Sterling/Dulles Airport-North|Ann Arbor, MI|42.280826| -83.7430378| 143.00000
+HYATT house Sterling/Dulles Airport-North|Chapel Hill, NC|35.917745| -79.0503791| 143.00000
+HYATT house Sterling/Dulles Airport-North|Hartford, CT|41.765804| -72.6733723| 143.00000
+HYATT house Sterling/Dulles Airport-North|Indianapolis, IN|38.977939| -77.4262474| 143.00000
+HYATT house Sterling/Dulles Airport-North|Spokane, WA|47.658780|-117.4260466| 143.00000
+Hyatt Place Dulles Airport North|Ann Arbor, MI|39.031599| -77.4069455| 125.00000
+Hyatt Place Dulles Airport North|Chapel Hill, NC|35.881462| -79.0624931| 125.00000
+Hyatt Place Dulles Airport North|Hartford, CT|41.765804| -72.6733723| 125.00000
+Hyatt Place Dulles Airport North|Indianapolis, IN|39.731831| -86.2535726| 125.00000
+Hyatt Place Dulles Airport North|Spokane, WA|47.658780|-117.4260466| 125.00000
+Hyatt Place Herndon Dulles Airport East|Ann Arbor, MI|42.280826| -83.7430378| 114.00000
+Hyatt Place Herndon Dulles Airport East|Chapel Hill, NC|35.902218| -79.0507014| 114.00000
+Hyatt Place Herndon Dulles Airport East|Hartford, CT|41.765804| -72.6733723| 114.00000
+Hyatt Place Herndon Dulles Airport East|Indianapolis, IN|39.768403| -86.1580680| 114.00000
+Hyatt Place Herndon Dulles Airport East|Spokane, WA|47.658780|-117.4260466| 114.00000
+Hyatt Place Indianapolis Carmel|Indianapolis, IN|39.963654| -86.1590553| 109.00000
+Hyatt Regency Coral Gables|Coral Gables, FL|25.751878| -80.2558201| 462.00000
+Hyatt Regency Dulles|Ann Arbor, MI|42.280826| -83.7430378| 143.00000
+Hyatt Regency Dulles|Chapel Hill, NC|35.913200| -79.0558445| 143.00000
+Hyatt Regency Dulles|Hartford, CT|38.960594| -77.4234005| 143.00000
+Hyatt Regency Dulles|Indianapolis, IN|39.766320| -86.1607737| 143.00000
+Hyatt Regency Dulles|Spokane, WA|47.658780|-117.4260466| 143.00000
+Hyatt Regency Minneapolis|Minneapolis, MN|44.970640| -93.2783648| 193.00000
+Hyatt Regency Reston|Ann Arbor, MI|42.280826| -83.7430378| 281.00000
+Hyatt Regency Reston|Chapel Hill, NC|35.913200| -79.0558445| 281.00000
+Hyatt Regency Reston|Hartford, CT|38.958134| -77.3560819| 281.00000
+Hyatt Regency Reston|Indianapolis, IN|39.768403| -86.1580680| 281.00000
+Hyatt Regency Reston|Spokane, WA|47.658780|-117.4260466| 281.00000
+Hyatt Regency San Francisco Downtown SOMA |San Francisco, CA|37.786587|-122.4030966| 244.00000
+Jamaica Bay Inn Tapestry by Hilton|Los Angeles, CA|33.982622|-118.4576581| 210.00000
+Kittery Inn and Suites|Durham, NH|43.095290| -70.7509038| 135.50000
+La Quinta Inn & Suites by Wyndham Austin Near The Domain|Austin, TX|NA|NA| 104.00000
+La Quinta Inn & Suites by Wyndham Bonita Springs Naples N.|Fort Myers, FL|NA|NA| 255.00000
+La Quinta Inn & Suites by Wyndham Houston - Westchase|Houston, TX|NA|NA|  79.00000
+La Quinta Inn & Suites by Wyndham Oklahoma City Airport|Oklahoma City, OK|NA|NA|  95.00000
+La Quinta Inn & Suites by Wyndham San Antonio Seaworld/LAFB|San Antonio, TX|NA|NA|  94.00000
+La Quinta Inn by Wyndham Phoenix Sky Harbor Airport|Phoenix, AZ|33.420315|-111.9766087| 103.00000
+La Quinta Inn by Wyndham Tucson East|Tucson, AZ|32.220279|-110.8558973|  89.00000
+Lansdowne Resort and Spa|Ann Arbor, MI|39.083514| -77.4757750| 316.00000
+Lansdowne Resort and Spa|Chapel Hill, NC|35.913200| -79.0558445| 316.00000
+Lansdowne Resort and Spa|Hartford, CT|41.765804| -72.6733723| 316.00000
+Lansdowne Resort and Spa|Indianapolis, IN|39.083514| -77.4757750| 316.00000
+Lansdowne Resort and Spa|Spokane, WA|47.658780|-117.4260466| 316.00000
+Lex View Inn at JFK Airport|Brooklyn, NY|40.702722| -73.8152772| 117.00000
+Lex View Inn at JFK Airport|Elmont, NY|40.702722| -73.8152772| 117.00000
+Lex View Inn at JFK Airport|Jamaica, NY|40.702722| -73.8152772| 117.00000
+Lex View Inn at JFK Airport|New York, NY|40.702722| -73.8152772| 117.00000
+Little Tokyo Hotel|Los Angeles, CA|34.050043|-118.2399672|  95.00000
+Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA|36.850769| -76.2858726| 424.00000
+Northeaster Motel|Durham, NH|43.096283| -70.7496109|  89.00000
+Novotel Miami Brickell|Miami, FL|25.759784| -80.1969231| 270.00000
+Odyssey of South Beach Apart Hotel|Miami, FL|25.786136| -80.1308528| 199.00000
+Page Hotel|San Francisco, CA|37.782579|-122.4142362|  50.00000
+Quality Hotel Airport South|Vancouver, Canada|49.169957|-123.1441586| 121.00000
+Quality Inn University Area|Farmville, VA|37.270712| -78.4031920|  83.00000
+Ramada by Wyndham Tucson|Tucson, AZ|32.216275|-110.9811902| 104.00000
+Red Roof Inn Leesburg|Ann Arbor, MI|42.280826| -83.7430378| 102.00000
+Red Roof Inn Leesburg|Chapel Hill, NC|39.105592| -77.5476921| 102.00000
+Red Roof Inn Leesburg|Hartford, CT|41.792434| -72.8042797| 102.00000
+Red Roof Inn Leesburg|Indianapolis, IN|39.105592| -77.5476921| 102.00000
+Red Roof Inn Leesburg|Spokane, WA|39.105592| -77.5476921| 102.00000
+Residence Inn by Marriott Las Vegas South|Las Vegas, NV|36.082940|-115.1828630| 452.00000
+Residence Inn by Marriott Portland Hillsboro|Portland, OR|45.540103|-122.8704110| 836.00000
+Residence Inn by Marriott Salt Lake City - Downtown|Salt Lake City, UT|40.762089|-111.8992520| 154.00000
+Residence Inn by Marriott Upper Marlboro Joint Base Andrews|College Park, MD|38.867374| -76.8484450| 405.00000
+Residence Inn by Marriott Washington Downtown/Convention Center|College Park, MD|38.904369| -77.0242258| 475.00000
+Residence Inn Denver Cherry Creek|Denver, CO|39.717795|-104.9502150| 429.00000
+Serene Vegas Boutique Hotel|Las Vegas, NV|36.107760|-115.1540375| 135.00000
+Sheraton Reston Hotel|Ann Arbor, MI|42.280826| -83.7430378| 153.00000
+Sheraton Reston Hotel|Chapel Hill, NC|35.913200| -79.0558445| 153.00000
+Sheraton Reston Hotel|Hartford, CT|41.765804| -72.6733723| 153.00000
+Sheraton Reston Hotel|Indianapolis, IN|39.768403| -86.1580680| 153.00000
+Sheraton Reston Hotel|Spokane, WA|47.658780|-117.4260466| 153.00000
+Sonesta Simply Suites Miami Airport Doral|Coral Gables, FL|25.800492| -80.3408036| 138.00000
+Sonesta Suites Scottsdale Gainey Ranch|Tempe, AZ|33.564406|-111.9235303| 497.00000
+SpringHill Suites by Marriott Ashburn Dulles North|Ann Arbor, MI|39.060826| -77.4528328| 147.00000
+SpringHill Suites by Marriott Ashburn Dulles North|Chapel Hill, NC|35.913200| -79.0558445| 147.00000
+SpringHill Suites by Marriott Ashburn Dulles North|Hartford, CT|41.792434| -72.8042797| 147.00000
+SpringHill Suites by Marriott Ashburn Dulles North|Indianapolis, IN|39.768403| -86.1580680| 147.00000
+SpringHill Suites by Marriott Ashburn Dulles North|Spokane, WA|47.658780|-117.4260466| 147.00000
+SpringHill Suites by Marriott Salt Lake City Downtown|Salt Lake City, UT|40.755722|-111.8990100| 163.00000
+SpringHill Suites Raleigh Cary|Raleigh, NC|35.761787| -78.7487777| 128.00000
+Staypineapple, The Maxwell Hotel, Seattle Center Seattle|Seattle, WA|47.625668|-122.3508743| 203.00000
+Suburban Studios Wash. Dulles|Ann Arbor, MI|42.280826| -83.7430378| 107.00000
+Suburban Studios Wash. Dulles|Chapel Hill, NC|35.913200| -79.0558445| 107.00000
+Suburban Studios Wash. Dulles|Hartford, CT|41.765804| -72.6733723| 107.00000
+Suburban Studios Wash. Dulles|Indianapolis, IN|39.873452| -86.1424104| 107.00000
+Suburban Studios Wash. Dulles|Spokane, WA|47.658780|-117.4260466| 107.00000
+Super 8 by Wyndham Bronx Near Botanical Garden|Bronx, NY|40.846747| -73.8985390| 140.00000
+Super 8 by Wyndham Bronx Near Botanical Garden|New Rochelle, NY|40.846747| -73.8985390| 140.00000
+Super 8 by Wyndham Farmville|Farmville, VA|37.272647| -78.4017748|  76.00000
+Super 8 by Wyndham Jamaica North Conduit|Jamaica, NY|40.667590| -73.7832930| 121.00000
+Super 8 by Wyndham Pearl/Jackson/East|Jackson, MS|32.273210| -90.0740562|  84.00000
+The Andrew Hotel|Bronx, NY|40.788177| -73.7252450| 128.00000
+The Argyle on Mass Ave|Indianapolis, IN|39.775857| -86.1483041| 274.00000
+The ENGLISH Hotel, Las Vegas, a Tribute Portfolio Hotel|Las Vegas, NV|36.161463|-115.1522335| 397.00000
+The Glidden House|Cleveland, OH|41.510944| -81.6078770| 179.00000
+The Lola by Sextant|New Orleans, LA|29.939435| -90.0652612| 219.00000
+The Manor at Courtland Farm|Ann Arbor, MI|42.280826| -83.7430378| 416.00000
+The Manor at Courtland Farm|Chapel Hill, NC|35.913200| -79.0558445| 416.00000
+The Manor at Courtland Farm|Hartford, CT|41.765804| -72.6733723| 416.00000
+The Manor at Courtland Farm|Indianapolis, IN|39.016404| -77.6014176| 416.00000
+The Manor at Courtland Farm|Spokane, WA|47.658780|-117.4260466| 416.00000
+The One Boutique Hotel|Brooklyn, NY|40.763504| -73.8284160| 105.00000
+The One Boutique Hotel|Jamaica, NY|40.763504| -73.8284160| 105.00000
+The One Boutique Hotel|New York, NY|40.763504| -73.8284160| 105.00000
+The Westin Reston Heights|Ann Arbor, MI|42.280826| -83.7430378| 197.00000
+The Westin Reston Heights|Chapel Hill, NC|35.913200| -79.0558445| 197.00000
+The Westin Reston Heights|Hartford, CT|41.765804| -72.6733723| 197.00000
+The Westin Reston Heights|Indianapolis, IN|38.958631| -77.3570028| 197.00000
+The Westin Reston Heights|Spokane, WA|47.643321|-117.5971990| 197.00000
+The Westin Washington Dulles Airport|Ann Arbor, MI|42.280826| -83.7430378| 162.00000
+The Westin Washington Dulles Airport|Chapel Hill, NC|35.932030| -79.0578630| 162.00000
+The Westin Washington Dulles Airport|Hartford, CT|41.765804| -72.6733723| 162.00000
+The Westin Washington Dulles Airport|Indianapolis, IN|39.768403| -86.1580680| 162.00000
+The Westin Washington Dulles Airport|Spokane, WA|47.658780|-117.4260466| 162.00000
+The Willows Hotel|Evanston, IL|41.933948| -87.6435837| 134.00000
+TownePlace Suites by Marriott Cincinnati Airport South|Cincinnati, OH|39.019134| -84.6352233| 118.00000
+Travelodge by Wyndham Fort Myers Airport|Estero, FL|26.545807| -81.7986505| 162.00000
+Travelodge by Wyndham Fort Myers Airport|Fort Myers, FL|26.545807| -81.7986505| 162.00000
+Tru By Hilton Ashburn One Loudoun, Va|Ann Arbor, MI|42.280826| -83.7430378| 162.00000
+Tru By Hilton Ashburn One Loudoun, Va|Chapel Hill, NC|39.054340| -77.4529700| 162.00000
+Tru By Hilton Ashburn One Loudoun, Va|Hartford, CT|39.054340| -77.4529700| 162.00000
+Tru By Hilton Ashburn One Loudoun, Va|Indianapolis, IN|39.054340| -77.4529700| 162.00000
+Tru By Hilton Ashburn One Loudoun, Va|Spokane, WA|39.054340| -77.4529700| 162.00000
+Tru by Hilton Farmville|Farmville, VA|37.275407| -78.4014729| 109.00000
+UMA House by Yurbban South Beach|Miami, FL|25.793666| -80.1304540| 169.00000
+Union Square Plaza Hotel|San Francisco, CA|37.787180|-122.4104907|  87.00000
+USA Inn|Knoxville, TN|35.823259| -83.9760240|  69.00000
+Washington Dulles Airport Marriott|Ann Arbor, MI|42.280826| -83.7430378| 227.00000
+Washington Dulles Airport Marriott|Chapel Hill, NC|35.913200| -79.0558445| 227.00000
+Washington Dulles Airport Marriott|Hartford, CT|41.765804| -72.6733723| 227.00000
+Washington Dulles Airport Marriott|Indianapolis, IN|39.768403| -86.1580680| 227.00000
+Washington Dulles Airport Marriott|Spokane, WA|47.658780|-117.4260466| 227.00000
+Washington Dulles Marriott Suites|Ann Arbor, MI|42.280826| -83.7430378| 297.00000
+Washington Dulles Marriott Suites|Chapel Hill, NC|35.913200| -79.0558445| 297.00000
+Washington Dulles Marriott Suites|Hartford, CT|38.957892| -77.4021712| 297.00000
+Washington Dulles Marriott Suites|Indianapolis, IN|39.768403| -86.1580680| 297.00000
+Washington Dulles Marriott Suites|Spokane, WA|47.658780|-117.4260466| 297.00000
+YOTEL Boston|Boston, MA|42.352336| -71.0472150| 215.00000
+Yo
