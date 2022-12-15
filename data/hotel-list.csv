@@ -20461,7 +20461,7 @@ Hotel Zazz|Albuquerque, NM|35.079646|-106.6021681|  89.00000
 La Casa del Camino|Irvine, CA|33.532449|-117.7760996| 384.00000
 La Galerie French Quarter Hotel|New Orleans, LA|29.952706| -90.0667053| 463.00000
 Lemon Tree Hotel & Suites Anaheim|Anaheim, CA|33.839540|-117.8951055| 160.00000
-Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA|36.850769| -76.2858726| 424.00000
+Manor And Mutts ||NA|NA|NA
 Millennium Hotel Broadway Times Square|Newark, NJ|40.757194| -73.9846655| 606.00000
 Motel 6 Anaheim Hills|Fullerton, CA|33.859295|-117.7893980| 103.00000
 Motel 6 Fort Worth, TX – I-35 & I-20 |Fort Worth, TX|37.941822| -96.7515814|  80.00000
@@ -20491,4 +20491,48 @@ World Center Hotel|New York, NY|40.709880| -74.0139579| 388.00000
 World Center Hotel|Newark, NJ|40.709880| -74.0139579| 388.00000
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada|53.482533|-113.4940912|  78.00000
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada|53.482533|-113.4940912|  78.00000
-Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada|53.482533|-113.49409
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada|53.482533|-113.4940900|NA
+Aloft Asheville Downtown, a Marriott Hotel|Asheville, NC|35.592909| -82.5513369| 345.00000
+Aloft Atlanta Downtown, a Marriott Hotel|Atlanta, GA|33.762632| -84.3896130| 148.00000
+Aloft Birmingham Soho Square, a Marriott Hotel|Birmingham, AL|33.479389| -86.7891827| 191.00000
+Aloft BWI Baltimore Washington International Airport, a Marriott Hotel|Baltimore, MD|39.195435| -76.6794300| 112.00000
+Aloft Charleston Airport & Convention Center, a Marriott Hotel|Charleston, SC|32.869542| -80.0147841| 106.00000
+Aloft Charlotte City Center, a Marriott Hotel|Charlotte, NC|35.225193| -80.8422334| 215.00000
+Aloft Chicago Mag Mile, a Marriott Hotel|Chicago, IL|41.893090| -87.6211815| 115.00000
+Aloft Dallas Arlington Entertainment District, a Marriott Hotel|Arlington, TX|32.761391| -97.0748404| 138.00000
+Aloft Delray Beach, a Marriott Hotel|Boca Raton, FL|26.457715| -80.0682564| 536.00000
+Aloft Durham Downtown, a Marriott Hotel|Durham, NC|35.993177| -78.9027894| 209.00000
+Aloft El Paso Downtown, a Marriott Hotel|El Paso, TX|31.759677|-106.4862840| 168.00000
+Aloft Greenville Downtown, a Marriott Hotel|Greenville, SC|34.851385| -82.4001570| 149.00000
+Aloft Jacksonville Tapestry Park, a Marriott Hotel|Jacksonville, FL|30.259691| -81.5549301| 264.00000
+Aloft Mooresville, a Marriott Hotel|Davidson, NC|35.529482| -80.8665347| 105.00000
+Aloft Newport On The Levee, a Marriott Hotel|Highland Heights, KY|39.095626| -84.4939847| 144.00000
+Aloft Omaha Aksarben Village, a Marriott Hotel|Omaha, NE|41.237511| -96.0088515| 114.00000
+Aloft Philadelphia Airport, a Marriott Hotel|Philadelphia, PA|39.891120| -75.2338319| 125.00000
+Aloft Providence Downtown, a Marriott Hotel|Providence, RI|41.821456| -71.4087810| 168.00000
+Aloft Providence Downtown, a Marriott Hotel|Smithfield, RI|41.821456| -71.4087810| 168.00000
+Aloft San Antonio UTSA Area, a Marriott Hotel|San Antonio, TX|29.575416| -98.5980543| 139.00000
+Aloft Tampa Downtown, a Marriott Hotel|Tampa, FL|27.946803| -82.4598981| 345.00000
+Candlewood Suites Jacksonville East Merril Road, an IHG Hotel|Jacksonville, FL|30.350362| -81.5509318| 139.00000
+Clinton Inn Hotel & Event Center|Teaneck, NJ|40.922688| -73.9648043| 154.00000
+Comfort Suites Baymeadows Near Butler Blvd|Jacksonville, FL|30.218369| -81.5667979| 129.00000
+Courtyard by Marriott Greensboro|Greensboro, NC|36.056551| -79.8953669| 131.00000
+Courtyard by Marriott Lyndhurst Meadowlands|Teaneck, NJ|40.809671| -74.1046106| 155.00000
+Courtyard by Marriott New Orleans Near the French Quarter|New Orleans, LA|29.952334| -90.0695488| 419.00000
+Element Asheville Downtown, a Marriott Hotel|Asheville, NC|35.599666| -82.5417532| 220.00000
+Element Bozeman, a Marriott Hotel|Bozeman, MT|45.680679|-111.0362501| 239.00000
+Element Ewing Princeton, a Marriott Hotel|Princeton, NJ|40.286279| -74.8078076| 133.00000
+Element Reno Experience District, a Marriott Hotel|Reno, NV|39.503155|-119.8011773| 148.00000
+Holiday Inn Express Hotel & Suites Kalamazoo, an IHG Hotel|Kalamazoo, MI|NA|NA| 133.00000
+Holiday Inn Express Jacksonville South Bartram Prk, an IHG Hotel|Jacksonville, FL|30.139760| -81.5438090| 128.00000
+Hotel Mazarin|New Orleans, LA|29.955160| -90.0680906| 418.00000
+Hotel Salina Long Beach|Long Beach, CA|33.827570|-118.1892044| 103.00000
+Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA|36.850769| -76.2858726| 424.00000
+Motel 6 Orange, CA - Anaheim|Fullerton, CA|33.842197|-117.8321273| 103.00000
+Motel Moonlight|Fullerton, CA|33.820685|-117.9936897| 108.00000
+Moxy Chattanooga Downtown, a Marriott Hotel|Chattanooga, TN|35.039932| -85.3071289| 163.00000
+Moxy Portland Downtown, a Marriott Hotel|Portland, OR|45.520873|-122.6820145| 128.00000
+Residence Inn by Marriott San Bernardino|Riverside, CA|34.066486|-117.2653602| 368.00000
+Residence Inn Charlotte City Center|Charlotte, NC|35.227230| -80.8460822| 393.00000
+SpringHill Suites Anaheim Maingate|Fullerton, CA|33.817449|-117.9266158| 444.00000
+Tiny House!in the Mountains Near Pikes Peak W/ac|Colorado Spri
