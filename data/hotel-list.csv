@@ -23186,7 +23186,7 @@ Hyatt Place San Francisco Downtown|Berkeley, CA| 37.778716|-122.3923413| 360.000
 Inn Off Capitol Park, Ascend Hotel Collection|Sacramento, CA| 38.573586|-121.4874899| 184.00000
 Kimpton Cottonwood, an IHG Hotel|Inglewood, CA| 33.961680|-118.3531311| 173.00000
 Magnolia Hotel Omaha|Inglewood, CA| 41.256537| -95.9345034| 140.00000
-Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 424.00000
+Manor And Mutts ||NA|NA|NA
 Microtel Inn & Suites by Wyndham Bellevue/Omaha|Inglewood, CA|NA|NA|  90.00000
 Microtel Inn & Suites by Wyndham Council Bluffs/Omaha|Inglewood, CA|NA|NA|  74.00000
 Mikado Hotel|Los Angeles, CA| 34.157403|-118.4072551| 126.00000
@@ -23219,4 +23219,69 @@ Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.49
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
-Wyndham Garden Columbia, SC|Colu
+Wyndham Garden Columbia, SC|Colu|NA|NA|NA
+Aloft Austin Airport, a Marriott Hotel|Austin, TX| 30.221071| -97.6877540| 136.00000
+Belamere Suites Hotel|Toledo, OH| 41.529625| -83.6255950| 218.00000
+Best Western Date Tree Hotel|Indio, CA| 33.731193|-116.2391720| 192.00000
+Best Western Leesburg Hotel & Conference Center|Frisco, TX| 39.106512| -77.5460047| 116.00000
+Best Western Leesburg Hotel & Conference Center|Inglewood, CA| 39.106512| -77.5460047| 116.00000
+Best Western Plus Palm Desert Resort|Indio, CA| 33.720806|-116.3617280| 145.00000
+Casamia 36 Hotel|Bronx, NY| 40.755818| -73.9975248|  75.00000
+Casamia 36 Hotel|East Rutherford, NJ| 40.755818| -73.9975248|  75.00000
+Comfort Inn Manhattan - Midtown West|New York, NY| 40.764153| -73.9949630| 124.00000
+Comfort Suites Palm Desert I-10|Indio, CA| 33.762316|-116.3018812| 172.00000
+Courtyard by Marriott Palm Desert|Indio, CA| 33.772178|-116.3575700| 153.00000
+Downtown Greensboro Apartments|Greensboro, NC| 36.073422| -79.7932499| 220.00000
+Element Chattanooga East, a Marriott Hotel|Chattanooga, TN| 35.045262| -85.1585696| 116.00000
+Embassy Suites by Hilton Palm Desert|Indio, CA| 33.721850|-116.3625032| 193.00000
+Embassy Suites by Hilton Phoenix Biltmore|Phoenix, AZ| 33.510999|-112.0248815| 345.00000
+Fairfield by Marriott Inn & Suites Indio Coachella Valley|Indio, CA|NA|NA| 202.00000
+Fairfield Inn & Suites by Marriott Boston Medford|Boston, MA|NA|NA| 144.00000
+Fairfield Inn & Suites Lubbock|Lubbock, TX|NA|NA|  92.00000
+Fantasy Springs Resort Casino|Indio, CA| 33.721183|-116.1937292| 244.00000
+Hampton Inn & Suites Indio|Indio, CA|NA|NA| 187.00000
+Hilton Grand Vacations Club Palm Desert|Indio, CA| 33.760103|-116.3616461| 449.00000
+Holiday Inn Chicago Dwtn Wolf Point, an IHG Hotel|Chicago, IL| 41.888070| -87.6382634| 119.00000
+Holiday Inn Express Hotel & Suites Indio, an IHG Hotel|Indio, CA|NA|NA| 192.00000
+Holiday Inn Express Palm-Desert, an IHG Hotel|Indio, CA| 33.720388|-116.3625540| 180.00000
+Holiday Inn Express Richmond - Midlothian Turnpike, an IHG Hotel|Richmond, VA| 37.496267| -77.5572002| 122.00000
+Homewood Suites by Hilton La Quinta|Indio, CA| 33.720687|-116.2952170| 308.00000
+Homewood Suites by Hilton Palm Desert|Indio, CA| 33.777788|-116.3566340| 197.00000
+Hotel Paseo, Autograph Collection by Marriott|Indio, CA| 33.718614|-116.3801297| 452.00000
+Hotel Zetta San Francisco|Berkeley, CA| 37.783537|-122.4068652| 400.00000
+Hotel Zetta San Francisco|San Francisco, CA| 37.783537|-122.4068652| 400.00000
+Hyatt Place Richmond Airport|Richmond, VA| 37.530900| -77.3587440| 159.00000
+Inn at Deep Canyon|Indio, CA| 33.720273|-116.3658616| 153.00000
+Inn At Union Square|Berkeley, CA| 37.788487|-122.4091187| 135.00000
+JW Marriott Desert Springs Resort & Spa|Indio, CA| 33.755422|-116.3618692| 705.00000
+Latitude 26 Waterfront Boutique Resort - Bonita Springs|Fort Myers, FL| 26.330170| -81.8302300| 528.00000
+Lone Star Court, by Valencia Hotel Group|Austin, TX| 30.395108| -97.7263371| 366.00000
+Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 424.00000
+Midtown Convention Center Hotel|East Rutherford, NJ| 40.757464| -73.9985971| 115.00000
+Midtown Convention Center Hotel|Newark, NJ| 40.757464| -73.9985971| 115.00000
+Miramonte Resort & Spa Indian Wells|Indio, CA| 33.721231|-116.3309761| 555.00000
+Mojave Resort|Indio, CA| 33.717759|-116.3784680| 278.00000
+Quality Inn & Suites Indio I-10|Indio, CA|NA|NA| 143.00000
+Residence Inn by Marriott Dulles Airport At Dulles 28 Centre|Frisco, TX| 33.150674| -96.8236116| 249.00000
+Residence Inn by Marriott Dulles Airport At Dulles 28 Centre|Inglewood, CA| 33.961680|-118.3531311| 249.00000
+Residence Inn By Marriott Palm Desert|Indio, CA| 33.771179|-116.3565096| 216.00000
+Residence Inn by Marriott Palo Alto Mountain View|Santa Clara, CA| 37.392666|-122.0951402| 386.00000
+Residence Inn Marriott Palo Alto Los Altos|Santa Clara, CA| 37.402309|-122.1165275| 387.00000
+Sands Hotel and Spa|Indio, CA| 33.722119|-116.3524767| 260.00000
+SpringHill Suites by Marriott Dulles Airport|Inglewood, CA| 33.961680|-118.3531311| 132.00000
+Springhill Suites Marriott Baltimore Downtown/Inner Harbor|Baltimore, MD| 39.289014| -76.6128037| 114.00000
+Stylish, spacious Uptown Condo! Perfect for large families and groups! Private patio! Minutes from downtown and airport!|Greensboro, NC| 36.072635| -79.7919754| 374.00000
+Suburban Studios Sterling - Washington Dulles|Inglewood, CA| 33.961680|-118.3531311| 117.00000
+Super 8 by Wyndham Indio|Indio, CA| 33.710804|-116.2370554| 148.00000
+The Barnes|San Francisco, CA| 37.786794|-122.4083045| 205.00000
+The Chateau at Lake La Quinta|Indio, CA| 33.703365|-116.2932460| 291.00000
+Travelers Inn|Inglewood, CA| 33.961680|-118.3531311|  81.00000
+Tru By Hilton Ashburn One Loudoun, Va|Inglewood, CA| 33.961680|-118.3531311| 122.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Garden Columbia, SC|Columbia, SC| 34.076209| -80.9481267|  69.00000
+YOTEL San Francisco|San Franc
