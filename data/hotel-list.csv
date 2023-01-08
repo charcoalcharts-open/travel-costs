@@ -23406,7 +23406,7 @@ Homewood Suites by Hilton Orlando-Maitland|Orlando, FL| 28.628779| -81.3938557| 
 HOTEL 10|Montreal, Canada| 45.512053| -73.5694500| 185.00000
 Hotel Indigo NYC Downtown Wall Street, an IHG Hotel|Newark, NJ| 40.705493| -74.0072522| 150.00000
 Lexington by Hotel RL Miami Beach|Miami, FL| 25.814168| -80.1220088| 233.00000
-Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 451.00000
+Manor And Mutts ||NA|NA|NA
 Midtown West Hotel|New York, NY| 40.749925| -73.9955913| 125.00000
 Radisson RED Minneapolis|Saint Paul, MN| 44.976834| -93.2602643| 343.00000
 Regency Motel of Brea|Anaheim, CA| 33.909231|-117.9045771| 543.00000
@@ -23423,4 +23423,52 @@ TownePlace Suites by Marriott San Diego Downtown|San Diego, CA| 32.720468|-117.1
 Wyndham Garden Columbia, SC|Columbia, SC| 34.076209| -80.9481262|  94.00000
 Wyndham Garden Ft Lauderdale Airport & Cruise Port|Fort Lauderdale, FL| 26.054980| -80.1440356| 354.00000
 XV Beacon|Chestnut Hill, MA| 42.358323| -71.0619297| 693.00000
-Yotel Miami|Coral Gables
+Yotel Miami|Coral Gables|NA|NA|NA
+Avid Hotels Summerville, an IHG Hotel|Charleston, SC| 33.039462| -80.1359857| 130.00000
+Baymont by Wyndham Bellevue / Omaha|Inglewood, CA| 33.961680|-118.3531311|  95.00000
+Country Inn & Suites by Radisson, Council Bluffs, IA|Inglewood, CA|NA|NA| 109.00000
+Courtyard by Marriott San Francisco Union Square|San Francisco, CA| 37.787242|-122.4142590| 176.00000
+DoubleTree by Hilton Minneapolis - Park Place|Minneapolis, MN| 44.968330| -93.3512420| 121.00000
+DoubleTree by Hilton New York Times Square West|Bronx, NY| 40.756636| -73.9930715|  94.00000
+DoubleTree by Hilton New York Times Square West|Brooklyn, NY| 40.756636| -73.9930715|  94.00000
+DoubleTree by Hilton New York Times Square West|East Rutherford, NJ| 40.756636| -73.9930715|  94.00000
+DoubleTree by Hilton New York Times Square West|Newark, NJ| 40.756636| -73.9930715|  94.00000
+Doxie Hotel|Bronx, NY| 40.754685| -73.9911064|  95.00000
+Extended Stay America Select Suites - Phoenix - West|Phoenix, AZ| 33.463383|-112.1535059| 112.00000
+Extended Stay America Suites Phoenix Airport E Oak St|Phoenix, AZ| 33.472150|-111.9877850| 112.00000
+Fairfield Inn & Suites by Marriott Lexington East/I-75|Lexington, KY|NA|NA| 108.00000
+Four Points by Sheraton Omaha Midtown|Frisco, TX| 33.150674| -96.8236116|  94.00000
+Four Points by Sheraton Omaha Midtown|Inglewood, CA| 33.961680|-118.3531311|  94.00000
+Hampton Inn Manhattan/Times Square South|Newark, NJ| 40.756186| -73.9929037| 100.00000
+Harbor Vacation Homes|Sunrise, FL| 26.166971| -80.2565950| 334.00000
+Hilton Garden Inn Omaha Downtown|Frisco, TX| 33.150674| -96.8236116| 119.00000
+Hilton Garden Inn Omaha Downtown|Inglewood, CA| 33.961680|-118.3531311| 119.00000
+Holiday Inn Express San Diego Sea World - Beach Area, an IHG Hotel|San Diego, CA| 32.802924|-117.2172010| 128.00000
+Homewood Suites by Hilton Omaha Downtown|Frisco, TX| 33.150674| -96.8236116| 109.00000
+Homewood Suites by Hilton Omaha Downtown|Inglewood, CA| 33.961680|-118.3531311| 109.00000
+Homewood Suites by Hilton Summerville|Charleston, SC| 33.044451| -80.1506870| 162.00000
+Hotel Blake, an Ascend Hotel Collection Member|Chicago, IL| 41.875105| -87.6293849| 114.00000
+Hygie boutique hotel|Montreal, Canada| 45.510297| -73.5525878|  85.00000
+JW Marriott Atlanta Buckhead|Atlanta, GA| 33.845721| -84.3596335| 362.00000
+Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 424.00000
+Moxy Nashville Downtown, a Marriott Hotel|Nashville, TN| 36.161118| -86.7753746| 178.00000
+New York Marriott Downtown|Newark, NJ| 40.709521| -74.0144862| 396.00000
+Residence Inn by Marriott La Quinta|Indio, CA| 33.706641|-116.2747144| 281.00000
+Sands Harbor Resort and Marina|Fort Lauderdale, FL| 26.234003| -80.0925903| 130.00000
+Sonder The Arco|Philadelphia, PA| 39.947783| -75.1621492| 188.00000
+Springhill Suites Marriott Baltimore Downtown/Inner Harbor|Towson, MD| 39.289014| -76.6128037| 106.00000
+Super 8 by Wyndham Long Island City LGA Hotel|Brooklyn, NY| 40.766575| -73.9336547|  91.00000
+Super 8 by Wyndham Long Island City LGA Hotel|New York, NY| 40.766575| -73.9336547|  91.00000
+The Bowery Hotel|Newark, NJ| 40.726037| -73.9916755| 549.00000
+The Lowell|Bronx, NY| 40.765732| -73.9692262| 979.00000
+The Maj Hotel|Philadelphia, PA| 39.964496| -75.1753860| 172.00000
+The Surfside Hotel|Fairfield, CT| 41.147996| -73.1297398| 259.00000
+The Worthington Resort|Fort Lauderdale, FL| 26.130681| -80.1062616| 344.00000
+Wingate by Wyndham Bronx/Haven Park|Bronx, NY| 40.813000| -73.9286445| 140.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Garden Columbia, SC|Columbia
