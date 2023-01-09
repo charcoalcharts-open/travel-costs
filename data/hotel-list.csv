@@ -23450,7 +23450,7 @@ Homewood Suites by Hilton Summerville|Charleston, SC| 33.044451| -80.1506870| 16
 Hotel Blake, an Ascend Hotel Collection Member|Chicago, IL| 41.875105| -87.6293849| 114.00000
 Hygie boutique hotel|Montreal, Canada| 45.510297| -73.5525878|  85.00000
 JW Marriott Atlanta Buckhead|Atlanta, GA| 33.845721| -84.3596335| 362.00000
-Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 424.00000
+Manor And Mutts ||NA|NA|NA
 Moxy Nashville Downtown, a Marriott Hotel|Nashville, TN| 36.161118| -86.7753746| 178.00000
 New York Marriott Downtown|Newark, NJ| 40.709521| -74.0144862| 396.00000
 Residence Inn by Marriott La Quinta|Indio, CA| 33.706641|-116.2747144| 281.00000
@@ -23471,4 +23471,57 @@ Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.49
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
-Wyndham Garden Columbia, SC|Columbia
+Wyndham Garden Columbia, SC|Columbia|NA|NA|NA
+Aloft Charlotte Airport, a Marriott Hotel|Charlotte, NC| 35.183804| -80.9165901| 847.00000
+Atlanta Airport Marriott|Atlanta, GA| 33.625709| -84.4599679| 461.00000
+Balch Hotel|Inglewood, CA| 33.961680|-118.3531311| 114.00000
+Budget Inn Motel|Inglewood, CA| 33.961680|-118.3531311|  66.00000
+Casulo Hotel|Austin, TX| 30.226012| -97.7443999| 118.00000
+Comfort Inn Columbia Gorge|Inglewood, CA| 33.961680|-118.3531311|  84.00000
+Cousins Country Inn|Inglewood, CA| 33.961680|-118.3531311|  98.00000
+Edwardian Hotel|San Francisco, CA| 37.773511|-122.4217821| 105.00000
+Element Austin Downtown, a Marriott Hotel|Austin, TX| 30.268652| -97.7420482|1057.00000
+Embassy Suites by Hilton Los Angeles International Airport North|Los Angeles, CA| 33.946967|-118.3864376| 177.00000
+Embassy Suites La Quinta Hotel & Spa|Indio, CA| 33.679970|-116.3026938| 250.00000
+Fairfield Inn & Suites The Dalles|Inglewood, CA|NA|NA| 131.00000
+Hampton Inn Manhattan/Times Square South|Bronx, NY| 40.756186| -73.9929037|  97.00000
+Hampton Inn Manhattan/Times Square South|East Rutherford, NJ| 40.756186| -73.9929037|  97.00000
+Heights House Hotel, Ascend Hotel Collection|Houston, TX| 29.804504| -95.3742622| 128.00000
+Hilton Boston/Dedham|Chestnut Hill, MA| 42.225210| -71.1695230| 122.00000
+Hilton Garden Inn Birmingham/Lakeshore Drive|Birmingham, AL| 33.446985| -86.8292297| 157.00000
+Holiday Inn Boston - Dedham Hotel & Conference Center, an IHG Hotel|Chestnut Hill, MA| 42.231265| -71.1830040| 120.00000
+Holiday Inn Express & Suites The Dalles, an IHG Hotel|Inglewood, CA|NA|NA| 113.00000
+Holiday Inn Express Hotel & Suites Minneapolis-Minnetonka, an IHG Hotel|Minneapolis, MN|NA|NA|  99.00000
+Homewood Suites by Hilton Boston/Cambridge-Arlington, MA|Boston, MA| 42.401780| -71.1361581| 137.00000
+Homewood Suites by Hilton Boston/Cambridge-Arlington, MA|Chestnut Hill, MA| 42.401780| -71.1361581| 137.00000
+Homewood Suites by Hilton Los Angeles International Airport|Los Angeles, CA| 33.946180|-118.3928264| 187.00000
+Hotel Giraffe by Library Hotel Collection|Newark, NJ| 40.742129| -73.9846935| 378.00000
+Hyatt Place Tucson – Central|Tucson, AZ| 32.249476|-110.9944586| 147.00000
+Jupiter Hotel|Portland, OR| 45.522674|-122.6572991| 126.00000
+Laurel Grove Inn on the South|Annapolis, MD| 38.962486| -76.5838297| 209.00000
+Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 424.00000
+Motel 6 The Dalles, OR|Inglewood, CA| 33.961680|-118.3531311|  61.00000
+Moxy New Orleans Downtown French Quarter, A Marriott Hotel|New Orleans, LA| 29.953517| -90.0731787| 121.00000
+Queen Anne Hotel|San Francisco, CA| 37.787201|-122.4265958| 172.00000
+Rancho San Diego Inn & Suites|San Diego, CA| 32.747275|-116.9353032| 133.00000
+Residence Inn by Marriott Charlotte Airport|Charlotte, NC| 35.181561| -80.9140170| 593.00000
+Residence Inn by Marriott Seattle South/Renton|Seattle, WA| 47.503375|-122.1992245| 381.00000
+Royal Pagoda Motel|Los Angeles, CA| 34.066712|-118.2363350| 113.00000
+Shilo Inn Suites Hotel - The Dalles|Inglewood, CA| 45.594564|-121.1786823|  82.00000
+Super 8 by Wyndham The Dalles OR|Inglewood, CA| 33.961680|-118.3531311|  87.00000
+The Dalles Inn|Inglewood, CA| 33.961680|-118.3531311|  80.00000
+The Hotel Hollywood|Los Angeles, CA| 34.103727|-118.3288231| 113.00000
+The Kimball at Temple Square|Salt Lake City, UT| 40.772734|-111.8904220| 130.00000
+TownePlace Suites by Marriott Salt Lake City Murray|Sandy, UT| 40.655196|-111.8870683| 148.00000
+Travelodge by Wyndham The Dalles|Inglewood, CA| 33.961680|-118.3531311|  78.00000
+Tru by Hilton Tallahassee Central|Tallahassee, FL| 30.428090| -84.2361310| 136.00000
+Vīb Hotel by Best Western Denver RiNo|Denver, CO| 39.770973|-104.9776302| 172.00000
+Wingate by Wyndham Bronx/Haven Park|Bronx, NY| 40.813000| -73.9286445| 140.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  94.00000
+Wyndham Garden Columbia, SC|Columbia, SC| 34.076209| -80.9481262|  69.00000
+Wyndham Garden Oklahoma 
