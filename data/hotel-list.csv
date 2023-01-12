@@ -23591,7 +23591,7 @@ Home2 Suites by Hilton Ft. Lauderdale Downtown, FL|Fort Lauderdale, FL| 26.12577
 Home2 Suites by Hilton Phoenix Airport North, AZ|Phoenix, AZ| 33.457230|-111.9881583| 341.00000
 Homewood Suites by Hilton Tucson/St. Philip's Plaza Univ|Tucson, AZ| 32.285074|-110.9423044| 679.00000
 Homewood Suites by Hilton Virginia Beach/Norfolk Airport|Norfolk, VA| 36.847376| -76.1785555| 130.00000
-Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 424.00000
+Manor And Mutts ||NA|NA|NA
 Market Street Inn|Louisville, KY| 38.269735| -85.7432196| 202.00000
 Prime Hotel|Coral Gables, FL| 25.769780| -80.1331982| 342.00000
 Residence Inn Boston Needham|Boston, MA| 42.280929| -71.2377548| 122.00000
@@ -23610,4 +23610,56 @@ Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.49
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  95.00000
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  95.00000
 Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  95.00000
-Wyndham Edmonton Hotel and Conference Centre|Edmonton, Ca
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Ca|NA|NA|NA
+|Detroit, MI| 42.331427| -83.0457538|  99.87500
+915 23rd St - Upper|Greeley, CO| 40.423881|-104.7160975| 298.00000
+915 23rd St. - Lower|Greeley, CO| 40.423881|-104.7160975| 277.00000
+AC Hotel Vancouver Waterfront|Portland, OR| 45.622780|-122.6759248| 338.00000
+ACME Hotel Company|Chicago, IL| 41.892219| -87.6274881| 113.00000
+Best Western Plus Lee's Summit Hotel & Suites|Kansas City, MO| 38.999692| -94.3551537| 100.00000
+Best Western Plus Oceanside Inn|Fort Lauderdale, FL| 26.108181| -80.1067657| 351.00000
+Blue Angel Hotel NYC, Ascend Hotel Collection|Jamaica, NY| 40.759124| -73.9693307| 123.00000
+Comfort Inn & Suites West Des Moines|Des Moines, IA|NA|NA|  99.00000
+Comfort Inn Altoona-Des Moines|Des Moines, IA| 41.659061| -93.4865501|  89.00000
+Comfort Inn And Suites|Dayton, OH| 39.857325| -84.2801570| 104.00000
+Comfort Suites Greensboro - High Point|Greensboro, NC| 36.073629| -79.9615191| 107.00000
+Comfort Suites Port Allen - Baton Rouge|Baton Rouge, LA| 30.448678| -91.2420979|  88.00000
+Comfort Suites Tampa - Brandon|Tampa, FL| 27.945987| -82.3385910| 158.00000
+Country Inn & Suites by Radisson, Brooklyn Center, MN|Minneapolis, MN|NA|NA| 106.00000
+Courtyard by Marriott Fort Lauderdale Airport & Cruise Port|Fort Lauderdale, FL| 26.060412| -80.1651920| 375.00000
+Courtyard by Marriott Tucson Williams Centre|Tucson, AZ| 32.219974|-110.8789319| 296.00000
+Crowne Plaza Indianapolis - Airport, an IHG Hotel|Indianapolis, IN| 39.728921| -86.2688520| 180.00000
+DoubleTree by Hilton Roseville Minneapolis|Saint Paul, MN| 45.017559| -93.1862106| 119.00000
+Embassy Suites by Hilton Nashville at Vanderbilt|Nashville, TN| 36.151005| -86.7958304| 178.00000
+Extended Stay America Suites Charlotte Pineville Park Rd|Charlotte, NC| 35.139745| -80.8520701|  93.00000
+Extended Stay America Suites Des Moines West Des Moines|Des Moines, IA| 41.563890| -93.7593841|  96.00000
+Fairfield Inn By Marriott Laurel|College Park, MD| 39.078706| -76.8669672| 103.00000
+Georgetown Inn|Seattle, WA| 47.547747|-122.3207694| 138.00000
+Global Luxury Suites at Revel|College Park, MD| 38.903450| -77.0055710| 166.00000
+Global Luxury Suites at Revel|Washington, DC| 38.903450| -77.0055710| 166.00000
+Hampton Inn & Suites Pittsburgh Airport South–Settlers Ridge|Moon Township, PA|NA|NA| 125.00000
+Hampton Inn Lexington South-Keeneland/Airport|Lexington, KY| 38.016321| -84.5541984|  98.00000
+Hampton Inn Omaha West-Lakeside|Omaha, NE| 41.236253| -96.1906511| 100.00000
+Hilton Columbus/Polaris|Columbus, OH| 40.143406| -82.9752865| 172.00000
+Holiday Inn : Bloomington W MSP Airport Area, an IHG Hotel|Minneapolis, MN| 44.856960| -93.3485031|  92.00000
+Holiday Inn Express & Suites Boston - Cambridge, an IHG Hotel|Boston, MA|NA|NA| 147.00000
+Holiday Inn Express & Suites San Antonio-Dtwn Market Area, an IHG Hotel|San Antonio, TX|NA|NA| 104.00000
+Holiday Inn Express Ft. Lauderdale Cruise-Airport, an IHG Hotel|Fort Lauderdale, FL| 26.100072| -80.1273140| 462.00000
+Hollywood Le Bon Hotel|Los Angeles, CA| 34.100194|-118.3250635|  97.00000
+Hyatt House LAX/Century Blvd|Los Angeles, CA| 33.946307|-118.3882780| 198.00000
+Inn at Woodhaven|Louisville, KY| 38.242954| -85.6349877| 212.00000
+Manhattan Tower Apartment Hotel|Fort Lauderdale, FL| 26.132483| -80.1089358| 362.00000
+Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 424.00000
+Ocean Manor Beach Hotel|Fort Lauderdale, FL| 26.177890| -80.0972453| 207.00000
+Private Oasis at Arya|Coral Gables, FL| 25.727274| -80.2405395| 264.00000
+Quality Inn & Suites|Oklahoma City, OK|NA|NA|  63.00000
+Sleep Inn & Suites West Des Moines near Jordan Creek|Des Moines, IA|NA|NA|  99.00000
+Sonesta ES Suites Cincinnati - Sharonville East|Cincinnati, OH| 39.284540| -84.4270267|  99.00000
+Sonesta ES Suites Cincinnati - Sharonville West|Cincinnati, OH| 39.287597| -84.4439630|  99.00000
+Sonesta Simply Suites Oklahoma City Airport|Oklahoma City, OK| 35.446642| -97.5991602|  67.00000
+SureStay Plus Hotel by Best Western Owasso Tulsa North|Tulsa, OK| 36.263444| -95.8444570|  81.00000
+Surf & Sand Hotel|Fort Lauderdale, FL|NA|NA| 138.00000
+The Bishop Arts Hotel by Bluelofts|Dallas, TX| 32.754388| -96.8245570| 155.94118
+Tranquilo A North Beach Village Resort Hotel|Fort Lauderdale, FL| 26.133706| -80.1061512| 142.00000
+TropiRock A North Beach Village Resort Hotel|Fort Lauderdale, FL| 26.132310| -80.1057239| 155.00000
+voco St. James, an IHG Hotel|New Orleans, LA| 29.949792| -90
