@@ -26139,7 +26139,7 @@ La Quinta Inn & Suites by Wyndham Tulsa Broken Arrow|Tulsa, OK|NA|NA| 111.00000
 Lido Beach Resort|Sarasota, FL| 27.310443| -82.5747392| 699.00000
 Malibu Beach Paradise Apartments|Malibu, CA| 34.038637|-118.6725313| 494.50000
 Manchester Grand Hyatt San Diego|San Diego, CA| 32.710052|-117.1683720| 367.66667
-Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 424.00000
+Manor And Mutts ||NA|NA|NA
 Margaritaville Beach Hotel|Pensacola, FL| 30.330112| -87.1474170| 219.00000
 Margaritaville Resort Orlando|Kissimmee, FL| 28.342478| -81.6088085| 307.00000
 Marriott Owings Mills Metro Centre|Towson, MD| 39.405325| -76.7798607| 218.00000
@@ -26180,7 +26180,7 @@ The Ritz-Carlton Orlando, Grande Lakes|Orlando, FL| 28.405203| -81.4291639|1051.
 TownePlace Suites by Marriott Phoenix Glendale Sports & Entertainment District|Surprise, AZ| 33.540454|-112.2593034| 445.00000
 Travelers Inn Clearwater|Clearwater, FL| 27.961677| -82.7759733| 127.00000
 Travelers Inn Clearwater|Dunedin, FL| 27.961677| -82.7759733| 127.00000
-Tropic Terrace #49 - Beachfront Rental Studio Bedroom Condo by Redawning|Saint Petersburg, FL| 27.767601| -82.6402915| 453.00000
+Tropic Terrace ||NA|NA|NA
 Vintage Architecture meets modern style|Greensboro, NC| 36.072635| -79.7919754| 372.00000
 Westgate Lakes Resort & Spa Universal Studios Area|Kissimmee, FL| 28.427231| -81.4756182| 188.00000
 Westgate Palace a Two Bedroom Condo Resort|Kissimmee, FL| 28.291956| -81.4075710| 291.00000
@@ -26203,4 +26203,91 @@ Wyndham Garden North Bergen Near Secaucus|Newark, NJ| 40.766593| -74.0434970| 11
 Wyndham Garden San Antonio Riverwalk/Museum Reach|San Antonio, TX| 29.434809| -98.4841608| 317.00000
 Wyndham Lake Buena Vista Disney Springs® Resort Area|Kissimmee, FL| 28.375279| -81.5119119| 285.00000
 Wyndham San Diego Bayside|San Diego, CA| 32.719311|-117.1726522| 344.00000
-Yours Truly DC|Washington, DC| 38.904809| -7
+Yours Truly DC|Washington, DC| 38.904809|  -7.0000000|NA
+7F Lodge|College Station, TX| 30.519785| -96.2769819| 221.00000
+Aloft Chapel Hill, a Marriott Hotel|Durham, NC| 35.907611| -79.0230335| 453.00000
+Best Western Plus Media Center Inn & Suites|Pasadena, CA| 34.151828|-118.3422577| 366.00000
+Best Western Plus Suites Hotel - Los Angeles LAX Airport|Los Angeles, CA| 33.945791|-118.3657044| 151.00000
+Cambria Hotel Fort Lauderdale Beach|Fort Lauderdale, FL| 26.157605| -80.1015994| 354.00000
+Camellia Rose Inn|Gainesville, FL| 29.649717| -82.3175364| 197.00000
+Caribe Royale Orlando|Kissimmee, FL| 28.357929| -81.4929619| 375.00000
+Charming Bungalow Next to CSU -FREE Cruiser Bikes|Fort Collins, CO| 40.573415|-105.0865487| 313.00000
+Country Inn & Suites by Radisson, Kansas City at Village West, KS|Kansas City, KS|NA|NA| 122.00000
+Courtyard by Marriott Wilmington Brandywine|Wilmington, DE| 39.817849| -75.5507952| 131.00000
+Deluxe Inn Hawthorne|Carson, CA| 33.908251|-118.3519704| 113.00000
+DoubleTree Suites by Hilton Phoenix|Scottsdale, AZ| 33.451900|-111.9889855| 351.00000
+Extended Stay America Premier Suites - Miami - Airport - Miami Springs|Miami, FL| 25.808784| -80.2830265| 177.00000
+Extended Stay America Suites Denver Westminster|Commerce City, CO| 39.836653|-105.0372046|  85.00000
+Extended Stay America Suites Fremont Fremont Blvd South|San Jose, CA| 37.490283|-121.9469910| 126.00000
+Fairfield Inn & Suites by Marriott St Petersburg Clearwater|Clearwater, FL|NA|NA| 355.00000
+Fairfield Inn & Suites New Orleans Downtown|New Orleans, LA|NA|NA| 188.00000
+FireHouse Alley Elegant Loft-Style Retreat|Fort Collins, CO| 40.585260|-105.0844230| 447.00000
+FRONTDESK Circa Uptown Apts Charlotte|Charlotte, NC| 35.228571| -80.8501099| 180.00000
+FRONTDESK Historic Electric Bldg Apts Downtown Fort Worth|Fort Worth, TX| 32.751806| -97.3321623| 221.00000
+Haley's at The Anna Maria Island Inn|Bradenton, FL| 27.520162| -82.7271583| 548.00000
+Hayes Mansion, San Jose - Curio Collection by Hilton|Santa Clara, CA| 37.262307|-121.8207757| 199.00000
+Hilton Garden Inn Jeffersonville|Louisville, KY| 38.347028| -85.7089327| 182.00000
+Hilton Garden Inn Louisville Mall of St. Matthews|Louisville, KY| 38.247473| -85.6270924| 357.00000
+Hilton Garden Inn Phoenix Airport North|Mesa, AZ| 33.451659|-111.9974634| 569.00000
+Hilton Garden Inn Washington DC/Greenbelt|Washington, DC| 38.998264| -76.8958773|  95.00000
+Hip Old Town North Gem! Near Breweries and River!|Fort Collins, CO| 40.585260|-105.0844230| 368.00000
+Holiday Inn Express & Suites Bradenton West, an IHG Hotel|Sarasota, FL|NA|NA| 379.00000
+Holiday Inn Express Hotel & Suites Council Bluffs - Conv Ctr, an IHG Hotel|Omaha, NE|NA|NA| 159.00000
+Home2 Suites by Hilton Buckeye Phoenix|Goodyear, AZ| 33.438179|-112.5551986| 354.00000
+Home2 Suites by Hilton Los Angeles Montebello|Pasadena, CA| 34.030014|-118.1301910| 346.00000
+HomeTowne Studios by Red Roof Denver - Airport/Aurora|Commerce City, CO| 39.856363|-104.6764131|  76.00000
+Hotel Jefe at Ojos Locos|Las Vegas, NV| 36.218727|-115.1212220|  69.00000
+Hotel Peter and Paul|New Orleans, LA| 29.966749| -90.0552116| 383.00000
+Hotel Sorrento|Seattle, WA| 47.608992|-122.3269150| 225.00000
+HYATT house Miami Airport|Coral Gables, FL| 25.781182| -80.2897318| 275.00000
+Hyatt Place Ft. Lauderdale/Plantation|Fort Lauderdale, FL| 26.118952| -80.2628370| 372.00000
+Kings Courtyard Inn|Charleston, SC| 32.779607| -79.9328410| 366.00000
+Lola House! Cozy comfort, Prime Old Town Location|Fort Collins, CO| 40.584075|-105.0718158| 335.00000
+Minneapolis Marriott Northwest|Minneapolis, MN| 45.081324| -93.3939208| 465.00000
+Old Town North Jewel! Near Breweries & River!|Fort Collins, CO| 38.815559| -77.0406147| 382.00000
+Orchard Garden Hotel|Berkeley, CA| 37.790729|-122.4052176| 371.00000
+Pier House 60 Clearwater Beach Marina Hotel|Clearwater, FL| 27.975464| -82.8279040| 280.00000
+Private Apartments at the Casablanca|Miami, FL| 25.761680| -80.1917902| 337.00000
+Quiet Comfy 2 Br Home In South Bend, Minutes From Notre Dame! Pet Friendly! 2 Bedroom Home by Redawning|Notre Dame, IN| 41.676355| -86.2519898| 395.00000
+Ramada by Wyndham Tempe/At Arizona Mills Mall|Mesa, AZ| 33.377270|-111.9664550| 199.00000
+Ramada by Wyndham Tempe/At Arizona Mills Mall|Scottsdale, AZ| 33.377270|-111.9664550| 199.00000
+Residence Inn by Marriott Denver Downtown|Denver, CO| 39.757715|-105.0165528| 123.00000
+Riverside Apartments By The Beach|Boca Raton, FL| 26.380955| -80.0769220| 281.00000
+Royalton Park Avenue|Harrison, NJ| 40.743901| -73.9841382| 328.00000
+Safety Harbor Resort & Spa Trademark Collection by Wyndham|Dunedin, FL| 27.990853| -82.6931553| 319.00000
+Sheraton Sand Key Resort|Clearwater, FL| 27.955565| -82.8287487| 589.00000
+Sheraton Sand Key Resort|Dunedin, FL| 27.955565| -82.8287487| 589.00000
+Sofitel Washington DC Lafayette Square|College Park, MD| 38.900478| -77.0340060| 405.00000
+SpringHill Suites Phoenix Airport/Tempe|Mesa, AZ| 33.428761|-111.9639519| 361.60000
+Staybridge Suites Salt Lake-West Valley City, an IHG Hotel|Salt Lake City, UT| 40.704521|-111.9516216| 334.00000
+Stunning Bungalow next to UNC - Free Cruiser Bikes!|Greeley, CO| 40.423314|-104.7091322| 308.00000
+The Commerce Casino & Hotel|Los Angeles, CA| 33.999095|-118.1450002| 204.00000
+The Cottage! Chic Bungalow near Old Town Square!|Fort Collins, CO| 40.587567|-105.0759150| 332.00000
+The Harmony Designer Home In Central Dfw 4 Bedroom Home by Redawning|Fort Worth, TX| 32.755488| -97.3307658| 489.00000
+The Jackson Cottage|Pensacola, FL| 30.421309| -87.2169149| 603.00000
+The Moment Hotel|Los Angeles, CA| 34.097586|-118.3515176| 185.00000
+The Royal Sonesta Chase Park Plaza St. Louis|Saint Louis, MO| 38.644304| -90.2640743| 265.00000
+The Royal Sonesta Chase Park Plaza St. Louis|St. Louis, MO| 38.644304| -90.2640743| 265.00000
+The Water Club|Atlantic City, NJ| 39.376510| -74.4368081| 939.00000
+TownePlace Suites by Marriott Salt Lake City Murray|Salt Lake City, UT| 40.655196|-111.8870683| 362.00000
+Towneplace Suites By Marriott Tampa Clearwater|Dunedin, FL| 27.964055| -82.7304868| 564.00000
+Vibrant Downtown Bungalow – Walk Everywhere!|Fort Collins, CO| 40.585260|-105.0844230| 391.00000
+Westgate Lakes Resort & Spa Universal Studios Area|Kissimmee, FL| 28.427231| -81.4756182| 188.00000
+WestHouse New York|Harrison, NJ| 40.764554| -73.9813667| 382.00000
+Willard InterContinental Washington, an IHG Hotel|College Park, MD| 38.896813| -77.0322812| 435.00000
+Wingate by Wyndham Bronx/Haven Park|Bronx, NY| 40.813000| -73.9286445| 152.00000
+WoodSpring Suites Lexington|Lexington, KY| 38.010775| -84.4601556|  93.00000
+Wyndham Deerfield Beach Resort|Boca Raton, FL| 26.315984| -80.0758412| 515.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  96.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  96.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  96.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  96.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  96.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  96.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  96.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  96.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  96.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  96.00000
+Wyndham Garden Columbia, SC|Columbia, SC| 34.076209| -80.9481262| 100.00000
+YOTEL San Francisco|San Francisco, CA| 37.780360|-122.4120372| 134.00000
+Yours Truly DC|Washington, DC| 38.9048
