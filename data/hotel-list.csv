@@ -27352,8 +27352,8 @@ Lansdowne Resort and Spa|Cleveland, OH| 41.499320| -81.6943605| 247.00000
 Long Beach Hotel|Hempstead, NY| 40.645022| -73.6339087| 134.00000
 MainStay Suites Fitchburg - Madison|Madison, WI| 43.019476| -89.4216791|  91.00000
 MainStay Suites Lexington I-75|Lexington, KY| 38.101731| -84.4833145|  88.00000
-Manor And Mutts #1 4 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 628.00000
-Manor And Mutts #2 3 Bedroom Cottage by Redawning|Norfolk, VA| 36.850769| -76.2858726| 628.00000
+Manor And Mutts ||NA|NA|NA
+Manor And Mutts ||NA|NA|NA
 Microtel Inn & Suites by Wyndham Kanata Ottawa West|Kanata, Canada|NA|NA| 142.00000
 Morrison Clark Historic Inn|College Park, MD| 38.904392| -77.0267287| 424.00000
 Nash Hotel|Oakland, CA| 37.872232|-122.2695516| 134.00000
@@ -27426,4 +27426,74 @@ Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.49
 Wyndham Garden Columbia, SC|Columbia, SC| 34.076209| -80.9481262| 100.00000
 Wyndham Garden LaGuardia South|Brooklyn, NY| 40.732510| -73.8662521| 110.00000
 Wyndham Garden LaGuardia South|New York, NY| 40.732510| -73.8662521| 110.00000
-Wyndham Grand Orlando Resort Bonnet Creek|Kissimmee, FL| 
+Wyndham Grand Orlando Resort Bonnet Creek|Kissimmee, FL|NA|NA|NA
+AC Hotel by Marriott St. Petersburg|Saint Petersburg, FL| 27.772717| -82.6357747| 443.00000
+Ambassador Chicago, part of JdV by Hyatt|Chicago, IL| 41.906054| -87.6284696| 130.00000
+ATLANTIC INN|Atlantic City, NJ| 39.364283| -74.4229266|  79.00000
+Best Western Executive Inn|Columbus, OH| 39.879745| -83.0451583| 105.00000
+Bogart Hotel|Jamaica, NY| 40.703888| -73.9331920| 116.00000
+Candlewood Suites Greenville, an IHG Hotel|Greenville, SC| 34.831570| -82.3095704| 127.00000
+Candlewood Suites Omaha Airport, an IHG Hotel|Cleveland, OH| 41.499320| -81.6943605| 127.00000
+Casa Grandview INN|West Palm Beach, FL| 26.700298| -80.0577197| 507.00000
+Claremont Club & Spa - A Fairmont Hotel|San Francisco, CA| 34.114406|-117.6998972| 494.00000
+Country Inn & Suites by Radisson, Port Orange-Daytona, FL|Daytona Beach, FL|NA|NA| 449.00000
+DoubleTree by Hilton Hotel St. Paul Downtown|Minneapolis, MN| 44.947778| -93.0938932| 364.00000
+Dream Inn|Daytona Beach, FL| 29.159462| -80.9731639| 157.00000
+Element Salt Lake City Downtown, a Marriott Hotel|Salt Lake City, UT| 40.766052|-111.8991402| 386.00000
+Extended Stay America Suites Daytona Beach Speedway|Daytona Beach, FL| 29.196397| -81.0680859| 150.00000
+Extended Stay America Suites Denver Cherry Creek|Denver, CO| 39.717795|-104.9502150|  98.00000
+Extended Stay America Suites Orlando Conv Ctr Sports Complex|Kissimmee, FL| 28.291956| -81.4075710|  80.00000
+Fairfield Inn & Suites by Marriott Daytona Beach Speedway/Airport|Daytona Beach, FL|NA|NA| 612.00000
+Fairfield Inn & Suites Tulsa Southeast/Crossroads Village|Tulsa, OK|NA|NA|  96.00000
+Front St - Entertainment District|Toronto, Canada| 43.644295| -79.3872450| 820.00000
+FRONTDESK Lofts at 629 Euclid Downtown Cleveland|Cleveland, OH| 41.504783| -81.6856808| 146.00000
+GreenPoint Hotel Kissimmee|Kissimmee, FL| 28.334239| -81.4933563| 116.00000
+Hampton Inn & Suites Birmingham East Irondale|Birmingham, AL|NA|NA| 110.00000
+Hampton Inn & Suites Chadds Ford|Chester, PA|NA|NA| 129.00000
+Hampton Inn & Suites Largo|Dunedin, FL|NA|NA| 363.00000
+Hampton Inn Daytona Beach/Beachfront|Daytona Beach, FL| 29.244666| -81.0161181| 190.00000
+Hilton Denver City Center|Commerce City, CO| 39.746994|-104.9901771| 323.00000
+Hilton Garden Inn New York/Manhattan-Midtown East|Jamaica, NY| 40.756653| -73.9694264| 366.00000
+Holiday Inn Club Vacations New Orleans Resort, an IHG Hotel|New Orleans, LA| 29.952526| -90.0710680| 382.00000
+Holiday Inn Express & Suites Brandon, an IHG Hotel|Sioux Falls, SD|NA|NA| 120.00000
+Holiday Inn Express & Suites Phoenix - Mesa West, an IHG Hotel|Scottsdale, AZ|NA|NA| 211.00000
+Holiday Inn LIC LaGuardia West, an IHG Hotel|Jamaica, NY| 40.759826| -73.9420888| 118.00000
+Home2 Suites by Hilton Ormond Beach Oceanfront|Daytona Beach, FL| 29.273392| -81.0304706| 235.00000
+Jet Luxury Elite at The Signature|Henderson, NV| 36.106013|-115.1667809| 168.00000
+Las Vegas Hilton at Resorts World|Henderson, NV| 36.135274|-115.1669240| 129.00000
+Los Angeles Inn & Suites - LAX|Carson, CA| 34.052234|-118.2436849| 559.00000
+Marriott's Newport Coast Villas|Irvine, CA| 33.582570|-117.8426512| 346.00000
+Place d'Armes Hotel|New Orleans, LA| 29.958721| -90.0634634| 418.00000
+Residence Inn by Marriott Boston Downtown / South End|Boston, MA| 42.333638| -71.0816720| 193.00000
+Residence Inn by Marriott Marina del Rey|Los Angeles, CA| 33.975009|-118.4576965| 312.00000
+Residence Inn by Marriott St. Paul Downtown|Minneapolis, MN| 44.941016| -93.1083948| 723.00000
+Siesta Heron Suites & Villas|Sarasota, FL| 27.231091| -82.5203528| 533.00000
+Sleep Inn Pelham Oak Mountain|Birmingham, AL| 33.335481| -86.7857000| 109.00000
+Staybridge Suites Calgary Airport, an IHG Hotel|Calgary, Canada| 51.071329|-114.0006061| 100.00000
+Staybridge Suites Denver-Central Park, an IHG Hotel|Commerce City, CO| 39.786061|-104.8941108| 175.00000
+Sunset Station Hotel & Casino|Henderson, NV| 36.061259|-115.0402972| 114.00000
+The Adler a Hollywood Hills Hotel|Pasadena, CA| 34.147785|-118.1445155| 388.00000
+The Gallivant Times Square|Harrison, NJ| 40.760546| -73.9863518| 133.00000
+The Gatsby Hotel|Harrison, NJ| 40.723144| -73.9902360| 141.00000
+The Palmetto Hotel|Charleston, SC| 32.779979| -79.9269410| 420.00000
+Thompson Washington D.C.|College Park, MD| 38.874712| -77.0027530| 442.00000
+Tropic Terrace #15 - Beachfront Rental Studio Bedroom Condo by Redawning|Saint Petersburg, FL| 27.774732| -82.7755792| 462.00000
+Westgate Lakes Resort & Spa Universal Studios Area|Kissimmee, FL| 28.427231| -81.4756182| 199.00000
+Wingate by Wyndham - Wilmington|Wilmington, NC| 34.243940| -77.8780154| 134.00000
+WoodSpring Suites Lexington|Lexington, KY| 38.010775| -84.4601556|  93.00000
+WoodSpring Suites Round Rock-Austin North|Austin, TX| 30.484634| -97.6466522|  87.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Edmonton Hotel and Conference Centre|Edmonton, Canada| 53.482533|-113.4940912|  79.00000
+Wyndham Garden Columbia, SC|Columbia, SC| 34.076209|
