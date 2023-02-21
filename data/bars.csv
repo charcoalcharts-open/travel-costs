@@ -1,4 +1,45 @@
 ven_id|name|lat|long|price_lev|rating|update
+ 81679|Superior Bathhouse Brewery|34.51490| -93.05346|2|4.0|2023-02-21
+ 81679|Steinhaus Keller|34.50917| -93.05385|2|4.0|2023-02-21
+ 81679|Crystal Ridge Distillery|34.50320| -93.05129|2|4.5|2023-02-21
+ 81679|Grateful Head Pizza Oven & Beer Garden|34.51384| -93.05459|2|4.0|2023-02-21
+ 81679|Rocky's Corner|34.48490| -93.05974|2|4.5|2023-02-21
+ 81679|Capo's Tacos|34.48250| -93.06045|2|4.5|2023-02-21
+ 81679|Maxine's|34.51063| -93.05427|2|4.0|2023-02-21
+ 81679|Bubba Brew's|34.47454| -93.12166|2|4.0|2023-02-21
+ 81679|Copper Penny Pub|34.50997| -93.05376|2|3.5|2023-02-21
+ 81679|The Rooftop Bar|34.51463| -93.05400|2|3.5|2023-02-21
+ 81679|Ohio Club|34.51482| -93.05411|2|4.0|2023-02-21
+ 81679|Oaklawn Racing & Gaming|34.48403| -93.05917|2|3.5|2023-02-21
+ 81679|Splash Wine Bar|34.50654| -93.05678|2|4.5|2023-02-21
+ 81679|Diablos Tacos & Mezcal|34.51182| -93.05456|2|4.0|2023-02-21
+ 81679|Porterhouse Steak and Seafood|34.50997| -93.05390|3|3.5|2023-02-21
+ 81679|Mainline Sports Bar|34.48407| -93.05915|2|4.5|2023-02-21
+ 81679|Bleu Monkey Grill|34.45221| -93.07216|2|3.5|2023-02-21
+ 81679|The Big Chill|34.47453| -93.06388|1|3.5|2023-02-21
+ 81679|The Bourbon Bar|34.50451| -93.04725|2|4.0|2023-02-21
+ 81679|Silks Bar and Grill|34.48353| -93.05907|1|4.0|2023-02-21
+ 81679|Hot Springs Bathhouse Dinner Theatre|34.51016| -93.05377|2|4.5|2023-02-21
+ 81679|Argentinian Coffee & Wine Bar|34.51505| -93.05405|2|4.0|2023-02-21
+ 81679|Cajun Boilers|34.49648| -93.12150|2|3.5|2023-02-21
+ 81679|501 prime|34.50438| -93.04724|3|4.0|2023-02-21
+ 81679|Bourbon In The Bay|34.42700| -93.08818|2|4.0|2023-02-21
+ 81679|Spa City Tropical Winery & Gifts|34.51589| -93.05386|2|4.0|2023-02-21
+ 81679|Blitzed Pig Bar & Grill|34.45444| -93.07498|2|3.5|2023-02-21
+ 81679|Hot Water Hills Music & Art Festival|34.51097| -93.05365|1|5.0|2023-02-21
+ 81679|Fat Jack's Oyster Sports Bar & Grill|34.51871| -93.05538|2|2.5|2023-02-21
+ 81679|The Humidor - Cigar Lounge|34.50940| -93.05431|2|4.5|2023-02-21
+ 81679|Vip Billiards|34.49377| -93.05758|2|1.0|2023-02-21
+ 81679|Back Porch Grill|34.44317| -93.09092|2|3.5|2023-02-21
+ 81679|The Inside Track Grill & Sports Lounge|34.50873| -93.05216|2|3.5|2023-02-21
+ 81679|Red Pier Cajun Seafood & Bar - Central Ave|34.45155| -93.07964|2|3.0|2023-02-21
+ 81679|The Avenue|34.51323| -93.05418|4|4.0|2023-02-21
+ 81679|Love Zen Aromatherapy Lounge|34.51134| -93.05430|2|5.0|2023-02-21
+ 81679|J & S Italian Villa|34.45335| -93.07513|2|4.0|2023-02-21
+ 81679|Wagon Wheel Club|34.49455| -93.07893|1|2.0|2023-02-21
+ 81679|Applebee's Grill + Bar|34.45208| -93.07693|2|2.5|2023-02-21
+ 81679|Valley of the Vapors Independent Music Festival|34.52048| -93.05442|1|5.0|2023-02-21
+ 81679|Chili's|34.46274| -93.06061|2|2.5|2023-02-21
   3714|3 Trails Brewing|39.09260| -94.41553|2|4.5|2023-02-19
   3714|Craft And Draft|39.05208| -94.48118|2|4.0|2023-02-19
   3714|The Irish Pub House|39.00716| -94.46391|1|4.0|2023-02-19
@@ -26715,16 +26756,4 @@ ven_id|name|lat|long|price_lev|rating|update
   3723|Ransom Pub & Event Venue|36.21940| -81.68560|2|3.5|2022-11-19
   3723|Eleven80 Eatery|36.20184| -81.66812|2|4.5|2022-11-19
   3723|Boone Saloon|36.21731| -81.68177|1|3.0|2022-11-19
-  3723|Elevation 3333|36.20867| -81.67426|2|3.5|2022-11-19
-  3723|The Speckled Trout Restaurant and Bottle Shop|36.13518| -81.67801|2|4.5|2022-11-19
-  3723|The Horton Hotel and Rooftop Lounge|36.21819| -81.68360|2|3.5|2022-11-19
-  3723|Over Yonder|36.20960| -81.78093|2|4.5|2022-11-19
-  3723|Vidalia Restaurant and Wine Bar|36.22015| -81.68702|2|4.5|2022-11-19
-  3723|Hellbender Bed & Beverage|36.13310| -81.67565|2|4.5|2022-11-19
-  3723|Six Pence Pub|36.13202| -81.67819|2|4.0|2022-11-19
-  3723|Sunset & Vine|36.13296| -81.67668|2|4.5|2022-11-19
-  3723|The Town Tavern of Blowing Rock|36.13125| -81.67890|2|3.5|2022-11-19
-  3723|10 High Country Lanes|36.20187| -81.65733|1|3.5|2022-11-19
-  3723|The Gamekeeper|36.16743| -81.71678|3|4.5|2022-11-19
-  3723|The Beacon Butcher Bar|36.20152| -81.68355|2|4.0|2022-11-19
-  3723|The Bistro
+  3723|Elevation 3333|36.20867| -81.67426|2|3.5|202
