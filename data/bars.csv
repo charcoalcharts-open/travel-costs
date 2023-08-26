@@ -1,4 +1,20 @@
 ven_id|name|lat|long|price_lev|rating|update
+   526|Trading Post Eatery - Abbotsford|49.05815|-122.315550|2|4.0|2023-08-26
+   526|Bow & Stern Abbotsford|49.04826|-122.290735|2|4.0|2023-08-26
+   526|Highwayman Neighbourhood Pub|49.05273|-122.324640|1|3.5|2023-08-26
+   526|Abbey Road|49.03749|-122.275568|2|3.0|2023-08-26
+   526|Lou's Grill|49.05354|-122.286420|2|3.5|2023-08-26
+   526|The Canadian Brewhouse and Grill|49.05821|-122.380900|2|2.5|2023-08-26
+   526|Milestones Restaurants|49.05800|-122.377867|2|2.5|2023-08-26
+   526|Bob's Burgers and Brew - Sumas|48.99599|-122.265480|2|3.0|2023-08-26
+   526|Browns Socialhouse McCallum|49.03541|-122.292815|2|3.0|2023-08-26
+   526|Cactus Club Cafe|49.03552|-122.266630|2|3.5|2023-08-26
+   526|S+L Kitchen & Bar|49.03996|-122.268840|2|3.0|2023-08-26
+   526|The Keg Steakhouse + Bar|49.04162|-122.277733|4|3.0|2023-08-26
+   526|Sneakers Sports Lounge|49.04781|-122.268177|2|2.5|2023-08-26
+   526|WINGS Abbotsford|49.03720|-122.268570|2|2.5|2023-08-26
+   526|Bankrupt Social Spot|49.04759|-122.292014|2|2.0|2023-08-26
+   526|Original Joe's Restaurant & Bar|49.05039|-122.326861|2|3.0|2023-08-26
   3719|Texas Rose Restaurant & Club|32.62041| -96.692376|1|3.5|2023-08-23
   3719|Armadilla Village Club|32.56818| -96.857140|1|3.5|2023-08-23
   3719|Chili's|32.64804| -96.859500|2|1.5|2023-08-23
@@ -33031,18 +33047,4 @@ ven_id|name|lat|long|price_lev|rating|update
   6028|Cajun Seafood House|33.42618| -86.772080|2|4.5|2022-11-19
   6028|The Upper Deck|33.47271| -86.819900|2|3.5|2022-11-19
   6028|Adios|33.51642| -86.802270|2|4.5|2022-11-19
-  6028|Mugshots Grill & Bar - Vestavia|33.44694| -86.792550|2|3.0|2022-11-19
-  6028|Golden Age Wine|33.48294| -86.772410|2|4.5|2022-11-19
-  6028|Gabriel's Cafe|33.37995| -86.800270|2|4.0|2022-11-19
-  6028|Five Point Public House Oyster Bar|33.49911| -86.795670|2|4.0|2022-11-19
-  6028|The Clubhouse Restaurant at Ross Bridge Resort|33.39271| -86.881020|2|3.0|2022-11-19
-  6028|Queen’s Park|33.51750| -86.800820|2|4.5|2022-11-19
-  6028|The Essential|33.51437| -86.804550|2|4.5|2022-11-19
-  6028|On Tap Sports Cafe - Inverness|33.41658| -86.695410|2|3.0|2022-11-19
-  6028|Mudtown Eat & Drink|33.46033| -86.733060|2|4.0|2022-11-19
-  6028|The Marble Ring|33.52186| -86.773030|2|4.0|2022-11-19
-  6028|FOODBAR|33.45554| -86.735090|3|4.5|2022-11-19
-  6028|41st Street Pub & Aircraft Sales|33.52466| -86.774600|2|4.0|2022-11-19
-  5932|Separatist Beer Project|40.69170| -75.205380|2|3.5|2022-11-19
-  5932|Two Rivers Brewing|40.69083| -75.214300|2|4.5|2022-11-19
-  5932|Daddy's Place|40.69086| -75.216550|2|4.5|2022-11-19
+  6028|Mugshots G
