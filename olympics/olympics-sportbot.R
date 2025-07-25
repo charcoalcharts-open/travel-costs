@@ -41,7 +41,7 @@ game$sport[[j]]$gold[[k]]=d$props$pageProps$gameDiscipline$events$awards %>% sap
 json=game %>% toJSON %>% as.character
 
 
-tok=paste0("ghp_",gsub("@","","@Zzggs5JeI8FS4sirY4QEJCAHXSuKmB23Hx7c"))
+tok=paste0("ghp_",gsub("@","",creds[4]))
 gh="https://api.github.com/repos/charcoalcharts-open/travel-costs/contents/olympics/games.json"
 sha=content(GET(gh))$sha
 content=caTools::base64encode(json)
