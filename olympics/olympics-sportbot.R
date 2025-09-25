@@ -25,12 +25,15 @@ season=a$props$pageProps$olympicGamesNoYog$season,
 slug=a$props$pageProps$olympicGamesNoYog$meta$slug)
 game$sport=NA; class(game$sport)="list"
 
-for(j in 1:nrow(game)){ og=game$slug[j]
+g0="https://raw.githubusercontent.com/charcoalcharts-open/travel-costs/refs/heads/main/olympics/games.json" %>% fromJSON
+game=game[!game$slug%in%g0$slug,]
+
+if(nrow(game)>0) for(j in 1:nrow(game)){ og=game$slug[j]
 b=og %>% paste0("https://www.olympics.com/en/olympic-games/",.,"/results") %>% read_html %>% html_nodes("script[type='application/json']") %>% html_text %>% fromJSON
 game$sport[[j]]=data.frame(gid=j,
-name=b$props$pageProps$olympicGame$disciplines$title,
-slug=b$props$pageProps$olympicGame$disciplines$slug,
-id=b$props$pageProps$olympicGame$disciplines$sportDisciplineId)
+                           name=b$props$pageProps$olympicGame$disciplines$title,
+                           slug=b$props$pageProps$olympicGame$disciplines$slug,
+                           id=b$props$pageProps$olympicGame$disciplines$sportDisciplineId)
 game$sport[[j]]$gold=NA; class(game$sport[[j]]$gold)="list"
 
 for(k in 1:nrow(game$sport[[j]])){ dx=game$sport[[j]]$slug[k]
@@ -38,6 +41,7 @@ d=paste0("https://www.olympics.com/en/olympic-games/",og,"/results/",dx) %>% rea
 game$sport[[j]]$gold[[k]]=d$props$pageProps$gameDiscipline$events$awards %>% sapply(function(x) x$participant$country$triLetterCode[1])
 }; print(game$name[j]); flush.console()}
 
+game=rbind(g0,game)
 json=game %>% toJSON %>% as.character
 
 
