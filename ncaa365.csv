@@ -1,10 +1,41 @@
 team,color,color2,id,date,sport,j
+Arizona,0c234b,ab0520,401812266,2025-12-14,basketball,2
+BYU,003da5,ffffff,401819838,2025-12-14,basketball,2
+Gonzaga,041e42,c8102e,401813763,2025-12-14,basketball,2
+Michigan,00274c,ffcb05,401825408,2025-12-14,basketball,2
+Arkansas,a41f35,ffffff,401826789,2025-12-13,basketball,2
+Auburn,002b5c,f26522,401823481,2025-12-13,basketball,2
+Florida,0021a5,fa4616,401817151,2025-12-13,basketball,2
+Houston,c92a39,ffffff,401808901,2025-12-13,basketball,2
+Kansas,0051ba,e8000d,401817259,2025-12-13,basketball,2
+Louisville,c9001f,000000,401817247,2025-12-13,basketball,2
+Michigan St,18453b,ffffff,401825409,2025-12-13,basketball,2
+Nebraska,d00000,ffffff,401825407,2025-12-13,basketball,2
+North Carolina,7bafd4,13294b,401817269,2025-12-13,basketball,2
+Purdue,000000,cfb991,401823028,2025-12-13,basketball,2
+St John's,d10000,101010,401824309,2025-12-13,basketball,2
+UConn,0c2340,f1f2f3,401812794,2025-12-13,basketball,2
+Vanderbilt,000000,cfae70,401824940,2025-12-13,basketball,2
+Iowa State,822433,fdca2f,401819878,2025-12-12,basketball,2
+Houston,c92a39,ffffff,401824814,2025-12-11,basketball,2
+Nebraska,d00000,ffffff,401825405,2025-12-11,basketball,2
+Purdue,000000,cfb991,401825406,2025-12-11,basketball,2
+Illinois,ff5f05,13294b,401825404,2025-12-10,basketball,2
+UConn,0c2340,f1f2f3,401812793,2025-12-10,basketball,2
+Virginia,232d4b,f84c1e,401817513,2025-12-10,basketball,2
+BYU,003da5,ffffff,401812923,2025-12-09,basketball,2
+Michigan,00274c,ffcb05,401823566,2025-12-09,basketball,2
+Gonzaga,041e42,c8102e,401823448,2025-12-08,basketball,2
+Alabama,9e1632,ffffff,401812265,2025-12-07,basketball,2
 Arizona,0c234b,ab0520,401823480,2025-12-07,basketball,2
 Duke,013088,ffffff,401777328,2025-12-07,football,1
 Houston,c92a39,ffffff,401824813,2025-12-07,basketball,2
 Illinois,ff5f05,13294b,401811099,2025-12-07,basketball,2
 Indiana,990000,edebeb,401777353,2025-12-07,football,1
+Kansas,0051ba,e8000d,401819885,2025-12-07,basketball,2
+North Carolina,7bafd4,13294b,401817268,2025-12-07,basketball,2
 St John's,d10000,101010,401826916,2025-12-07,basketball,2
+Texas Tech,000000,da291c,401819902,2025-12-07,basketball,2
 Arkansas,a41f35,ffffff,401826791,2025-12-06,basketball,2
 Duke,013088,ffffff,401817235,2025-12-06,basketball,2
 Georgia,ba0c2f,ffffff,401777351,2025-12-06,football,1
@@ -2286,36 +2317,4 @@ Tennessee,ff8200,58595b,401707854,2024-12-14,basketball,2
 Texas A&M,500000,ffffff,401707975,2024-12-14,basketball,2
 UCLA,2774ae,f2a900,401710005,2024-12-14,basketball,2
 Wisconsin,c4012f,ffffff,401713000,2024-12-14,basketball,2
-Iowa State,822433,fdca2f,401706959,2024-12-13,basketball,2
-Kentucky,0033a0,ffffff,401714914,2024-12-12,basketball,2
-San Diego St,c41230,000000,401722348,2024-12-12,basketball,2
-Arkansas,a41f35,ffffff,401727356,2024-12-11,basketball,2
-Duke,013088,ffffff,401706889,2024-12-11,basketball,2
-Houston,c92a39,ffffff,401706951,2024-12-11,basketball,2
-Illinois,ff5f05,13294b,401721319,2024-12-11,basketball,2
-Tennessee,ff8200,58595b,401715340,2024-12-10,basketball,2
-Arkansas St,e81018,000000,401722270,2024-12-08,basketball,2
-Auburn,002b5c,f26522,401714644,2024-12-08,basketball,2
-Cincinnati,000000,717073,401715633,2024-12-08,basketball,2
-Clemson,f56600,522d80,401673463,2024-12-08,football,1
-Duke,013088,ffffff,401724775,2024-12-08,basketball,2
-Iowa State,822433,fdca2f,401706958,2024-12-08,basketball,2
-Kentucky,0033a0,ffffff,401714913,2024-12-08,basketball,2
-Missouri,f1b82d,000000,401706968,2024-12-08,basketball,2
-Oklahoma,a32036,ffffff,401721284,2024-12-08,basketball,2
-Ole Miss,13294b,c8102e,401715323,2024-12-08,basketball,2
-Oregon,007030,fee11a,401673464,2024-12-08,football,1
-Purdue,000000,cfb991,401721316,2024-12-08,basketball,2
-San Diego St,c41230,000000,401722347,2024-12-08,basketball,2
-Texas A&M,500000,ffffff,401715360,2024-12-08,basketball,2
-UCLA,2774ae,f2a900,401721317,2024-12-08,basketball,2
-UConn,0c2340,f1f2f3,401715350,2024-12-08,basketball,2
-Arizona St,8e0c3a,ffc72c,401673465,2024-12-07,football,1
-Army,ce9c00,231f20,401673462,2024-12-07,football,1
-Boise St,0033a0,fa4616,401673468,2024-12-07,football,1
-Georgia,ba0c2f,ffffff,401673469,2024-12-07,football,1
-Houston,c92a39,ffffff,401706950,2024-12-07,basketball,2
-Marquette,003366,ffcc00,401715446,2024-12-07,basketball,2
-North Carolina,7bafd4,13294b,401724770,2024-12-07,basketball,2
-Northwestern,582c83,ffffff,401721311,2024-12-07,basketball,2
-Pitt,003263,231f20,401724771,2024-12-07,basketb
+Iowa State,822433,fdca2f,401706959,2024-12-13,basketb
