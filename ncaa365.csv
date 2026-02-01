@@ -1,4 +1,35 @@
 team,color,color2,id,date,sport,j
+Arizona,cc0033,003366,401827652,2026-01-31,basketball,2
+Clemson,f56600,ffffff,401820707,2026-01-31,basketball,2
+Duke,00539b,ffffff,401820712,2026-01-31,basketball,2
+Houston,c8102e,ffffff,401827654,2026-01-31,basketball,2
+Kansas,0051ba,e8000d,401827655,2026-01-31,basketball,2
+Kentucky,0033a0,ffffff,401808207,2026-01-31,basketball,2
+Louisville,c9001f,ffffff,401820710,2026-01-31,basketball,2
+Miami OH,c41230,ffffff,401814550,2026-01-31,basketball,2
+Michigan,00274c,ffcb05,401825481,2026-01-31,basketball,2
+North Carolina,7bafd4,13294b,401820709,2026-01-31,basketball,2
+Saint Louis,00539c,ebebeb,401828400,2026-01-31,basketball,2
+UCF,000000,b4a169,401827653,2026-01-31,basketball,2
+Vanderbilt,000000,cfae70,401808210,2026-01-31,basketball,2
+Virginia,f84c1e,232d4b,401820705,2026-01-31,basketball,2
+Illinois,ff5f05,13294b,401825479,2026-01-30,basketball,2
+Iowa State,ae192d,ffc72a,401827651,2026-01-30,basketball,2
+Florida,0021a5,fa4616,401808203,2026-01-29,basketball,2
+Houston,c8102e,ffffff,401827650,2026-01-29,basketball,2
+St John's,d10000,101010,401822919,2026-01-29,basketball,2
+Alabama,9e1b32,ffffff,401808204,2026-01-28,basketball,2
+Arkansas,a32136,ffffff,401808206,2026-01-28,basketball,2
+Indiana,970310,ffffff,401825473,2026-01-28,basketball,2
+Miami OH,c41230,ffffff,401814543,2026-01-28,basketball,2
+Michigan,00274c,ffcb05,401825474,2026-01-28,basketball,2
+Saint Louis,00539c,ebebeb,401828394,2026-01-28,basketball,2
+UConn,0c2340,a2aaad,401822918,2026-01-28,basketball,2
+Vanderbilt,000000,cfae70,401808205,2026-01-28,basketball,2
+Virginia,f84c1e,232d4b,401820703,2026-01-28,basketball,2
+Arizona,cc0033,003366,401820816,2026-01-27,basketball,2
+Duke,00539b,ffffff,401820698,2026-01-27,basketball,2
+Michigan St,173f35,ffffff,401825475,2026-01-27,basketball,2
 Arizona,cc0033,003366,401827639,2026-01-24,basketball,2
 Arkansas,a32136,ffffff,401808192,2026-01-24,basketball,2
 Auburn,002b5c,f26522,401808193,2026-01-24,basketball,2
@@ -2264,41 +2295,4 @@ USC,9e2237,ffcc00,401721398,2025-02-01,basketball,2
 Wisconsin,a00000,ffffff,401721396,2025-02-01,basketball,2
 Memphis,004991,8e908f,401725564,2025-01-31,basketball,2
 Nebraska,e31937,ffffff,401721391,2025-01-31,basketball,2
-UCLA,2774ae,f2a900,401721393,2025-01-31,basketball,2
-Alabama,9e1b32,ffffff,401724556,2025-01-30,basketball,2
-Auburn,002b5c,f26522,401708356,2025-01-30,basketball,2
-Houston,c8102e,ffffff,401725701,2025-01-30,basketball,2
-Maryland,d5002b,ffcd00,401721389,2025-01-30,basketball,2
-Ole Miss,13294b,ce1126,401708357,2025-01-30,basketball,2
-Texas Tech,da291c,000000,401725700,2025-01-30,basketball,2
-UConn,0c2340,a2aaad,401719123,2025-01-30,basketball,2
-Kansas,0051ba,e8000d,401725697,2025-01-29,basketball,2
-Kentucky,0033a0,ffffff,401708354,2025-01-29,basketball,2
-Louisville,c9001f,ffffff,401724831,2025-01-29,basketball,2
-Marquette,003366,ffcc00,401719120,2025-01-29,basketball,2
-Michigan St,173f35,ffffff,401721388,2025-01-29,basketball,2
-Texas A&M,500000,ffffff,401708359,2025-01-29,basketball,2
-Arizona,cc0033,003366,401725694,2025-01-28,basketball,2
-Duke,00539b,ffffff,401724830,2025-01-28,basketball,2
-St John's,d10000,101010,401719122,2025-01-28,basketball,2
-Alabama,9e1b32,ffffff,401708346,2025-01-26,basketball,2
-Auburn,002b5c,f26522,401708348,2025-01-26,basketball,2
-Illinois,ff5f05,13294b,401721382,2025-01-26,basketball,2
-Memphis,004991,8e908f,401725557,2025-01-26,basketball,2
-Wisconsin,a00000,ffffff,401721384,2025-01-26,basketball,2
-Xavier,21304e,a5a7a8,401719118,2025-01-26,basketball,2
-Duke,00539b,ffffff,401724827,2025-01-25,basketball,2
-Florida,0021a5,fa4616,401708349,2025-01-25,basketball,2
-Houston,c8102e,ffffff,401725690,2025-01-25,basketball,2
-Iowa State,ae192d,ffc72a,401725687,2025-01-25,basketball,2
-Kansas St,3c0969,e2e3e4,401725691,2025-01-25,basketball,2
-Marquette,003366,ffcc00,401719115,2025-01-25,basketball,2
-Michigan St,173f35,ffffff,401721381,2025-01-25,basketball,2
-Minnesota,5e0a2f,fab41c,401721380,2025-01-25,basketball,2
-Mississippi St,5d1725,c1c6c8,401708351,2025-01-25,basketball,2
-Missouri,f1b82d,000000,401708350,2025-01-25,basketball,2
-Purdue,ceb888,000000,401721378,2025-01-25,basketball,2
-Texas,af5c37,ffffff,401708353,2025-01-25,basketball,2
-Vanderbilt,000000,cfae70,401708352,2025-01-25,basketball,2
-Maryland,d5002b,ffcd00,401721376,2025-01-24,basketball,2
-Memphis,004991,8e908f,401725552,2025-01-24,basketb
+UCLA,2774ae,f2a900,401721393,2025-01-31,basketb
