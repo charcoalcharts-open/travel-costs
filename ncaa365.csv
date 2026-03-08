@@ -1,4 +1,146 @@
 team,color,color2,id,date,sport,j
+Arkansas,a32136,ffffff,401808285,2026-03-07,basketball,2
+Arkansas,a32136,ffffff,401847111,2026-03-07,baseball,3
+Auburn,002b5c,f26522,401847165,2026-03-07,baseball,3
+Auburn,002b5c,f26522,401847167,2026-03-07,baseball,3
+Auburn,002b5c,f26522,401847166,2026-03-07,baseball,3
+Boston College,111111,NA,401847704,2026-03-07,baseball,3
+Clemson,f56600,ffffff,401847811,2026-03-07,baseball,3
+Clemson,f56600,ffffff,401847812,2026-03-07,baseball,3
+Coastal,59a0a0,NA,401851695,2026-03-07,baseball,3
+Duke,00539b,ffffff,401820788,2026-03-07,basketball,2
+Florida,0021a5,fa4616,401808281,2026-03-07,basketball,2
+Florida St,782f40,ceb888,401847916,2026-03-07,baseball,3
+George Mason,016600,ecb010,401828466,2026-03-07,basketball,2
+Georgia,ba0c2f,2c2a29,401847264,2026-03-07,baseball,3
+Georgia,ba0c2f,2c2a29,401847265,2026-03-07,baseball,3
+Georgia Tech,b3a369,ffffff,401847962,2026-03-07,baseball,3
+High Point,b0b7bc,NA,401847216,2026-03-07,baseball,3
+High Point,b0b7bc,NA,401847217,2026-03-07,baseball,3
+Houston,c8102e,ffffff,401827728,2026-03-07,basketball,2
+Iowa State,ae192d,ffc72a,401827726,2026-03-07,basketball,2
+Kansas,0051ba,e8000d,401827727,2026-03-07,basketball,2
+LSU,461d76,fdd023,401847350,2026-03-07,baseball,3
+Louisville,c9001f,ffffff,401820790,2026-03-07,basketball,2
+Marquette,003366,ffcc00,401822973,2026-03-07,basketball,2
+Miami,f47423,035131,401847705,2026-03-07,baseball,3
+Miami OH,c41230,ffffff,401814601,2026-03-07,basketball,2
+Mississippi St,5d1725,c1c6c8,401847398,2026-03-07,baseball,3
+Mississippi St,5d1725,c1c6c8,401847397,2026-03-07,baseball,3
+NC State,cc0000,ffffff,401848076,2026-03-07,baseball,3
+North Carolina,7bafd4,13294b,401848149,2026-03-07,baseball,3
+Oklahoma,990000,ffffff,401847486,2026-03-07,baseball,3
+Oregon St,000000,NA,401849887,2026-03-07,baseball,3
+Oregon St,000000,NA,401849888,2026-03-07,baseball,3
+Sacramento St,NA,NA,401847351,2026-03-07,baseball,3
+Southern Miss,ffaa3c,NA,401853397,2026-03-07,baseball,3
+Southern Miss,ffaa3c,NA,401853418,2026-03-07,baseball,3
+St John's,d10000,101010,401822972,2026-03-07,basketball,2
+TCU,4d1979,ffffff,401850100,2026-03-07,baseball,3
+Tennessee,ff8200,ffffff,401847590,2026-03-07,baseball,3
+Texas,af5c37,ffffff,401847621,2026-03-07,baseball,3
+Texas,af5c37,ffffff,401847622,2026-03-07,baseball,3
+Texas A&M,500000,ffffff,401847651,2026-03-07,baseball,3
+Texas A&M,500000,ffffff,401847653,2026-03-07,baseball,3
+UCLA,2774ae,f2a900,401852078,2026-03-07,baseball,3
+UTSA,000000,NA,401853327,2026-03-07,baseball,3
+Vanderbilt,000000,cfae70,401808286,2026-03-07,basketball,2
+Virginia,f84c1e,232d4b,401820794,2026-03-07,basketball,2
+Virginia,f84c1e,232d4b,401848148,2026-03-07,baseball,3
+Wake Forest,ceb888,2c2a29,401848342,2026-03-07,baseball,3
+Wake Forest,ceb888,2c2a29,401848343,2026-03-07,baseball,3
+West Virginia,eaaa00,002855,401849982,2026-03-07,baseball,3
+Wisconsin,a00000,ffffff,401825565,2026-03-07,basketball,2
+Arkansas,a32136,ffffff,401847110,2026-03-06,baseball,3
+Clemson,f56600,ffffff,401847810,2026-03-06,baseball,3
+Coastal,59a0a0,NA,401851694,2026-03-06,baseball,3
+Columbia,000000,NA,401849981,2026-03-06,baseball,3
+Florida St,782f40,ceb888,401847915,2026-03-06,baseball,3
+Georgia,ba0c2f,2c2a29,401847263,2026-03-06,baseball,3
+Georgia Tech,b3a369,ffffff,401847961,2026-03-06,baseball,3
+Kentucky,0033a0,ffffff,401847308,2026-03-06,baseball,3
+Lafayette,790000,NA,401848075,2026-03-06,baseball,3
+Michigan,00274c,ffcb05,401825560,2026-03-06,basketball,2
+Michigan St,173f35,ffffff,401825561,2026-03-06,basketball,2
+Mississippi St,5d1725,c1c6c8,401847396,2026-03-06,baseball,3
+Oklahoma,990000,ffffff,401847484,2026-03-06,baseball,3
+Tennessee,ff8200,ffffff,401847589,2026-03-06,baseball,3
+Texas A&M,500000,ffffff,401847652,2026-03-06,baseball,3
+UCLA,2774ae,f2a900,401852077,2026-03-06,baseball,3
+Virginia,f84c1e,232d4b,401848147,2026-03-06,baseball,3
+Wake Forest,ceb888,2c2a29,401848341,2026-03-06,baseball,3
+Arkansas,a32136,ffffff,401808273,2026-03-05,basketball,2
+Houston,c8102e,ffffff,401827721,2026-03-05,basketball,2
+Louisiana,ce2842,NA,401847349,2026-03-05,baseball,3
+Miami,f47423,035131,401820784,2026-03-05,basketball,2
+Nicholls,2a5074,NA,401853396,2026-03-05,baseball,3
+Purdue,ceb888,000000,401825556,2026-03-05,basketball,2
+Saint Louis,00539c,ebebeb,401828461,2026-03-05,basketball,2
+Arizona St,ffc627,8c1d40,401827715,2026-03-04,basketball,2
+Auburn,002b5c,f26522,401847164,2026-03-04,baseball,3
+Clemson,f56600,ffffff,401847809,2026-03-04,baseball,3
+Florida,0021a5,fa4616,401808274,2026-03-04,basketball,2
+Florida,0021a5,fa4616,401847215,2026-03-04,baseball,3
+Florida St,782f40,ceb888,401847914,2026-03-04,baseball,3
+Illinois,ff5f05,13294b,401825553,2026-03-04,basketball,2
+Kentucky,0033a0,ffffff,401847307,2026-03-04,baseball,3
+Miami,f47423,035131,401848037,2026-03-04,baseball,3
+Miami OH,c41230,ffffff,401814597,2026-03-04,basketball,2
+NC State,cc0000,ffffff,401848074,2026-03-04,baseball,3
+North Carolina,7bafd4,13294b,401820779,2026-03-04,basketball,2
+Oklahoma,990000,ffffff,401847483,2026-03-04,baseball,3
+Southern Miss,ffaa3c,NA,401847395,2026-03-04,baseball,3
+St John's,d10000,101010,401822967,2026-03-04,basketball,2
+TCU,4d1979,ffffff,401827719,2026-03-04,basketball,2
+TCU,4d1979,ffffff,401850099,2026-03-04,baseball,3
+Tennessee,ff8200,ffffff,401847588,2026-03-04,baseball,3
+Texas,af5c37,ffffff,401847620,2026-03-04,baseball,3
+UCLA,2774ae,f2a900,401825554,2026-03-04,basketball,2
+UCLA,2774ae,f2a900,401852671,2026-03-04,baseball,3
+UTSA,000000,NA,401853326,2026-03-04,baseball,3
+Vanderbilt,000000,cfae70,401808279,2026-03-04,basketball,2
+Virginia,f84c1e,232d4b,401820785,2026-03-04,basketball,2
+W Carolina,6e268b,NA,401847262,2026-03-04,baseball,3
+Wake Forest,ceb888,2c2a29,401849869,2026-03-04,baseball,3
+Arizona,cc0033,003366,401820821,2026-03-03,basketball,2
+Arkansas,a32136,ffffff,401847109,2026-03-03,baseball,3
+Duke,00539b,ffffff,401820778,2026-03-03,basketball,2
+Florida,0021a5,fa4616,401847214,2026-03-03,baseball,3
+Florida St,782f40,ceb888,401847913,2026-03-03,baseball,3
+Georgia,ba0c2f,2c2a29,401808277,2026-03-03,basketball,2
+Georgia,ba0c2f,2c2a29,401847261,2026-03-03,baseball,3
+Georgia Tech,b3a369,ffffff,401847960,2026-03-03,baseball,3
+Kentucky,0033a0,ffffff,401847306,2026-03-03,baseball,3
+NC State,cc0000,ffffff,401848073,2026-03-03,baseball,3
+North Carolina,7bafd4,13294b,401848146,2026-03-03,baseball,3
+Northeastern,cc0001,NA,401847348,2026-03-03,baseball,3
+Oregon St,000000,NA,401849886,2026-03-03,baseball,3
+Tennessee,ff8200,ffffff,401808278,2026-03-03,basketball,2
+Tennessee,ff8200,ffffff,401847587,2026-03-03,baseball,3
+Texas A&M,500000,ffffff,401847650,2026-03-03,baseball,3
+Texas A&M,500000,ffffff,401847649,2026-03-02,baseball,3
+Arkansas,a32136,ffffff,401847108,2026-03-01,baseball,3
+Auburn,002b5c,f26522,401847163,2026-03-01,baseball,3
+Clemson,f56600,ffffff,401847552,2026-03-01,baseball,3
+Coastal,59a0a0,NA,401847518,2026-03-01,baseball,3
+Florida St,782f40,ceb888,401847912,2026-03-01,baseball,3
+Georgia,ba0c2f,2c2a29,401847260,2026-03-01,baseball,3
+Georgia Tech,b3a369,ffffff,401847959,2026-03-01,baseball,3
+Gonzaga,041e42,c8102e,401847482,2026-03-01,baseball,3
+Kennesaw St,NA,NA,401849978,2026-03-01,baseball,3
+Kentucky,0033a0,ffffff,401847305,2026-03-01,baseball,3
+LSU,461d76,fdd023,401847347,2026-03-01,baseball,3
+Michigan St,173f35,ffffff,401825550,2026-03-01,basketball,2
+NC State,cc0000,ffffff,401848072,2026-03-01,baseball,3
+North Carolina,7bafd4,13294b,401848145,2026-03-01,baseball,3
+Ohio State,ba0c2f,a8adb4,401825552,2026-03-01,basketball,2
+Oregon St,000000,NA,401849885,2026-03-01,baseball,3
+Southern Miss,ffaa3c,NA,401853395,2026-03-01,baseball,3
+TCU,4d1979,ffffff,401850098,2026-03-01,baseball,3
+Tennessee,ff8200,ffffff,401847586,2026-03-01,baseball,3
+Texas,af5c37,ffffff,401847619,2026-03-01,baseball,3
+UCLA,2774ae,f2a900,401847394,2026-03-01,baseball,3
+Wake Forest,ceb888,2c2a29,401849868,2026-03-01,baseball,3
 Alabama,9e1b32,ffffff,401808271,2026-02-28,basketball,2
 Alabama,9e1b32,ffffff,401847032,2026-02-28,baseball,3
 Arizona,cc0033,003366,401827707,2026-02-28,basketball,2
@@ -2248,151 +2390,4 @@ Stanford,8c1515,ffffff,401749160,2025-03-07,baseball,3
 Tennessee,ff8200,ffffff,401749988,2025-03-07,baseball,3
 Troy,843131,NA,401762429,2025-03-07,baseball,3
 Vanderbilt,000000,cfae70,401750109,2025-03-07,baseball,3
-Wake Forest,ceb888,2c2a29,401749161,2025-03-07,baseball,3
-Clemson,f56600,ffffff,401724917,2025-03-06,basketball,2
-Florida,0021a5,fa4616,401708428,2025-03-06,basketball,2
-LSU,461d76,fdd023,401750062,2025-03-06,baseball,3
-Louisville,c9001f,ffffff,401724919,2025-03-06,basketball,2
-Oklahoma,990000,ffffff,401708435,2025-03-06,basketball,2
-Ole Miss,13294b,cf142b,401708430,2025-03-06,basketball,2
-Texas A&M,500000,ffffff,401750036,2025-03-06,baseball,3
-Texas Tech,da291c,000000,401725779,2025-03-06,basketball,2
-UConn,0c2340,a2aaad,401719171,2025-03-06,basketball,2
-Wisconsin,a00000,ffffff,401721472,2025-03-06,basketball,2
-Alabama,9e1b32,ffffff,401746161,2025-03-05,baseball,3
-Arizona,cc0033,003366,401725775,2025-03-05,basketball,2
-Arkansas,a32136,ffffff,401746185,2025-03-05,baseball,3
-BYU,0047ba,002e5d,401725776,2025-03-05,basketball,2
-Clemson,f56600,ffffff,401760103,2025-03-05,baseball,3
-Dallas Baptist,NA,NA,401748535,2025-03-05,baseball,3
-Florida,0021a5,fa4616,401748383,2025-03-05,baseball,3
-Florida St,782f40,ceb888,401750323,2025-03-05,baseball,3
-Georgia,ba0c2f,2c2a29,401748409,2025-03-05,baseball,3
-Kentucky,0033a0,ffffff,401708429,2025-03-05,basketball,2
-LSU,461d76,fdd023,401750061,2025-03-05,baseball,3
-Maryland,ce1126,ffffff,401721471,2025-03-05,basketball,2
-Memphis,004991,8e908f,401725618,2025-03-05,basketball,2
-Mississippi St,5d1725,c1c6c8,401748454,2025-03-05,baseball,3
-Ole Miss,13294b,cf142b,401748559,2025-03-05,baseball,3
-Oregon,00934b,fff41b,401751075,2025-03-05,baseball,3
-Purdue,ceb888,000000,401721470,2025-03-05,basketball,2
-Santa Barbara,000000,NA,401751163,2025-03-05,baseball,3
-Tennessee,ff8200,ffffff,401749987,2025-03-05,baseball,3
-Texas,af5c37,ffffff,401708431,2025-03-05,basketball,2
-Texas,af5c37,ffffff,401750011,2025-03-05,baseball,3
-Texas A&M,500000,ffffff,401708433,2025-03-05,basketball,2
-UAB,1a5632,fdb913,401746211,2025-03-05,baseball,3
-UTSA,000000,NA,401750035,2025-03-05,baseball,3
-Vanderbilt,000000,cfae70,401750108,2025-03-05,baseball,3
-Winthrop,9e0b0e,NA,401750770,2025-03-05,baseball,3
-Alabama,9e1b32,ffffff,401746160,2025-03-04,baseball,3
-Arkansas,a32136,ffffff,401746184,2025-03-04,baseball,3
-Clemson,f56600,ffffff,401750271,2025-03-04,baseball,3
-Duke,00539b,ffffff,401724912,2025-03-04,basketball,2
-Florida St,782f40,ceb888,401750322,2025-03-04,baseball,3
-Georgia,ba0c2f,2c2a29,401748408,2025-03-04,baseball,3
-Houston,c8102e,ffffff,401725774,2025-03-04,basketball,2
-North Carolina,7bafd4,13294b,401750436,2025-03-04,baseball,3
-Oklahoma St,fe5c00,000000,401750769,2025-03-04,baseball,3
-Tennessee,ff8200,ffffff,401749986,2025-03-04,baseball,3
-UCF,000000,b4a169,401750831,2025-03-04,baseball,3
-Virginia,f84c1e,232d4b,401750524,2025-03-04,baseball,3
-Wake Forest,ceb888,2c2a29,401750574,2025-03-04,baseball,3
-Texas A&M,500000,ffffff,401750034,2025-03-03,baseball,3
-Arkansas,a32136,ffffff,401746183,2025-03-02,baseball,3
-Auburn,002b5c,f26522,401746209,2025-03-02,baseball,3
-BYU,0047ba,002e5d,401725771,2025-03-02,basketball,2
-Clemson,f56600,ffffff,401748588,2025-03-02,baseball,3
-Dallas Baptist,NA,NA,401761360,2025-03-02,baseball,3
-Duke,00539b,ffffff,401724905,2025-03-02,basketball,2
-Duke,00539b,ffffff,401750296,2025-03-02,baseball,3
-Florida,0021a5,fa4616,401708420,2025-03-02,basketball,2
-Florida St,782f40,ceb888,401750321,2025-03-02,baseball,3
-Fresno St,e73139,NA,401759387,2025-03-02,baseball,3
-Georgia,ba0c2f,2c2a29,401748407,2025-03-02,baseball,3
-Illinois,ff5f05,13294b,401721465,2025-03-02,basketball,2
-Iowa State,ae192d,ffc72a,401725766,2025-03-02,basketball,2
-LSU,461d76,fdd023,401750060,2025-03-02,baseball,3
-Marquette,003366,ffcc00,401719170,2025-03-02,basketball,2
-Memphis,004991,8e908f,401725616,2025-03-02,basketball,2
-Miami,f47423,035131,401748381,2025-03-02,baseball,3
-Michigan St,173f35,ffffff,401721466,2025-03-02,basketball,2
-North Carolina,7bafd4,13294b,401750435,2025-03-02,baseball,3
-Oklahoma,990000,ffffff,401748534,2025-03-02,baseball,3
-Oklahoma St,fe5c00,000000,401750033,2025-03-02,baseball,3
-Oklahoma St,fe5c00,000000,401748453,2025-03-02,baseball,3
-Ole Miss,13294b,cf142b,401748557,2025-03-02,baseball,3
-Oregon,00934b,fff41b,401751074,2025-03-02,baseball,3
-Oregon St,000000,NA,401751739,2025-03-02,baseball,3
-Princeton,ff9408,NA,401750572,2025-03-02,baseball,3
-Saint Mary's,d80024,003057,401706760,2025-03-02,basketball,2
-Southern Miss,ffaa3c,NA,401750789,2025-03-02,baseball,3
-Tennessee,ff8200,ffffff,401749985,2025-03-02,baseball,3
-Texas,af5c37,ffffff,401750009,2025-03-02,baseball,3
-Texas,af5c37,ffffff,401750010,2025-03-02,baseball,3
-Troy,843131,NA,401757372,2025-03-02,baseball,3
-UC San Diego,NA,NA,401750684,2025-03-02,baseball,3
-UConn,0c2340,a2aaad,401750106,2025-03-02,baseball,3
-Virginia,f84c1e,232d4b,401750523,2025-03-02,baseball,3
-Wake Forest,ceb888,2c2a29,401750573,2025-03-02,baseball,3
-Arizona,cc0033,003366,401750032,2025-03-01,baseball,3
-Arizona,cc0033,003366,401748452,2025-03-01,baseball,3
-Arkansas,a32136,ffffff,401746182,2025-03-01,baseball,3
-Auburn,002b5c,f26522,401708421,2025-03-01,basketball,2
-Cincinnati,000000,e00122,401750682,2025-03-01,baseball,3
-Clemson,f56600,ffffff,401724911,2025-03-01,basketball,2
-Clemson,f56600,ffffff,401748586,2025-03-01,baseball,3
-Clemson,f56600,ffffff,401748587,2025-03-01,baseball,3
-Dallas Baptist,NA,NA,401761358,2025-03-01,baseball,3
-Duke,00539b,ffffff,401750295,2025-03-01,baseball,3
-Florida,0021a5,fa4616,401748380,2025-03-01,baseball,3
-Florida St,782f40,ceb888,401750320,2025-03-01,baseball,3
-Georgia,ba0c2f,2c2a29,401748406,2025-03-01,baseball,3
-Georgia,ba0c2f,2c2a29,401751999,2025-03-01,baseball,3
-Houston,c8102e,ffffff,401725770,2025-03-01,basketball,2
-LSU,461d76,fdd023,401750059,2025-03-01,baseball,3
-Louisville,c9001f,ffffff,401724910,2025-03-01,basketball,2
-Maryland,ce1126,ffffff,401721463,2025-03-01,basketball,2
-Maryland,ce1126,ffffff,401750571,2025-03-01,baseball,3
-Mississippi St,5d1725,c1c6c8,401708423,2025-03-01,basketball,2
-North Carolina,7bafd4,13294b,401750434,2025-03-01,baseball,3
-Oklahoma,990000,ffffff,401748533,2025-03-01,baseball,3
-Ole Miss,13294b,cf142b,401748556,2025-03-01,baseball,3
-Oregon,00934b,fff41b,401751072,2025-03-01,baseball,3
-Oregon,00934b,fff41b,401751073,2025-03-01,baseball,3
-Oregon St,000000,NA,401750661,2025-03-01,baseball,3
-Purdue,ceb888,000000,401721460,2025-03-01,basketball,2
-Santa Barbara,000000,NA,401753658,2025-03-01,baseball,3
-Santa Barbara,000000,NA,401759331,2025-03-01,baseball,3
-Southern Miss,ffaa3c,NA,401750788,2025-03-01,baseball,3
-St John's,d10000,101010,401719169,2025-03-01,basketball,2
-TCU,4d1979,ffffff,401750787,2025-03-01,baseball,3
-Tennessee,ff8200,ffffff,401708425,2025-03-01,basketball,2
-Tennessee,ff8200,ffffff,401749984,2025-03-01,baseball,3
-Texas,af5c37,ffffff,401750008,2025-03-01,baseball,3
-Texas Tech,da291c,000000,401725768,2025-03-01,basketball,2
-Troy,843131,NA,401757369,2025-03-01,baseball,3
-UC San Diego,NA,NA,401750683,2025-03-01,baseball,3
-USC,9d2235,ffc72c,401750105,2025-03-01,baseball,3
-Vanderbilt,000000,cfae70,401708426,2025-03-01,basketball,2
-Vanderbilt,000000,cfae70,401750104,2025-03-01,baseball,3
-Virginia,f84c1e,232d4b,401750522,2025-03-01,baseball,3
-Arkansas,a32136,ffffff,401746181,2025-02-28,baseball,3
-Duke,00539b,ffffff,401750294,2025-02-28,baseball,3
-Florida,0021a5,fa4616,401748379,2025-02-28,baseball,3
-Florida St,782f40,ceb888,401750319,2025-02-28,baseball,3
-Georgia,ba0c2f,2c2a29,401748405,2025-02-28,baseball,3
-LSU,461d76,fdd023,401750058,2025-02-28,baseball,3
-Michigan,00274c,ffcb05,401721458,2025-02-28,basketball,2
-Mississippi St,5d1725,c1c6c8,401748451,2025-02-28,baseball,3
-North Carolina,7bafd4,13294b,401750433,2025-02-28,baseball,3
-Oklahoma,990000,ffffff,401748532,2025-02-28,baseball,3
-Ole Miss,13294b,cf142b,401748555,2025-02-28,baseball,3
-Oral Roberts,002955,NA,401761357,2025-02-28,baseball,3
-Oregon,00934b,fff41b,401751071,2025-02-28,baseball,3
-Saint Mary's,d80024,003057,401706754,2025-02-28,basketball,2
-Tennessee,ff8200,ffffff,401749983,2025-02-28,baseball,3
-Troy,843131,NA,401761362,2025-02-28,baseball,3
-UC San Diego,NA,NA,401750681,2025-02-28,baseball,3
-Virginia,f84c1e,232d4b,401750521,2025-02-28,baseball,3
-Wake Forest,ceb888,2c2a29,401750570,2025-02-28,baseb
+Wake Forest,ceb888,2c2a29,401749161,2025-03-07,baseb
