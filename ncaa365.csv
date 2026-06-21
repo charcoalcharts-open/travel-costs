@@ -1,4 +1,12 @@
 team,color,color2,id,date,sport,j
+Oklahoma,990000,ffffff,401874451,2026-06-20,baseball,3
+Georgia,ba0c2f,2c2a29,401874446,2026-06-17,baseball,3
+North Carolina,7bafd4,13294b,401874447,2026-06-17,baseball,3
+Oklahoma,990000,ffffff,401874448,2026-06-17,baseball,3
+West Virginia,eaaa00,002855,401874445,2026-06-16,baseball,3
+Oklahoma,990000,ffffff,401874444,2026-06-15,baseball,3
+Texas,af5c37,ffffff,401874443,2026-06-15,baseball,3
+North Carolina,7bafd4,13294b,401874442,2026-06-14,baseball,3
 Oklahoma,990000,ffffff,401874399,2026-06-13,baseball,3
 North Carolina,7bafd4,13294b,401874398,2026-06-12,baseball,3
 West Virginia,eaaa00,002855,401874397,2026-06-12,baseball,3
@@ -2278,14 +2286,3 @@ South Florida,006747,cfc493,401762522,2025-08-28,football,1
 Iowa State,ae192d,ffc72a,401756846,2025-08-23,football,1
 LSU,461d76,fdd023,401778104,2025-06-22,baseball,3
 LSU,461d76,fdd023,401778103,2025-06-21,baseball,3
-Coastal,59a0a0,NA,401778099,2025-06-18,baseball,3
-LSU,461d76,fdd023,401778100,2025-06-18,baseball,3
-Arkansas,a32136,ffffff,401778097,2025-06-17,baseball,3
-Louisville,c9001f,ffffff,401778096,2025-06-17,baseball,3
-Arkansas,a32136,ffffff,401778094,2025-06-16,baseball,3
-LSU,461d76,fdd023,401778095,2025-06-16,baseball,3
-Coastal,59a0a0,NA,401778093,2025-06-15,baseball,3
-LSU,461d76,fdd023,401778091,2025-06-14,baseball,3
-UCLA,2774ae,f2a900,401778090,2025-06-14,baseball,3
-Coastal,59a0a0,NA,401778068,2025-06-13,baseball,3
-Oregon St,000000,NA,401778069,2025-06-13,baseball,3
