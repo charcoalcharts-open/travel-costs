@@ -1,4 +1,6 @@
 team,color,color2,id,date,sport,j
+Oklahoma,990000,ffffff,401874453,2026-06-22,baseball,3
+North Carolina,7bafd4,13294b,401874452,2026-06-21,baseball,3
 Oklahoma,990000,ffffff,401874451,2026-06-20,baseball,3
 Georgia,ba0c2f,2c2a29,401874446,2026-06-17,baseball,3
 North Carolina,7bafd4,13294b,401874447,2026-06-17,baseball,3
@@ -2284,5 +2286,3 @@ Texas Tech,da291c,000000,401756877,2025-08-30,football,1
 Illinois,ff5f05,13294b,401752795,2025-08-29,football,1
 South Florida,006747,cfc493,401762522,2025-08-28,football,1
 Iowa State,ae192d,ffc72a,401756846,2025-08-23,football,1
-LSU,461d76,fdd023,401778104,2025-06-22,baseball,3
-LSU,461d76,fdd023,401778103,2025-06-21,baseball,3
