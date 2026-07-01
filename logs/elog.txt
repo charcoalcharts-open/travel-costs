@@ -1,3 +1,2 @@
-sportsoc
 sportvenue
 sportmilb
