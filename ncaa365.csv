@@ -1,4 +1,22 @@
 team,color,color2,id,date,sport,j
+Alabama,9e1b32,ffffff,401856634,2026-09-05,football,1
+Georgia,ba0c2f,2c2a29,401856658,2026-09-05,football,1
+Houston,c8102e,ffffff,401856778,2026-09-05,football,1
+Indiana,970310,ffffff,401858425,2026-09-05,football,1
+Iowa,231f20,fcd116,401858426,2026-09-05,football,1
+Miami,f47423,035131,401858206,2026-09-05,football,1
+Michigan,00274c,ffcb05,401858428,2026-09-05,football,1
+Ohio State,ba0c2f,a8adb4,401858432,2026-09-05,football,1
+Oklahoma,990000,ffffff,401856664,2026-09-05,football,1
+Oregon,00934b,fff41b,401858433,2026-09-05,football,1
+Penn State,061440,ffffff,401858434,2026-09-05,football,1
+Tennessee,ff8200,ffffff,401856666,2026-09-05,football,1
+Texas,af5c37,ffffff,401856667,2026-09-05,football,1
+Texas A&M,500000,ffffff,401856668,2026-09-05,football,1
+Texas Tech,da291c,000000,401856770,2026-09-05,football,1
+USC,9d2235,ffc72c,401858436,2026-09-05,football,1
+Missouri,f1b82d,000000,401856663,2026-09-04,football,1
+Utah,be0000,ffffff,401856768,2026-09-04,football,1
 USC,9d2235,ffc72c,401864494,2026-08-29,football,1
 Oklahoma,990000,ffffff,401874453,2026-06-22,baseball,3
 North Carolina,7bafd4,13294b,401874452,2026-06-21,baseball,3
@@ -2264,24 +2282,3 @@ Texas,af5c37,ffffff,401752693,2025-09-06,football,1
 Texas A&M,500000,ffffff,401752694,2025-09-06,football,1
 Texas Tech,da291c,000000,401756885,2025-09-06,football,1
 Utah,be0000,ffffff,401756887,2025-09-06,football,1
-Arizona St,ffc627,8c1d40,401756850,2025-08-31,football,1
-Miami,f47423,035131,401754522,2025-08-31,football,1
-SMU,a80000,0033a1,401754521,2025-08-31,football,1
-South Carolina,73000a,000000,401752680,2025-08-31,football,1
-Florida,0021a5,fa4616,401752668,2025-08-30,football,1
-Florida St,782f40,ceb888,401752665,2025-08-30,football,1
-Georgia,ba0c2f,2c2a29,401752669,2025-08-30,football,1
-Indiana,970310,ffffff,401752806,2025-08-30,football,1
-Iowa State,ae192d,ffc72a,401756853,2025-08-30,football,1
-Kansas St,330a57,e2e3e4,401756855,2025-08-30,football,1
-LSU,461d76,fdd023,401752671,2025-08-30,football,1
-Michigan,00274c,ffcb05,401752808,2025-08-30,football,1
-Ohio State,ba0c2f,a8adb4,401752677,2025-08-30,football,1
-Oklahoma,990000,ffffff,401752675,2025-08-30,football,1
-Ole Miss,13294b,cf142b,401752672,2025-08-30,football,1
-Oregon,00934b,fff41b,401752804,2025-08-30,football,1
-Penn State,061440,ffffff,401752807,2025-08-30,football,1
-Tennessee,ff8200,ffffff,401752676,2025-08-30,football,1
-Texas A&M,500000,ffffff,401752678,2025-08-30,football,1
-Texas Tech,da291c,000000,401756877,2025-08-30,football,1
-Illinois,ff5f05,13294b,401752795,2025-08-29,football,1
