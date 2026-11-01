@@ -1,4 +1,22 @@
 team,color,color2,id,date,sport,j
+Boise St,0033a0,d64309,401860908,2026-11-01,football,1
+BYU,0047ba,002e5d,401856843,2026-10-31,football,1
+Georgia,ba0c2f,2c2a29,401856734,2026-10-31,football,1
+Indiana,970310,ffffff,401858501,2026-10-31,football,1
+Iowa,231f20,fcd116,401858502,2026-10-31,football,1
+Iowa State,ae192d,ffc72a,401856847,2026-10-31,football,1
+Miami,f47423,035131,401858282,2026-10-31,football,1
+Missouri,f1b82d,000000,401856733,2026-10-31,football,1
+Notre Dame,062340,c99700,401859185,2026-10-31,football,1
+Ole Miss,13294b,cf142b,401856735,2026-10-31,football,1
+Oregon,00934b,fff41b,401858505,2026-10-31,football,1
+Syracuse,000e54,ff431b,401858278,2026-10-31,football,1
+Texas,af5c37,ffffff,401856737,2026-10-31,football,1
+Texas Tech,da291c,000000,401856842,2026-10-31,football,1
+UCLA,2774ae,f2a900,401858508,2026-10-31,football,1
+USC,9d2235,ffc72c,401858509,2026-10-31,football,1
+Utah,be0000,ffffff,401856848,2026-10-31,football,1
+Wake Forest,ceb888,2c2a29,401858284,2026-10-31,football,1
 Utah,be0000,ffffff,401856837,2026-10-25,football,1
 Alabama,9e1b32,ffffff,401856727,2026-10-24,football,1
 Arizona,cc0033,003366,401856838,2026-10-24,football,1
@@ -2267,23 +2285,3 @@ Texas Tech,da291c,000000,401756941,2025-11-01,football,1
 USC,9d2235,ffc72c,401752892,2025-11-01,football,1
 Virginia,232d4b,f84c1e,401754576,2025-11-01,football,1
 West Virginia,eaaa00,002855,401756938,2025-11-01,football,1
-Memphis,004991,8e908f,401762497,2025-10-31,football,1
-Houston,c8102e,ffffff,401756929,2025-10-26,football,1
-Alabama,9e1b32,ffffff,401752751,2025-10-25,football,1
-BYU,0047ba,002e5d,401756931,2025-10-25,football,1
-Cincinnati,000000,e00122,401756930,2025-10-25,football,1
-Georgia Tech,b3a369,ffffff,401754571,2025-10-25,football,1
-Indiana,970310,ffffff,401752885,2025-10-25,football,1
-Louisville,c9001f,ffffff,401754570,2025-10-25,football,1
-Memphis,004991,8e908f,401762494,2025-10-25,football,1
-Miami,f47423,035131,401754572,2025-10-25,football,1
-Michigan,00274c,ffcb05,401752881,2025-10-25,football,1
-Ole Miss,13294b,cf142b,401752750,2025-10-25,football,1
-Oregon,00934b,fff41b,401752886,2025-10-25,football,1
-Tennessee,ff8200,ffffff,401752747,2025-10-25,football,1
-Texas,af5c37,ffffff,401752749,2025-10-25,football,1
-Texas A&M,500000,ffffff,401752748,2025-10-25,football,1
-Texas Tech,da291c,000000,401756933,2025-10-25,football,1
-Vanderbilt,000000,cfae70,401752752,2025-10-25,football,1
-Virginia,232d4b,f84c1e,401754573,2025-10-25,football,1
-Washington,33006f,e8d3a2,401752880,2025-10-25,football,1
